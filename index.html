@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>N3 文法 Pinpoint</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f7f7f5;--card:#fff;--tx:#1d1d1f;--mu:#6b6b70;--bd:#e3e3e0;--ok:#1f8a4c;--okb:#e5f5ec;--ng:#c62828;--ngb:#fdeaea;--pin:#b8860b;--pinb:#fff6d6;--ex:#1a5fb4;--exb:#e8f0fc;--ac:#3a3a8c}
+:root[data-theme=dark]{--bg:#121214;--card:#1d1d21;--tx:#ececf0;--mu:#9a9aa3;--bd:#2e2e34;--ok:#5fd38d;--okb:#163223;--ng:#ff7b7b;--ngb:#3a1a1a;--pin:#f2c94c;--pinb:#3a3014;--ex:#7fb0ff;--exb:#172a45;--ac:#a5a5ff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.6 "Noto Sans JP",system-ui,sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--card);border-bottom:1px solid var(--bd);padding:8px 16px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+header b{font-size:18px;margin-right:auto}nav a,button{font:inherit;font-size:14px;padding:6px 10px;border:1px solid var(--bd);border-radius:8px;background:var(--card);color:var(--tx);cursor:pointer;text-decoration:none}
+nav{display:flex;gap:6px;flex-wrap:wrap}nav a.on{background:var(--ac);color:#fff;border-color:var(--ac)}
+main{max-width:860px;margin:0 auto;padding:16px}
+input,select{font:inherit;padding:8px 10px;border:1px solid var(--bd);border-radius:8px;background:var(--card);color:var(--tx);width:100%}
+.row{display:flex;gap:8px;flex-wrap:wrap}.row>*{flex:1;min-width:140px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px 14px;margin:8px 0}
+a.card{display:block;color:inherit;text-decoration:none}.card h3{margin:0;font-size:18px}
+.mu{color:var(--mu);font-size:13px}h2{font-size:17px;margin:20px 0 6px;border-left:4px solid var(--ac);padding-left:8px}
+.badge{display:inline-block;padding:3px 9px;border-radius:999px;margin:3px 4px 3px 0;font-size:14px}
+.ok{background:var(--okb);color:var(--ok)}.ng{background:var(--ngb);color:var(--ng)}
+.pin{background:var(--pinb);border:2px solid var(--pin);border-radius:12px;padding:12px;font-size:18px;font-weight:700}
+.pin small{display:block;color:var(--pin);font-size:12px;letter-spacing:.05em}
+.chip{display:inline-block;border:1px solid var(--pin);color:var(--pin);border-radius:6px;padding:1px 8px;margin:3px;font-size:14px}
+.ex{background:var(--exb);border-left:4px solid var(--ex);border-radius:8px;padding:10px 12px;margin:8px 0}
+.ex .jp{font-size:19px}.ex .en{color:var(--ex)}rt{font-size:.55em;color:var(--mu)}
+.hide-furi rt{visibility:hidden}.hide-ro .ro{display:none}.hide-en .en{display:none}
+table{border-collapse:collapse;width:100%;font-size:14px}td,th{border:1px solid var(--bd);padding:6px;vertical-align:top;text-align:left}
+.cmp{overflow-x:auto}.cmp table{min-width:560px}
+.opt{display:block;width:100%;text-align:left;margin:6px 0;font-size:17px;padding:10px}
+.opt.right{background:var(--okb);border-color:var(--ok)}.opt.wrong{background:var(--ngb);border-color:var(--ng)}
+.flash{min-height:240px;display:flex;flex-direction:column;justify-content:center;text-align:center;cursor:pointer;font-size:22px}
+.bar{height:8px;background:var(--bd);border-radius:4px;overflow:hidden}.bar i{display:block;height:100%;background:var(--ok)}
+.top{display:grid;gap:8px}@media(min-width:700px){.top{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<header><b>N3 文法 Pinpoint</b>
+<nav id="nav"><a href="#/">Chapters</a><a href="#/compare">Compare</a><a href="#/quiz">Practice</a><a href="#/flash">Flashcards</a><a href="#/progress">Progress</a></nav>
+<button id="theme">🌓</button></header>
+<main id="app">Loading…</main>
+<script src="data/patterns.js"></script>
+<script>
+// ---------- data & storage ----------
+let D = window.PATTERN_DATA;
+const $ = s => document.querySelector(s), app = $('#app');
+const store = { get(k, d) { try { return JSON.parse(localStorage.getItem('n3p_' + k)) ?? d } catch { return d } },
+  set(k, v) { try { localStorage.setItem('n3p_' + k, JSON.stringify(v)) } catch {} } };
+let S = { bm: store.get('bm', []), studied: store.get('studied', []), stats: store.get('stats', {}), view: store.get('view', { furi: 1, ro: 0, en: 1 }) };
+const save = () => { store.set('bm', S.bm); store.set('studied', S.studied); store.set('stats', S.stats); store.set('view', S.view) };
+const P = id => D.patterns.find(p => p.id === id), CH = id => D.chapters.find(c => c.id === id);
+const acc = id => { const s = S.stats[id]; return s && s.t ? s.c / s.t : null };
+const weak = id => { const s = S.stats[id]; return s && s.t >= 1 && s.c / s.t < 0.6 };
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+// ---------- furigana / romaji ----------
+// Markup: 漢字{かんじ} = ruby, ^は / ^へ = particle (romaji wa / e)
+const ruby = s => esc(s).replace(/([\u4e00-\u9fff\u3005\u30f6]+)\{([^}]+)\}/g, (m, k, r) => `<ruby>${k}<rt>${r}</rt></ruby>`).replace(/\^/g, '');
+const plain = s => s.replace(/\{[^}]+\}/g, '').replace(/\^/g, '');
+const KR = {あ:'a',い:'i',う:'u',え:'e',お:'o',か:'ka',き:'ki',く:'ku',け:'ke',こ:'ko',さ:'sa',し:'shi',す:'su',せ:'se',そ:'so',た:'ta',ち:'chi',つ:'tsu',て:'te',と:'to',な:'na',に:'ni',ぬ:'nu',ね:'ne',の:'no',は:'ha',ひ:'hi',ふ:'fu',へ:'he',ほ:'ho',ま:'ma',み:'mi',む:'mu',め:'me',も:'mo',や:'ya',ゆ:'yu',よ:'yo',ら:'ra',り:'ri',る:'ru',れ:'re',ろ:'ro',わ:'wa',を:'o',ん:'n',が:'ga',ぎ:'gi',ぐ:'gu',げ:'ge',ご:'go',ざ:'za',じ:'ji',ず:'zu',ぜ:'ze',ぞ:'zo',だ:'da',ぢ:'ji',づ:'zu',で:'de',ど:'do',ば:'ba',び:'bi',ぶ:'bu',べ:'be',ぼ:'bo',ぱ:'pa',ぴ:'pi',ぷ:'pu',ぺ:'pe',ぽ:'po',ぁ:'a',ぃ:'i',ぅ:'u',ぇ:'e',ぉ:'o','。':'. ','、':', ','「':' "','」':'" ','？':'? ','！':'! ','…':'…','～':'~','・':' ','ー':'-'};
+function romaji(s) {
+  let k = s.replace(/[\u4e00-\u9fff\u3005\u30f6]+\{([^}]+)\}/g, '$1').replace(/\^は/g, '\u0001').replace(/\^へ/g, '\u0002')
+    .replace(/[ァ-ヶ]/g, c => String.fromCharCode(c.charCodeAt(0) - 0x60));
+  let o = '';
+  for (let i = 0; i < k.length; i++) {
+    const c = k[i], n = k[i + 1];
+    if (c === '\u0001') { o += ' wa '; continue } if (c === '\u0002') { o += ' e '; continue }
+    if ('ゃゅょ'.includes(n) && KR[c]) { const b = KR[c], y = { ゃ: 'a', ゅ: 'u', ょ: 'o' }[n]; o += /^(shi|chi|ji)$/.test(b) ? b.slice(0, -1) + y : b.slice(0, -1) + 'y' + y; i++; continue }
+    if (c === 'っ') { const nx = KR[n] || ''; o += nx[0] === 'c' ? 't' : (nx[0] || ''); continue }
+    if (c === 'ー') { o += o.slice(-1); continue }
+    o += KR[c] ?? c;
+  }
+  return o.replace(/\s+/g, ' ').trim();
+}
+
+// ---------- views ----------
+function card(p) {
+  const s = S.stats[p.id];
+  return `<a class="card" href="#/p/${p.id}"><h3>${esc(p.pattern)} ${S.bm.includes(p.id) ? '★' : ''}</h3>
+  <div class="mu">${esc(p.meaning)}${s ? ` · quiz ${s.c}/${s.t}` : ''}${S.studied.includes(p.id) ? ' · ✓ studied' : ''}</div>
+  <div style="font-size:14px;margin-top:4px">🎯 ${esc(p.exam_pinpoint)}</div></a>`;
+}
+function home(q = store.get('q', { t: '', ch: '', f: '' })) {
+  const cats = [...new Set(D.patterns.map(p => p.category))].sort();
+  app.innerHTML = `<div class="row"><input id="q" placeholder="Search: 日本語 / romaji / English" value="${esc(q.t)}">
+  <select id="ch"><option value="">All chapters</option>${D.chapters.map(c => `<option value="${c.id}" ${q.ch === c.id ? 'selected' : ''}>${c.no} ${c.title}</option>`).join('')}</select>
+  <select id="f"><option value="">All</option><option value="bm" ${q.f === 'bm' ? 'selected' : ''}>★ Bookmarked</option><option value="weak" ${q.f === 'weak' ? 'selected' : ''}>⚠ Weak</option>${cats.map(c => `<option value="cat:${c}" ${q.f === 'cat:' + c ? 'selected' : ''}>${c}</option>`).join('')}</select></div><div id="list"></div>`;
+  const draw = () => {
+    const t = $('#q').value.trim().toLowerCase(), ch = $('#ch').value, f = $('#f').value;
+    store.set('q', { t, ch, f });
+    const hit = p => (!ch || p.chapter === ch) && (!f || (f === 'bm' ? S.bm.includes(p.id) : f === 'weak' ? weak(p.id) : p.category === f.slice(4))) &&
+      (!t || JSON.stringify([p.pattern, p.meaning, p.clue_words, p.id, p.exam_pinpoint]).toLowerCase().includes(t) || p.examples.some(e => romaji(e.japanese).includes(t)));
+    $('#list').innerHTML = D.chapters.map(c => {
+      const ps = D.patterns.filter(p => p.chapter === c.id && hit(p));
+      return ps.length ? `<h2>${esc(c.part)} · ${esc(c.no)} ${esc(c.title)} <span class="mu">${esc(c.title_en)}</span></h2>${ps.map(card).join('')}` : '';
+    }).join('') || '<p class="mu">No patterns match.</p>';
+  };
+  ['q', 'ch', 'f'].forEach(i => $('#' + i).oninput = draw); draw();
+}
+function exHTML(e) {
+  return `<div class="ex"><div class="jp">${ruby(e.japanese)}</div><div class="ro mu">${esc(romaji(e.japanese))}</div><div class="en">${esc(e.english)}</div>${e.note ? `<div class="mu">💡 ${esc(e.note)}</div>` : ''}</div>`;
+}
+function detail(id) {
+  const p = P(id); if (!p) return home();
+  if (!S.studied.includes(id)) { S.studied.push(id); save() }
+  const c = CH(p.chapter), v = S.view;
+  const form = Array.isArray(p.formation) ? `<table>${p.formation.filter(f => f.form && f.form !== '—').map(f => `<tr><th>${esc(f.type)}</th><td>${esc(f.form)}${f.example ? `<div class="mu">${esc(f.example)}</div>` : ''}</td></tr>`).join('')}</table>` : `<div class="card">${esc(p.formation)}</div>`;
+  app.innerHTML = `<div class="mu"><a href="#/">← Chapters</a> · ${esc(c.no)} ${esc(c.title)} · ${esc(p.category)} · ${esc(p.formality)}</div>
+  <h1 style="font-size:24px;margin:6px 0">${esc(p.pattern)}</h1><div>${esc(p.meaning)}</div>
+  <div class="top" style="margin-top:10px"><div class="pin"><small>🎯 EXAM PINPOINT</small>${esc(p.exam_pinpoint)}</div>
+  <div><div>${p.can_be_used_for.map(x => `<span class="badge ok">✓ ${esc(x)}</span>`).join('')}</div><div>${p.cannot_be_used_for.map(x => `<span class="badge ng">✗ ${esc(x)}</span>`).join('')}</div></div></div>
+  <div class="row" style="margin-top:8px"><button id="bm">${S.bm.includes(id) ? '★ Bookmarked' : '☆ Bookmark'}</button></div>
+  <h2>Formation</h2>${form}${p.connection_notes ? `<p class="mu">${esc(p.connection_notes)}</p>` : ''}
+  <h2>Clue words</h2>${p.clue_words.map(w => `<span class="chip">${esc(w)}</span>`).join('')}
+  <h2>Confusable patterns</h2><div class="cmp"><table><tr><th>Pattern</th><th>Difference</th><th>How to choose</th></tr>${p.confusable_with.map(x => `<tr><td>${esc(x.pattern)}</td><td>${esc(x.difference)}</td><td>${esc(x.how_to_choose)}</td></tr>`).join('')}</table></div>
+  ${p.common_traps?.length ? `<h2>Common traps</h2><ul>${p.common_traps.map(t => `<li>${esc(t)}</li>`).join('')}</ul>` : ''}
+  <h2>Examples</h2><div class="row"><button data-t="furi">Furigana</button><button data-t="ro">Romaji</button><button data-t="en">English</button></div>
+  <div id="exs" class="${v.furi ? '' : 'hide-furi'} ${v.ro ? '' : 'hide-ro'} ${v.en ? '' : 'hide-en'}">${p.examples.map(exHTML).join('')}
+  ${p.more_examples?.length ? `<details><summary class="mu">More book examples (${p.more_examples.length})</summary>${p.more_examples.map(exHTML).join('')}</details>` : ''}</div>
+  ${p.book_explanation ? `<h2>Book explanation</h2><p>${esc(p.book_explanation)}</p>` : ''}
+  <h2>Memory trick</h2><div class="card">🧠 ${esc(p.one_line_memory_trick)}</div>`;
+  $('#bm').onclick = () => { S.bm = S.bm.includes(id) ? S.bm.filter(x => x !== id) : [...S.bm, id]; save(); detail(id) };
+  app.querySelectorAll('[data-t]').forEach(b => b.onclick = () => { const t = b.dataset.t; S.view[t] = S.view[t] ? 0 : 1; save(); $('#exs').classList.toggle('hide-' + t) });
+  scrollTo(0, 0);
+}
+function compare() {
+  const sel = store.get('cmp', ['ba-tara-nara-normal', 'nonara', 'tewa']);
+  const opts = D.patterns.map(p => `<option value="${p.id}">${esc(p.pattern)}</option>`).join('');
+  app.innerHTML = `<h2>Compare 2–4 patterns</h2><div class="row">${[0, 1, 2, 3].map(i => `<select data-i="${i}"><option value="">—</option>${opts}</select>`).join('')}</div><div class="cmp" id="ct"></div>
+  <p class="mu">Quick sets: ${[['うちに vs 間', 'uchini,uchini-b,aida'], ['はず/わけ/限らない', 'hazuganai,wakeganai,towakagiranai,wakedewanai'], ['よう(に)する/ようとする', 'younisuru,youtosuru,kotonisuru'], ['って/という/言われている/とか', 'tte,toiu-hearsay,toiwareteiru,toka-hearsay'], ['べきだった/ばよかった', 'bekidatta,bayokatta'], ['ではなく/というより/だけでなく', 'dewanaku,toiuyori,bakaridenaku']].map(([l, v]) => `<button data-set="${v}">${l}</button>`).join(' ')}</p>`;
+  const ss = app.querySelectorAll('select');
+  const draw = () => {
+    const ids = [...ss].map(s => s.value).filter(Boolean); store.set('cmp', ids);
+    const ps = ids.map(P).filter(Boolean);
+    const row = (l, f) => `<tr><th>${l}</th>${ps.map(p => `<td>${f(p)}</td>`).join('')}</tr>`;
+    $('#ct').innerHTML = ps.length ? `<table>${row('Pattern', p => `<a href="#/p/${p.id}"><b>${esc(p.pattern)}</b></a>`)}${row('Meaning', p => esc(p.meaning))}
+    ${row('🎯 Pinpoint', p => `<b style="color:var(--pin)">${esc(p.exam_pinpoint)}</b>`)}${row('✓ Can', p => p.can_be_used_for.map(x => `<span class="badge ok">${esc(x)}</span>`).join(''))}
+    ${row('✗ Cannot', p => p.cannot_be_used_for.map(x => `<span class="badge ng">${esc(x)}</span>`).join(''))}${row('Clues', p => esc(p.clue_words.join('・')))}
+    ${row('Formation', p => esc(Array.isArray(p.formation) ? p.formation.filter(f => f.form !== '—').map(f => f.type + ': ' + f.form).join(' / ') : p.formation))}
+    ${row('Example', p => ruby(p.examples[0].japanese) + `<div class="mu">${esc(p.examples[0].english)}</div>`)}</table>` : '';
+  };
+  ss.forEach((s, i) => { s.value = sel[i] || ''; s.onchange = draw });
+  app.querySelectorAll('[data-set]').forEach(b => b.onclick = () => { const v = b.dataset.set.split(','); ss.forEach((s, i) => s.value = v[i] || ''); draw() });
+  draw();
+}
+// Practice: blank the pattern inside an example sentence; options from same chapter.
+function stem(p) {
+  return p.pattern.split(/[\/・]/).map(s => s.replace(/\(.*?\)|（.*?）|[～…]|\s.*$/g, '').trim()).filter(s => s.length >= 2).sort((a, b) => b.length - a.length);
+}
+function makeQ(pool) {
+  for (let n = 0; n < 50; n++) {
+    const p = pool[Math.floor(Math.random() * pool.length)], e = p.examples[Math.floor(Math.random() * p.examples.length)];
+    const txt = plain(e.japanese), key = stem(p).find(k => txt.includes(k));
+    // Fallback: ask which pattern matches the exam clue (text before the last →)
+    const q = key ? txt.replace(key, '（　　　）') : p.exam_pinpoint.includes('→') ? '🎯 ' + p.exam_pinpoint.slice(0, p.exam_pinpoint.lastIndexOf('→')).trim() + ' → ?' : null;
+    if (!q) continue;
+    let others = D.patterns.filter(o => o.chapter === p.chapter && o.id !== p.id);
+    if (others.length < 3) others = others.concat(D.patterns.filter(o => o.category === p.category && o.id !== p.id && !others.includes(o)));
+    if (others.length < 3) others = others.concat(D.patterns.filter(o => o.id !== p.id && !others.includes(o)));
+    others = others.sort(() => Math.random() - .5).slice(0, 3);
+    return { p, e, q, opts: [p, ...others].sort(() => Math.random() - .5) };
+  }
+}
+function quiz() {
+  const ch = store.get('qch', ''), f = store.get('qf', '');
+  let pool = D.patterns.filter(p => (!ch || p.chapter === ch) && (f !== 'weak' || weak(p.id)) && (f !== 'bm' || S.bm.includes(p.id)));
+  if (!pool.length) pool = D.patterns;
+  const Q = makeQ(pool);
+  app.innerHTML = `<div class="row"><select id="qch"><option value="">All chapters</option>${D.chapters.map(c => `<option value="${c.id}" ${ch === c.id ? 'selected' : ''}>${c.no} ${c.title}</option>`).join('')}</select>
+  <select id="qf"><option value="">All patterns</option><option value="weak" ${f === 'weak' ? 'selected' : ''}>Weak only</option><option value="bm" ${f === 'bm' ? 'selected' : ''}>Bookmarked only</option></select></div>
+  <div class="card"><div class="mu">つぎの文の（　）に入れるのに最もよいものを選びなさい。</div><div style="font-size:21px;margin:10px 0">${esc(Q.q)}</div>
+  ${Q.opts.map((o, i) => `<button class="opt" data-i="${i}">${i + 1}. ${esc(o.pattern)}</button>`).join('')}<div id="why"></div></div>`;
+  $('#qch').onchange = e => { store.set('qch', e.target.value); quiz() };
+  $('#qf').onchange = e => { store.set('qf', e.target.value); quiz() };
+  app.querySelectorAll('.opt').forEach(b => b.onclick = () => {
+    if ($('#why').innerHTML) return;
+    const pick = Q.opts[b.dataset.i], ok = pick === Q.p, s = S.stats[Q.p.id] ||= { c: 0, t: 0 };
+    s.t++; if (ok) s.c++; save();
+    app.querySelectorAll('.opt').forEach((x, i) => x.classList.add(Q.opts[i] === Q.p ? 'right' : x === b ? 'wrong' : 'x'));
+    $('#why').innerHTML = `<h2>${ok ? '✅ Correct' : '❌ Wrong'}</h2>${exHTML(Q.e)}
+    <div class="pin"><small>WHY ${esc(Q.p.pattern)}</small>${esc(Q.p.exam_pinpoint)}</div>
+    <p class="mu">Clue words: ${esc(Q.p.clue_words.join('・'))}</p>
+    ${Q.opts.filter(o => o !== Q.p).map(o => `<div class="card"><b class="ng" style="background:none">✗ ${esc(o.pattern)}</b><div style="font-size:14px">Used when: ${esc(o.exam_pinpoint)}</div><div class="mu">Cannot: ${esc(o.cannot_be_used_for.join(' / '))}</div></div>`).join('')}
+    <button class="opt" id="next" style="text-align:center">Next ▶</button>`;
+    $('#next').onclick = quiz;
+  });
+}
+function flash() {
+  const ch = store.get('fch', '');
+  const pool = D.patterns.filter(p => !ch || p.chapter === ch);
+  let i = 0, back = false;
+  app.innerHTML = `<select id="fch"><option value="">All chapters</option>${D.chapters.map(c => `<option value="${c.id}" ${ch === c.id ? 'selected' : ''}>${c.no} ${c.title}</option>`).join('')}</select>
+  <div class="card flash" id="fc"></div><div class="row"><button id="pv">◀ Prev</button><button id="sh">🔀 Shuffle</button><button id="nx">Next ▶</button></div>`;
+  const draw = () => {
+    const p = pool[i];
+    $('#fc').innerHTML = back ? `<div style="font-size:16px;text-align:left"><div class="pin"><small>🎯 PINPOINT</small>${esc(p.exam_pinpoint)}</div><div style="margin-top:8px">${p.cannot_be_used_for.map(x => `<span class="badge ng">✗ ${esc(x)}</span>`).join('')}</div><div class="mu">${esc(p.meaning)}</div></div>`
+      : `<div><b>${esc(p.pattern)}</b><div class="mu">${i + 1} / ${pool.length} · tap to flip</div></div>`;
+  };
+  $('#fch').onchange = e => { store.set('fch', e.target.value); flash() };
+  $('#fc').onclick = () => { back = !back; draw() };
+  $('#nx').onclick = () => { i = (i + 1) % pool.length; back = false; draw() };
+  $('#pv').onclick = () => { i = (i - 1 + pool.length) % pool.length; back = false; draw() };
+  $('#sh').onclick = () => { pool.sort(() => Math.random() - .5); i = 0; back = false; draw() };
+  draw();
+}
+function progress() {
+  const t = Object.values(S.stats).reduce((a, s) => [a[0] + s.c, a[1] + s.t], [0, 0]);
+  const weakList = D.patterns.filter(p => weak(p.id));
+  app.innerHTML = `<h2>Overview</h2><div class="card">Studied: <b>${S.studied.length}</b> / ${D.patterns.length} · Quiz accuracy: <b>${t[1] ? Math.round(100 * t[0] / t[1]) : 0}%</b> (${t[0]}/${t[1]}) · Bookmarks: ${S.bm.length}</div>
+  <h2>By chapter</h2>${D.chapters.map(c => { const ps = D.patterns.filter(p => p.chapter === c.id), st = ps.filter(p => S.studied.includes(p.id)).length;
+    return `<div style="margin:6px 0"><div class="mu">${esc(c.no)} ${esc(c.title)} — ${st}/${ps.length}</div><div class="bar"><i style="width:${100 * st / ps.length}%"></i></div></div>` }).join('')}
+  <h2>⚠ Weak patterns (&lt;60%)</h2>${weakList.map(card).join('') || '<p class="mu">None yet — do some practice.</p>'}
+  <p><button id="rs">Reset progress</button></p>`;
+  $('#rs').onclick = () => { if (confirm('Reset all progress?')) { S.bm = []; S.studied = []; S.stats = {}; save(); progress() } };
+}
+// ---------- router & theme ----------
+function route() {
+  const h = location.hash.slice(1) || '/';
+  document.querySelectorAll('nav a').forEach(a => a.classList.toggle('on', a.getAttribute('href') === '#' + h));
+  if (h.startsWith('/p/')) detail(h.slice(3)); else ({ '/compare': compare, '/quiz': quiz, '/flash': flash, '/progress': progress }[h] || home)();
+}
+const th = store.get('theme', matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+document.documentElement.dataset.theme = th;
+$('#theme').onclick = () => { const n = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark'; document.documentElement.dataset.theme = n; store.set('theme', n) };
+// Prefer patterns.json when served over http (so edits show without rebuilding patterns.js)
+(location.protocol.startsWith('http') ? fetch('data/patterns.json').then(r => r.json()).then(d => D = d).catch(() => {}) : Promise.resolve()).then(() => { addEventListener('hashchange', route); route() });
+</script>
+</body>
+</html>

@@ -1,0 +1,168 @@
+{
+  "chapter": { "id": "p1-01", "part": "第1部 文の文法1", "no": "1課", "title": "～とき", "title_en": "Time (when / while)", "book_pages": "16-17" },
+  "patterns": [
+    {
+      "id": "uchini",
+      "pattern": "～うちに (A: before it changes)",
+      "reading": "うちに",
+      "meaning": "While it is still ~ / before ~ changes, (do something)",
+      "category": "Time",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "辞書形 / ている / ない形 + うちに", "example": "溶けないうちに・いるうちに" },
+        { "type": "い-adj", "form": "～い + うちに", "example": "明るいうちに" },
+        { "type": "な-adj", "form": "～な + うちに", "example": "元気なうちに" },
+        { "type": "Noun", "form": "Noun + の + うちに", "example": "学生のうちに" }
+      ],
+      "connection_notes": "Noun + の + うちに / な-adj + な + うちに. Past tense (た形) is NOT used before うちに.",
+      "can_be_used_for": ["Doing something before a state changes", "Speaker's intention / will (～たい・～よう)", "Request / advice (～てください)"],
+      "cannot_be_used_for": ["Past tense before うちに (×行ったうちに)", "A state that will never change"],
+      "exam_pinpoint": "If the first half is a state that WILL CHANGE (明るい・若い・熱い・溶けない) and the second half is a deliberate action → うちに",
+      "clue_words": ["～ないうちに", "明るいうちに", "若いうちに", "熱いうちに", "早く", "しまおう", "一度～てみたい"],
+      "confusable_with": [
+        { "pattern": "～間に", "difference": "間に just marks a time span; うちに(A) stresses 'before the state changes, take the chance'.", "how_to_choose": "If losing the chance is implied (溶けない・暗くならない) → うちに." },
+        { "pattern": "～前に", "difference": "前に is a plain time order; ないうちに adds 'before the bad change happens'.", "how_to_choose": "Negative + うちに when the change is undesirable." }
+      ],
+      "common_traps": ["た形 + うちに is always wrong", "Using うちに with an unchanging fact (日本人のうちに ×)"],
+      "examples": [
+        { "japanese": "日本{にほん}にいるうちに一度{いちど}富士山{ふじさん}に登{のぼ}ってみたい。", "english": "While I'm still in Japan, I want to climb Mt. Fuji once.", "note": "Being in Japan will end → do it before it changes (will: ～たい)." },
+        { "japanese": "溶{と}けないうちに早{はや}く食{た}べてくださいね。", "english": "Please eat it quickly before it melts.", "note": "ないうちに = before the undesirable change; request is OK." }
+      ],
+      "more_examples": [
+        { "japanese": "明{あか}るいうちに庭{にわ}の掃除{そうじ}をしてしまおう。", "english": "Let's finish cleaning the garden while it's still light." }
+      ],
+      "book_explanation": "「～の状態が変わる前に、…する。」～ is the state before the change; … is a deliberate (intentional) action.",
+      "one_line_memory_trick": "うちに(A) = 'while the window is open, jump through it.'"
+    },
+    {
+      "id": "uchini-b",
+      "pattern": "～うちに (B: while ~, a change happened)",
+      "reading": "うちに",
+      "meaning": "While ~ was going on, (something changed without my intent)",
+      "category": "Time",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "辞書形 / ている / ない形 + うちに", "example": "聞いているうちに・重ねるうちに" },
+        { "type": "い-adj", "form": "—", "example": "" },
+        { "type": "な-adj", "form": "—", "example": "" },
+        { "type": "Noun", "form": "—", "example": "" }
+      ],
+      "connection_notes": "Mainly verbs of continuous action (～ている・～ているうちに). The second half is a CHANGE (～なる・～てしまった・～ようになる).",
+      "can_be_used_for": ["Unplanned change during an ongoing action", "Gradual change (～ようになる・～てきた)"],
+      "cannot_be_used_for": ["Speaker's will / intention in the second half", "Request / command", "Non-change states in the second half"],
+      "exam_pinpoint": "If the second half is an UNINTENDED CHANGE (眠ってしまった・～ようになった・暗くなっていた) → ているうちに",
+      "clue_words": ["～ているうちに", "～てしまった", "～ようになる", "いつの間にか", "気がつかないうちに"],
+      "confusable_with": [
+        { "pattern": "～間(に)", "difference": "間に can take an intentional one-time action; うちに(B) takes a natural change.", "how_to_choose": "Change without will (眠る・なる) → うちに; deliberate action at one point → 間に." }
+      ],
+      "common_traps": ["Option with ～よう / ～つもり after うちに(B) is wrong — the change is not intentional"],
+      "examples": [
+        { "japanese": "音楽{おんがく}を聞{き}いているうちに眠{ねむ}ってしまった。", "english": "I fell asleep while listening to music.", "note": "Falling asleep = unintended change → うちに(B)." },
+        { "japanese": "気{き}がつかないうちに外{そと}^は暗{くら}くなっていた。", "english": "Before I noticed, it had gotten dark outside.", "note": "Natural change without the speaker's will." }
+      ],
+      "more_examples": [
+        { "japanese": "少{すこ}し難{むずか}しい曲{きょく}でも、練習{れんしゅう}を重{かさ}ねるうちに弾{ひ}けるようになりますよ。", "english": "Even a slightly difficult piece—you'll be able to play it as you keep practicing." }
+      ],
+      "book_explanation": "「～の状態が続いているときに、…に変わる。」～ is continuous; … is a change not controlled by the speaker.",
+      "one_line_memory_trick": "うちに(B) = 'while I was busy… oops, it changed.'"
+    },
+    {
+      "id": "aida",
+      "pattern": "～間… / ～間に…",
+      "reading": "あいだ / あいだに",
+      "meaning": "間: during the whole time ~ / 間に: at some point during ~",
+      "category": "Time",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "辞書形 / ている / ない形 + 間・間に", "example": "寝ている間に" },
+        { "type": "い-adj", "form": "～い + 間", "example": "若い間" },
+        { "type": "な-adj", "form": "～な + 間", "example": "静かな間に" },
+        { "type": "Noun", "form": "Noun + の + 間・間に", "example": "留守の間に" }
+      ],
+      "connection_notes": "間 (no に) → second half is CONTINUOUS (ずっと～ていた). 間に → second half is a ONE-TIME action or change.",
+      "can_be_used_for": ["間: something continuing for the whole period", "間に: a single event within the period", "Requests (留守の間、～お願いできませんか)"],
+      "cannot_be_used_for": ["間 + one-time action (×間、出かけた)", "間に + continuous state (×間に、ずっと見ていた)"],
+      "exam_pinpoint": "Second half continuous (ずっと・～ていた) → 間 / second half a single event (出かけた・生えた) → 間に",
+      "clue_words": ["ずっと", "～ていた", "留守の間", "昼寝をしている間に", "その間に"],
+      "confusable_with": [
+        { "pattern": "～うちに", "difference": "うちに has the nuance 'before it changes' or 'unintended change'; 間に is neutral time span.", "how_to_choose": "Look for a state that will change/chance-taking → うちに; neutral span → 間に." }
+      ],
+      "common_traps": ["Choosing 間に when the main clause is ずっと～ていた (should be 間)", "Choosing 間 when the main clause is a one-off action"],
+      "examples": [
+        { "japanese": "お母{かあ}さんが昼寝{ひるね}をしている間{あいだ}、子{こ}どもたち^はテレビを見{み}ていた。", "english": "While mother napped, the children watched TV (the whole time).", "note": "Both halves continuous → 間." },
+        { "japanese": "お母{かあ}さんが昼寝{ひるね}をしている間{あいだ}に、子{こ}どもたち^は遊{あそ}びに出{で}かけた。", "english": "While mother was napping, the children went out to play.", "note": "One-time action (出かけた) → 間に." }
+      ],
+      "more_examples": [
+        { "japanese": "わたしが旅行{りょこう}で留守{るす}の間{あいだ}、うちの犬{いぬ}の世話{せわ}をお願{ねが}いできないでしょうか。", "english": "Could I ask you to look after my dog while I'm away on a trip?" },
+        { "japanese": "わたしが旅行{りょこう}で留守{るす}の間{あいだ}に、庭{にわ}に草{くさ}がたくさん生{は}えてしまった。", "english": "While I was away on a trip, lots of weeds grew in the garden." }
+      ],
+      "book_explanation": "間: ～ continuous, … also continuous. 間に: ～ continuous, … is a momentary action or change.",
+      "one_line_memory_trick": "間 = a long line; 間に = a dot on that line."
+    },
+    {
+      "id": "tekaradenaito",
+      "pattern": "～てからでないと… / ～てからでなければ…",
+      "reading": "てからでないと / てからでなければ",
+      "meaning": "Unless/until ~ is done first, … can't happen",
+      "category": "Time",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "て形 + からでないと / からでなければ", "example": "相談してからでないと" },
+        { "type": "い-adj", "form": "—", "example": "" },
+        { "type": "な-adj", "form": "—", "example": "" },
+        { "type": "Noun", "form": "—", "example": "" }
+      ],
+      "connection_notes": "Only verb て形. Second half must be NEGATIVE / impossible (～できない・～てはいけない・無理だ).",
+      "can_be_used_for": ["Necessary precondition", "Prohibition until a condition is met", "Impossibility"],
+      "cannot_be_used_for": ["Positive / possible second half", "Speaker's will (～しよう)"],
+      "exam_pinpoint": "If the second half is negative/impossible (決められない・いけない・無理だ) and the first half is a prerequisite → てからでないと",
+      "clue_words": ["～できない", "～てはいけない", "無理だ", "決められない", "まず"],
+      "confusable_with": [
+        { "pattern": "～てから", "difference": "てから just orders events; てからでないと says the second thing is impossible without the first.", "how_to_choose": "Negative/impossible ending → てからでないと." }
+      ],
+      "common_traps": ["Option with a positive ending (～できる) after てからでないと is wrong"],
+      "examples": [
+        { "japanese": "運転免許{うんてんめんきょ}を取{と}ってからでなければ車{くるま}を運転{うんてん}してはいけない。", "english": "You must not drive until you have a license.", "note": "Prerequisite + prohibition (てはいけない)." },
+        { "japanese": "病気{びょうき}が治{なお}ってからでなければ激{はげ}しい運動{うんどう}^は無理{むり}だ。", "english": "Hard exercise is impossible until you recover.", "note": "Ends in 無理だ (negative)." }
+      ],
+      "more_examples": [
+        { "japanese": "高{たか}い物{もの}なので、家族{かぞく}と相談{そうだん}してからでないと買{か}うかどうか決{き}められませんね。", "english": "It's expensive, so I can't decide whether to buy it until I talk with my family." }
+      ],
+      "book_explanation": "「～の前は…の状態が続く。」… expresses a negative meaning or minus state.",
+      "one_line_memory_trick": "てからでないと = 'Not before ~. No way.'"
+    },
+    {
+      "id": "tokoroda",
+      "pattern": "～ところだ / ～ところ(＋助詞)",
+      "reading": "ところだ / ところを・ところで・ところへ",
+      "meaning": "Just about to ~ / in the middle of ~ / just finished ~",
+      "category": "Time",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb (about to)", "form": "辞書形 + ところだ", "example": "飛び立つところです" },
+        { "type": "Verb (in the middle)", "form": "ている + ところだ", "example": "見ているところを" },
+        { "type": "Verb (just done)", "form": "た形 + ところだ", "example": "始まったところで" },
+        { "type": "Noun / adj", "form": "—", "example": "" }
+      ],
+      "connection_notes": "The particle changes with the following verb: ～ところを見つかる/注意される, ～ところで(電話が鳴った), ～ところへ(帰ってきた).",
+      "can_be_used_for": ["Just before (辞書形)", "In progress (ている)", "Just after (た形)", "Interruption by someone/something"],
+      "cannot_be_used_for": ["Long-past events (×去年食べたところだ)"],
+      "exam_pinpoint": "Choose the particle by the next verb: 見る/注意する/見つかる → ところを; 鳴る/始まる(interrupt) → ところで; 来る/帰る → ところへ",
+      "clue_words": ["間もなく", "ちょうど", "今", "注意された", "見つかった", "帰ってきた", "電話が鳴った"],
+      "confusable_with": [
+        { "pattern": "～たばかりだ", "difference": "たところ = moment right after (objectively); たばかり = subjectively 'only a short time ago' (can be days).", "how_to_choose": "Weeks/days ago with 'still new' feeling → たばかり." }
+      ],
+      "common_traps": ["Using ところへ with a verb that isn't movement/arrival", "Wrong tense before ところ (辞書形 vs た形)"],
+      "examples": [
+        { "japanese": "試験中{しけんちゅう}、となりの人{ひと}の答{こた}えを見{み}ているところを先生{せんせい}に注意{ちゅうい}された。", "english": "During the exam, I was warned by the teacher while looking at my neighbor's answers.", "note": "Caught in the act → ているところを." },
+        { "japanese": "ケーキができ上{あ}がったところへ子{こ}どもたちが帰{かえ}ってきた。", "english": "The kids came home just as the cake was ready.", "note": "Arrival verb 帰ってきた → ところへ." }
+      ],
+      "more_examples": [
+        { "japanese": "ロケット^は間{ま}もなく飛{と}び立{た}つところです。", "english": "The rocket is about to take off." },
+        { "japanese": "楽{たの}しみにしていたテレビドラマが始{はじ}まったところで電話{でんわ}が鳴{な}った。", "english": "The phone rang just as the drama I'd been looking forward to started." }
+      ],
+      "book_explanation": "「～の直前だ・進行中だ・直後だ。」In a sentence, the particle after ところ (を・で・へ) depends on the verb that follows.",
+      "one_line_memory_trick": "ところ = a camera snapshot: before / during / after."
+    }
+  ]
+}

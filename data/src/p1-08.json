@@ -1,0 +1,205 @@
+{
+  "chapter": { "id": "p1-08", "part": "第1部 文の文法1", "no": "8課", "title": "絶対～ない・必ず～とは言えない", "title_en": "Negation (definitely not / not necessarily)", "book_pages": "38-39" },
+  "patterns": [
+    {
+      "id": "hazuganai",
+      "pattern": "～はずがない",
+      "reading": "はずがない",
+      "meaning": "There's no way ~ (logically impossible)",
+      "category": "Negation",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + はずがない", "example": "来ないはずがない" },
+        { "type": "い-adj", "form": "普通形 + はずがない", "example": "易しいはずがない" },
+        { "type": "な-adj", "form": "～な / ～である + はずがない", "example": "暇なはずがない" },
+        { "type": "Noun", "form": "Noun + の / である + はずがない", "example": "休みのはずはありません" }
+      ],
+      "connection_notes": "Noun + の + はず; な-adj + な. Also はずはない / はずはありません.",
+      "can_be_used_for": ["Strong denial based on evidence/reasoning (約束した・確認した)"],
+      "cannot_be_used_for": ["Partial negation ('not necessarily')", "Speaker's own will"],
+      "exam_pinpoint": "Speaker has a GROUND (約束した・電話で確認した・国家試験だ) and denies with confidence → はずがない",
+      "clue_words": ["～んだから", "確認した", "約束した", "～なのだから", "どうしたのかなあ"],
+      "confusable_with": [
+        { "pattern": "～わけがない", "difference": "Same meaning; わけがない is more emotional/subjective and colloquial (わけない).", "how_to_choose": "Both often OK; logic/evidence → はず, emotional rejection → わけ." },
+        { "pattern": "～とは限らない", "difference": "とは限らない = not always (partial).", "how_to_choose": "100% denial → はずがない." },
+        { "pattern": "～ないはずだ", "difference": "ないはずだ = 'should not be' (expectation), weaker.", "how_to_choose": "'No way!' → はずがない." }
+      ],
+      "common_traps": ["Choosing とは限らない when the speaker is 100% sure"],
+      "examples": [
+        { "japanese": "ちゃんと約束{やくそく}したんだから、彼{かれ}が来{こ}ないはずがない。どうしたのかなあ。", "english": "We definitely promised, so there's no way he won't come. I wonder what happened.", "note": "Evidence (約束) → strong denial." },
+        { "japanese": "あの店{みせ}が今日{きょう}休{やす}みのはず^はありません。電話{でんわ}で確認{かくにん}したんですから。", "english": "There's no way that shop is closed today. I checked by phone.", "note": "Noun + の + はず." }
+      ],
+      "more_examples": [
+        { "japanese": "国家試験{こっかしけん}なのだから易{やさ}しいはずがない。がんばらなくて^は……。", "english": "It's a national exam, so it can't be easy. I have to work hard…" }
+      ],
+      "book_explanation": "「絶対～ない。」The speaker denies with strong conviction.",
+      "one_line_memory_trick": "はずがない = detective logic: 'Impossible, Watson.'"
+    },
+    {
+      "id": "wakeganai",
+      "pattern": "～わけがない",
+      "reading": "わけがない",
+      "meaning": "There's no way ~ / of course not ~",
+      "category": "Negation",
+      "formality": "neutral (わけない = casual)",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + わけがない", "example": "買えるわけがない" },
+        { "type": "い-adj", "form": "普通形 + わけがない", "example": "きびしくないわけがない" },
+        { "type": "な-adj", "form": "～な / ～である + わけがない", "example": "簡単なわけがない" },
+        { "type": "Noun", "form": "Noun + の / である + わけがない", "example": "" }
+      ],
+      "connection_notes": "Same connection as はずがない.",
+      "can_be_used_for": ["Strong, emotional denial", "Rhetorical 'of course not'"],
+      "cannot_be_used_for": ["Partial negation", "Polite neutral statements of fact"],
+      "exam_pinpoint": "Emphatic 'no way!' denial, often with こんなに / ～でしょう → わけがない",
+      "clue_words": ["こんなに", "～でしょう", "絶対", "まさか"],
+      "confusable_with": [
+        { "pattern": "～はずがない", "difference": "Near-synonym; はず is more reasoning-based.", "how_to_choose": "Both often correct; check other options." },
+        { "pattern": "～わけではない", "difference": "わけではない = 'it's not that ~' (partial).", "how_to_choose": "がない = total denial; ではない = partial." }
+      ],
+      "common_traps": ["Mixing わけがない (total) and わけではない (partial)"],
+      "examples": [
+        { "japanese": "こんなに大{おお}きい家{いえ}、わたしに買{か}えるわけがないでしょう。", "english": "There's no way I could buy such a big house.", "note": "Emotional total denial." },
+        { "japanese": "試合{しあい}に勝{か}つために練習{れんしゅう}しているのだ。練習{れんしゅう}がきびしくないわけがない。", "english": "We train to win matches. Of course the practice is tough.", "note": "Double negative → 'of course it is'." }
+      ],
+      "more_examples": [],
+      "book_explanation": "「絶対～ない。」The speaker denies with strong conviction.",
+      "one_line_memory_trick": "わけがない = 'No WAY!' (with feeling)."
+    },
+    {
+      "id": "towakagiranai",
+      "pattern": "～とは限らない",
+      "reading": "とはかぎらない",
+      "meaning": "Not necessarily ~ / not always ~",
+      "category": "Negation",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + とは限らない", "example": "知っているとは限らない" },
+        { "type": "い-adj", "form": "普通形 + とは限らない", "example": "質がいいとは限らない" },
+        { "type": "な-adj", "form": "～(だ) + とは限らない", "example": "本当(だ)とは限らない" },
+        { "type": "Noun", "form": "Noun(だ) + とは限らない", "example": "" }
+      ],
+      "connection_notes": "Plain form; だ is optional after な-adj/Noun.",
+      "can_be_used_for": ["Partial negation of a general assumption", "Warning that exceptions exist"],
+      "cannot_be_used_for": ["Total denial ('no way')"],
+      "exam_pinpoint": "みんな / いつも / 必ず / だれでも + the speaker says there are exceptions → とは限らない",
+      "clue_words": ["みんな", "いつも", "必ず", "だれでも", "高いものが", "～からといって"],
+      "confusable_with": [
+        { "pattern": "～わけではない", "difference": "わけではない denies an inference from the situation; とは限らない denies an always-true generalization.", "how_to_choose": "必ず/いつも/みんな → とは限らない." },
+        { "pattern": "～はずがない", "difference": "Total denial.", "how_to_choose": "Exceptions exist → とは限らない." }
+      ],
+      "common_traps": ["Missing 必ず/いつも/みんな clue"],
+      "examples": [
+        { "japanese": "値段{ねだん}が高{たか}いものが必{かなら}ず質{しつ}がいいと^は限{かぎ}らない。", "english": "Expensive things aren't necessarily good quality.", "note": "必ず + exceptions → とは限らない." },
+        { "japanese": "旅行中{りょこうちゅう}にけがをしないと^は限{かぎ}りません。保険{ほけん}に入{はい}っておいたほうがいいですよ。", "english": "You can't be sure you won't get hurt on a trip. Better get insurance.", "note": "Warning: not guaranteed." }
+      ],
+      "more_examples": [
+        { "japanese": "この歌{うた}^は古{ふる}くから歌{うた}われているが、日本人{にほんじん}がみんな知{し}っていると^は限{かぎ}らない。", "english": "This song has been sung for ages, but not every Japanese person knows it." },
+        { "japanese": "新聞{しんぶん}に書{か}いてあることがいつも本当{ほんとう}のこと(だ)と^は限{かぎ}らない。", "english": "What's written in the newspaper isn't always true." }
+      ],
+      "book_explanation": "「必ず～とは断定できない・～ではない場合もある。」Often with みんな・いつも・だれでも・必ず.",
+      "one_line_memory_trick": "とは限らない = 'Not 100%.'"
+    },
+    {
+      "id": "wakedewanai",
+      "pattern": "～わけではない / ～というわけではない / ～のではない",
+      "reading": "わけではない / というわけではない / のではない",
+      "meaning": "It's not that ~ / it doesn't mean ~",
+      "category": "Negation",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + わけではない", "example": "忘れていたわけではありません" },
+        { "type": "い-adj", "form": "普通形 + わけではない", "example": "" },
+        { "type": "な-adj", "form": "～な / ～である + わけではない; ～(だ) + というわけではない; ～な + のではない", "example": "好き(だ)というわけではない" },
+        { "type": "Noun", "form": "Noun の / な / である + わけではない; Noun(だ) + というわけではない; Noun な + のではない", "example": "" }
+      ],
+      "connection_notes": "Three forms with different connections; のではない (casual: んじゃない) negates only part of a statement.",
+      "can_be_used_for": ["Denying what the listener might assume from the situation", "Correcting part of a statement (転勤するのではない、辞めるんです)"],
+      "cannot_be_used_for": ["Total, emotional denial"],
+      "exam_pinpoint": "Speaker corrects a natural ASSUMPTION ('you might think ~, but actually…') → わけではない / のではない",
+      "clue_words": ["～ままでしたが", "～が、", "実は", "～んです", "自分で作ったの"],
+      "confusable_with": [
+        { "pattern": "～わけがない", "difference": "Total denial.", "how_to_choose": "'Not that ~' (partial) → わけではない." },
+        { "pattern": "～とは限らない", "difference": "Against generalizations with 必ず/いつも.", "how_to_choose": "Against an assumption from the situation → わけではない." },
+        { "pattern": "～ではなく", "difference": "ではなく gives the correct alternative in the same sentence.", "how_to_choose": "Structure 'not A but B' mid-sentence → ではなく." }
+      ],
+      "common_traps": ["Choosing わけがない (too strong)"],
+      "examples": [
+        { "japanese": "長{なが}い間{あいだ}本{ほん}をお借{か}りしたままでしたが、忘{わす}れていたわけで^はありません。", "english": "I kept your book for a long time, but it's not that I forgot.", "note": "Denying the natural assumption." },
+        { "japanese": "転勤{てんきん}するので^はありません。会社{かいしゃ}を辞{や}めるんです。", "english": "It's not that I'm being transferred. I'm quitting the company.", "note": "Partial correction → のではない." }
+      ],
+      "more_examples": [
+        { "japanese": "いつでも電話{でんわ}に出{で}られるわけで^はありません。連絡{れんらく}^はメールでお願{ねが}いします。", "english": "I can't always answer the phone. Please contact me by email." },
+        { "japanese": "この仕事{しごと}が好{す}き(だ)というわけで^はないが、彼{かれ}といっしょに仕事{しごと}ができて楽{たの}しい。", "english": "It's not that I like this job, but working with him is fun." },
+        { "japanese": "A「いい帽子{ぼうし}ね。高{たか}かったでしょう。」B「これ^は買{か}ったんじゃないの。自分{じぶん}で作{つく}ったの。」", "english": "A: Nice hat. Was it expensive? B: I didn't buy it. I made it myself." }
+      ],
+      "book_explanation": "「状況から～だと想像されるだろうが、実はそうではない。」Negates only the ～ part.",
+      "one_line_memory_trick": "わけではない = 'It's not like that…' (soft correction)."
+    },
+    {
+      "id": "naikotowanai",
+      "pattern": "～ないことはない",
+      "reading": "ないことはない",
+      "meaning": "It's not that ~ isn't (= it is, somewhat / it's possible)",
+      "category": "Negation",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "ない形 + ことはない", "example": "歩けないことはない" },
+        { "type": "い-adj", "form": "～くない + ことはない", "example": "おいしくないことはない" },
+        { "type": "な-adj", "form": "～でない + ことはない", "example": "心配でないことはない" },
+        { "type": "Noun", "form": "Noun でない + ことはない", "example": "" }
+      ],
+      "connection_notes": "Double negative. Often followed by が / けど + a reservation.",
+      "can_be_used_for": ["Weak, reluctant affirmation", "'Possible, but…'"],
+      "cannot_be_used_for": ["Strong affirmation", "Advice 'no need to' (that is ～ことはない without ない)"],
+      "exam_pinpoint": "Weak yes + reservation (～ないことはないが、かなり時間がかかる) → ないことはない",
+      "clue_words": ["～が、", "けど", "かなり", "もっと", "まあ"],
+      "confusable_with": [
+        { "pattern": "～ことはない (no need)", "difference": "Verb 辞書形 + ことはない = there's no need to.", "how_to_choose": "ない形 before ことはない → weak affirmation." }
+      ],
+      "common_traps": ["Reading it as negative — it's actually a mild YES"],
+      "examples": [
+        { "japanese": "ここから駅{えき}まで歩{ある}けないこと^はありませんが、かなり時間{じかん}がかかりますよ。", "english": "It's not impossible to walk to the station from here, but it takes a long time.", "note": "Weak yes + reservation." },
+        { "japanese": "この店{みせ}のカレーもおいしくないこと^はないが、わたし^はもっと辛{から}いのが好{す}きだ。", "english": "This shop's curry isn't bad, but I like it spicier.", "note": "Mild affirmation." }
+      ],
+      "more_examples": [
+        { "japanese": "試験{しけん}の結果{けっか}が心配{しんぱい}でないこと^はないのですが、今{いま}^は終{お}わってほっとしています。", "english": "It's not that I'm not worried about the results, but right now I'm relieved it's over." }
+      ],
+      "book_explanation": "「絶対～ないとは言えない。」Weakly affirms by negating a negative.",
+      "one_line_memory_trick": "ないことはない = 'not NOT… so, kinda yes.'"
+    },
+    {
+      "id": "kotowa-ga",
+      "pattern": "～ことは～が、…",
+      "reading": "ことは…が",
+      "meaning": "It's true that ~, but …",
+      "category": "Negation",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + ことは + same verb 普通形/丁寧形 + が", "example": "読んだことは読んだが" },
+        { "type": "い-adj", "form": "～い + ことは + ～い + が", "example": "高いことは高いが" },
+        { "type": "な-adj", "form": "～な + ことは + ～だ + が", "example": "大変なことは大変だが" },
+        { "type": "Noun", "form": "—", "example": "" }
+      ],
+      "connection_notes": "The same word is repeated before and after ことは.",
+      "can_be_used_for": ["Admitting a fact then shifting to a more important point"],
+      "cannot_be_used_for": ["Strong emphasis of the first part"],
+      "exam_pinpoint": "Same word repeated around ことは + が → admitting but downplaying",
+      "clue_words": ["～ことは～が", "～んですが", "でも"],
+      "confusable_with": [
+        { "pattern": "～ないことはない", "difference": "Both are mild; ことは～が repeats the same word.", "how_to_choose": "Look for the repeated word." }
+      ],
+      "common_traps": ["Different words before and after ことは"],
+      "examples": [
+        { "japanese": "彼{かれ}からの手紙{てがみ}^は読{よ}んだこと^は読{よ}んだんですが、意味{いみ}がよくわかりませんでした。", "english": "I did read his letter, but I didn't really understand it.", "note": "Admit, then the real point." },
+        { "japanese": "この本{ほん}^は高{たか}いこと^は高{たか}いが、写真{しゃしん}が多{おお}くて楽{たの}しめそうだ。", "english": "This book is expensive, sure, but with lots of photos it looks enjoyable.", "note": "Same adjective repeated." }
+      ],
+      "more_examples": [
+        { "japanese": "わたし^は泳{およ}げること^は泳{およ}げますが、長{なが}い距離{きょり}^はだめなんです。", "english": "I can swim, but not long distances." },
+        { "japanese": "子{こ}どもを育{そだ}てるの^は大変{たいへん}なこと^は大変{たいへん}だが、成長{せいちょう}が楽{たの}しみで大変{たいへん}さを忘{わす}れる。", "english": "Raising kids is hard, true, but watching them grow makes you forget it." }
+      ],
+      "book_explanation": "「確かに～だが、その事実はあまり重要ではなくて、…。」",
+      "one_line_memory_trick": "XことはXが = 'Yes, X… BUT.'"
+    }
+  ]
+}

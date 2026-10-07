@@ -1,0 +1,174 @@
+{
+  "chapter": { "id": "p1-07", "part": "第1部 文の文法1", "no": "7課", "title": "～だそうだ", "title_en": "Reported speech / hearsay", "book_pages": "36-37" },
+  "patterns": [
+    {
+      "id": "toiukotoda",
+      "pattern": "～ということだ / ～とのことだ",
+      "reading": "ということだ / とのことだ",
+      "meaning": "I hear that ~ / (someone said) that ~",
+      "category": "Reported speech",
+      "formality": "formal",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + ということだ / とのことだ", "example": "始まるということです" },
+        { "type": "い-adj", "form": "普通形 + ということだ", "example": "おいしいということだ" },
+        { "type": "な-adj", "form": "普通形(～だ) + ということだ", "example": "元気だということだ" },
+        { "type": "Noun", "form": "普通形(Noun だ) + ということだ", "example": "雨だとのことです" }
+      ],
+      "connection_notes": "Plain form + ということだ. Source often marked with ～によると / ～によれば / ～では. とのことだ is used for passing on a message from a specific person, and in letters (～とのこと、おめでとうございます).",
+      "can_be_used_for": ["Passing on information from a source (more formal than そうだ)", "Relaying a message from a person (とのことだ)", "Letters"],
+      "cannot_be_used_for": ["Speaker's own judgment or guess", "Casual chat (use って)"],
+      "exam_pinpoint": "Source + formal relay (お知らせによれば / 電話がありました / メールによると) → ということだ / とのことだ",
+      "clue_words": ["～によると", "～によれば", "～では", "お知らせ", "電話がありました", "メール", "【手紙】"],
+      "confusable_with": [
+        { "pattern": "～そうだ (hearsay)", "difference": "Same meaning; ということだ is stiffer.", "how_to_choose": "Formal announcement / message → ということだ." },
+        { "pattern": "～って", "difference": "って is casual spoken.", "how_to_choose": "Friends' chat → って." },
+        { "pattern": "～と言われている", "difference": "と言われている = general public opinion, no specific source.", "how_to_choose": "Specific source (news/person) → ということだ." }
+      ],
+      "common_traps": ["Choosing と言われている when there's a specific source like 店の人の話では"],
+      "examples": [
+        { "japanese": "市{し}のお知{し}らせによれば、この道路{どうろ}^は来週{らいしゅう}から工事{こうじ}が始{はじ}まるということです。", "english": "According to the city notice, construction on this road begins next week.", "note": "Source (によれば) + formal relay." },
+        { "japanese": "さっき川村{かわむら}さんから電話{でんわ}がありました。今日{きょう}^は社{しゃ}に戻{もど}れないとのことです。", "english": "Kawamura called a moment ago. They said they can't come back to the office today.", "note": "Relaying a person's message → とのことだ." }
+      ],
+      "more_examples": [
+        { "japanese": "店{みせ}の人{ひと}の話{はなし}で^は、この地方{ちほう}の米{こめ}^はとてもおいしいということだ。", "english": "According to the shopkeeper, the rice from this region is very good." },
+        { "japanese": "メールによると、林{はやし}さん^は来週{らいしゅう}^はとても忙{いそが}しいとのことです。", "english": "According to the email, Hayashi is very busy next week." },
+        { "japanese": "【手紙{てがみ}】新{あたら}しい仕事{しごと}が決{き}まったとのこと、おめでとうございます。", "english": "[Letter] I hear you've found a new job—congratulations." }
+      ],
+      "book_explanation": "「～だそうだ。」A way to pass on acquired info, stiffer than そうだ. Source shown with ～では・～によると・～によれば. とのことだ often when relaying what a person said.",
+      "one_line_memory_trick": "とのこと = the office memo version of 'they said'."
+    },
+    {
+      "id": "toiwareteiru",
+      "pattern": "～と言われている",
+      "reading": "といわれている",
+      "meaning": "It is said that ~ / people say ~",
+      "category": "Reported speech",
+      "formality": "neutral / formal",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + と言われている", "example": "流行すると言われている" },
+        { "type": "い-adj", "form": "普通形 + と言われている", "example": "体にいいと言われている" },
+        { "type": "な-adj", "form": "普通形(～だ) + と言われている", "example": "" },
+        { "type": "Noun", "form": "普通形(Noun だ) + と言われている", "example": "" }
+      ],
+      "connection_notes": "Plain form + と言われている. Often with 昔から / 一般に / 世間では.",
+      "can_be_used_for": ["General opinion / common belief", "Traditional sayings", "Predictions people make"],
+      "cannot_be_used_for": ["Message from one specific person", "Speaker's own opinion"],
+      "exam_pinpoint": "Information that 'everyone / the public' says, no specific speaker (昔から・一般に・今年は…が流行する) → と言われている",
+      "clue_words": ["昔から", "一般に", "世間では", "今年は", "体にいい"],
+      "confusable_with": [
+        { "pattern": "～ということだ", "difference": "ということだ relays info from a particular source.", "how_to_choose": "Public / general belief → と言われている." },
+        { "pattern": "～とか", "difference": "とか = vague rumor I heard.", "how_to_choose": "Widely-held view → と言われている." }
+      ],
+      "common_traps": ["Using と言われている for a phone message from a colleague"],
+      "examples": [
+        { "japanese": "今年{ことし}^は黒{くろ}い服{ふく}が流行{りゅうこう}すると言{い}われている。", "english": "It's said black clothes will be in fashion this year.", "note": "General prediction by people." },
+        { "japanese": "納豆{なっとう}^は体{からだ}にいいと言{い}われている。", "english": "Natto is said to be good for your health.", "note": "Common belief." }
+      ],
+      "more_examples": [
+        { "japanese": "今度{こんど}の大会{たいかい}で^は中川選手{なかがわせんしゅ}が優勝{ゆうしょう}するだろうと言{い}われています。", "english": "It's said that Nakagawa will probably win the next tournament." }
+      ],
+      "book_explanation": "「～と、世間の人たちが言っている。」",
+      "one_line_memory_trick": "と言われている = 'the whole world whispers…'"
+    },
+    {
+      "id": "toka-hearsay",
+      "pattern": "～とか",
+      "reading": "とか",
+      "meaning": "I heard something like ~ (vague hearsay)",
+      "category": "Reported speech",
+      "formality": "casual / neutral",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + とか", "example": "飼っているとか" },
+        { "type": "い-adj", "form": "普通形 + とか", "example": "おいしいとか" },
+        { "type": "な-adj", "form": "普通形(～だ) + とか", "example": "" },
+        { "type": "Noun", "form": "Noun だ + とか", "example": "出張だとか" }
+      ],
+      "connection_notes": "Plain form + とか at the end of a sentence (≠ listing とか).",
+      "can_be_used_for": ["Unconfirmed rumor / vague hearsay", "Friendly small talk (…とか。～ですね)"],
+      "cannot_be_used_for": ["Official, certain information", "Speaker's own experience"],
+      "exam_pinpoint": "Speaker isn't sure, heard it vaguely (rumor) and then comments on it → とか",
+      "clue_words": ["うわさ", "～んですか", "にぎやかでしょうね", "確かじゃないけど"],
+      "confusable_with": [
+        { "pattern": "～って", "difference": "って is casual quote (clear). とか is vaguer.", "how_to_choose": "Vague/unsure rumor → とか." },
+        { "pattern": "～とか～とか (listing)", "difference": "Listing examples.", "how_to_choose": "At sentence end after a clause → hearsay." }
+      ],
+      "common_traps": ["Using とか for a formal announcement"],
+      "examples": [
+        { "japanese": "来月{らいげつ}また出張{しゅっちょう}だとか。今度{こんど}^はどちらに行{い}かれるんですか。", "english": "I hear you have another business trip next month. Where are you going this time?", "note": "Heard vaguely → とか." },
+        { "japanese": "あの店{みせ}のパン^はとてもおいしいとか。今日{きょう}、帰{かえ}りに買{か}って帰{かえ}ります。", "english": "I heard that shop's bread is very good. I'll buy some on my way home today.", "note": "Unconfirmed info." }
+      ],
+      "more_examples": [
+        { "japanese": "お宅{たく}で^はいろいろな動物{どうぶつ}を飼{か}っているとか。にぎやかでしょうね。", "english": "I hear you keep all kinds of animals at home. It must be lively." }
+      ],
+      "book_explanation": "「～と聞いた。」Used for unclear things heard as rumors, etc.",
+      "one_line_memory_trick": "とか = 'something like that, I heard…' 🤷"
+    },
+    {
+      "id": "tte",
+      "pattern": "～って",
+      "reading": "って",
+      "meaning": "(Someone) said ~ / I heard ~ (casual quotation)",
+      "category": "Reported speech",
+      "formality": "casual",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + って", "example": "休むって言ってた" },
+        { "type": "い-adj", "form": "普通形 + って", "example": "" },
+        { "type": "な-adj", "form": "普通形(～だ) + って", "example": "" },
+        { "type": "Noun", "form": "Noun だ + って", "example": "料理の先生だって" }
+      ],
+      "connection_notes": "Casual form of ～と. The verb after it (言っている・聞いた) is often omitted. Can attach directly to a quoted statement (来てくださいって).",
+      "can_be_used_for": ["Casual hearsay", "Quoting someone's words", "Passing on a message among friends"],
+      "cannot_be_used_for": ["Formal writing / business announcements"],
+      "exam_pinpoint": "Casual conversation between friends passing on what someone said → って",
+      "clue_words": ["～君", "～よ", "～んだって", "行ってみようよ", "言ってたよ"],
+      "confusable_with": [
+        { "pattern": "～という", "difference": "という (sentence end) is written and stiff.", "how_to_choose": "Chatty tone → って; written history → という." },
+        { "pattern": "～ということだ", "difference": "Formal relay.", "how_to_choose": "Casual → って." }
+      ],
+      "common_traps": ["Using って in a formal notice"],
+      "examples": [
+        { "japanese": "佐藤{さとう}さんの奥{おく}さん^は料理{りょうり}の先生{せんせい}だって。", "english": "I heard Sato's wife is a cooking teacher.", "note": "Casual hearsay, 聞いた omitted." },
+        { "japanese": "山川君{やまかわくん}、先生{せんせい}が教員室{きょういんしつ}まで来{き}てくださいって。", "english": "Yamakawa, the teacher says to please come to the staff room.", "note": "って attached directly to the quoted words." }
+      ],
+      "more_examples": [
+        { "japanese": "小川{おがわ}さん、今日{きょう}^は休{やす}むって言{い}ってたよ。", "english": "Ogawa said they'd be off today." },
+        { "japanese": "駅前{えきまえ}にタイ料理{りょうり}のレストランができたんだって。行{い}ってみようよ。", "english": "I heard a Thai restaurant opened in front of the station. Let's go try it." }
+      ],
+      "book_explanation": "「～と言っている・～と聞いた。」Casual spoken form of ～と; the following verb is often omitted.",
+      "one_line_memory_trick": "って = the texting version of と言っていた."
+    },
+    {
+      "id": "toiu-hearsay",
+      "pattern": "～という (sentence-final hearsay)",
+      "reading": "という",
+      "meaning": "It is said that ~ (written)",
+      "category": "Reported speech",
+      "formality": "written",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + という", "example": "行われてきたという" },
+        { "type": "い-adj", "form": "普通形 + という", "example": "" },
+        { "type": "な-adj", "form": "普通形(～だ) + という", "example": "" },
+        { "type": "Noun", "form": "普通形(Noun だ) + という", "example": "野原だったという" }
+      ],
+      "connection_notes": "Plain form + という at sentence end. Stiff, written.",
+      "can_be_used_for": ["Legends, history, traditions (written)", "Narration"],
+      "cannot_be_used_for": ["Casual conversation", "Speaker's own experience"],
+      "exam_pinpoint": "Written narration about history/tradition (昔・古くから・～年前に) ending in plain form → という",
+      "clue_words": ["昔", "古くから", "～年前", "伝わった", "この辺りは"],
+      "confusable_with": [
+        { "pattern": "～って", "difference": "Casual.", "how_to_choose": "Written/history → という." },
+        { "pattern": "～と言われている", "difference": "Also general; という is a stiffer narrative ending.", "how_to_choose": "Both possible; という for storytelling style." }
+      ],
+      "common_traps": ["Confusing with Noun という Noun (naming)"],
+      "examples": [
+        { "japanese": "この辺{あた}り^は昔{むかし}、広{ひろ}い野原{のはら}だったという。", "english": "It's said this area was once a wide field.", "note": "History, written style." },
+        { "japanese": "豆腐{とうふ}^は1300年{ねん}ぐらい前{まえ}に中国{ちゅうごく}から日本{にほん}に伝{つた}わったという。", "english": "Tofu is said to have come to Japan from China about 1300 years ago.", "note": "Written narration of history." }
+      ],
+      "more_examples": [
+        { "japanese": "この祭{まつ}り^は村{むら}で古{ふる}くから行{おこな}われてきたという。", "english": "This festival is said to have been held in the village since long ago." }
+      ],
+      "book_explanation": "「～だそうだ。」A slightly stiff written expression.",
+      "one_line_memory_trick": "という (end) = 'Legend has it…'"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "chapter": { "id": "p1-06", "part": "第1部 文の文法1", "no": "6課", "title": "もし、…", "title_en": "Conditionals (if ~)", "book_pages": "32-33" },
+  "patterns": [
+    {
+      "id": "nonara",
+      "pattern": "～(の)なら…",
+      "reading": "(の)なら",
+      "meaning": "If (as you say / as it seems) ~, then …",
+      "category": "Conditionals",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + (の)なら", "example": "使わないなら・読んでしまったのなら" },
+        { "type": "い-adj", "form": "普通形 + (の)なら", "example": "高いなら" },
+        { "type": "な-adj", "form": "～(×だ) + なら / ～である + (の)なら", "example": "暇なら" },
+        { "type": "Noun", "form": "Noun(×だ) + なら / Noun である + (の)なら", "example": "雨なら" }
+      ],
+      "connection_notes": "な-adj and Noun drop だ: 雨なら (NOT 雨のなら).",
+      "can_be_used_for": ["Reacting to info from others or the situation", "Speaker's judgment / will / request / advice in the second half"],
+      "cannot_be_used_for": ["Natural consequence / habit (use と)", "Time-sequence 'after A, B' (use たら)"],
+      "exam_pinpoint": "First half picks up what the OTHER person just said or what you see (その箱、使わないんですか → 使わないなら…) → なら",
+      "clue_words": ["～んですか", "そうか", "～か。", "それなら", "あしたは雨か"],
+      "confusable_with": [
+        { "pattern": "～たら", "difference": "たら: A happens first then B. なら: B can come before A (行くなら、切符を買っておいて).", "how_to_choose": "Second action happens BEFORE the condition → なら." },
+        { "pattern": "～ば", "difference": "ば is general condition; なら reacts to information.", "how_to_choose": "Reacting to someone's words → なら." }
+      ],
+      "common_traps": ["雨のなら ✗ (Noun + なら)"],
+      "examples": [
+        { "japanese": "その箱{はこ}、もう使{つか}わないんですか。使{つか}わないならわたしにください。", "english": "You're not using that box anymore? If not, please give it to me.", "note": "Reacting to info → request." },
+        { "japanese": "ああ、あした^は雨{あめ}か。雨{あめ}ならサイクリングに^は行{い}けそうもないね。", "english": "Oh, rain tomorrow. If it's raining, we probably can't go cycling.", "note": "Info from forecast → judgment. Noun + なら." }
+      ],
+      "more_examples": [
+        { "japanese": "その本{ほん}、読{よ}んでしまったのならわたしに貸{か}してくれませんか。", "english": "If you've finished that book, could you lend it to me?" }
+      ],
+      "book_explanation": "「～という情報を受けて、…。」～ is learned from others' words or the situation; … is the speaker's judgment, will, or request.",
+      "one_line_memory_trick": "なら = 'If THAT's the case (you just told me)…'"
+    },
+    {
+      "id": "tewa",
+      "pattern": "～ては… / ～(の)では…",
+      "reading": "ては / では / のでは",
+      "meaning": "If/given that ~, (then a bad result)",
+      "category": "Conditionals",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "て形 + は / 普通形 + のでは", "example": "行っては・建て始めるのでは" },
+        { "type": "い-adj", "form": "～くて + は", "example": "高くては" },
+        { "type": "な-adj", "form": "～で + は / ～な + のでは", "example": "無責任では" },
+        { "type": "Noun", "form": "Noun + では / Noun な + のでは", "example": "そんな態度では" }
+      ],
+      "connection_notes": "Verb て形 + は; い-adj ～くては; な-adj・Noun ～では; plain form + のでは.",
+      "can_be_used_for": ["Warning", "Complaint", "Negative judgment"],
+      "cannot_be_used_for": ["Speaker's hope or intention", "Request / command", "Positive result"],
+      "exam_pinpoint": "Second half is a BAD result (大変・困る・迷惑・だめ・きらわれる・できない) → ては / では",
+      "clue_words": ["かえって", "迷惑", "困る", "大変でしょう", "きらわれる", "～ない", "だめだ"],
+      "confusable_with": [
+        { "pattern": "～たら", "difference": "たら is neutral and allows good results and requests; ては only allows bad results.", "how_to_choose": "Bad result & no request → ては." },
+        { "pattern": "～ても", "difference": "ても = 'even if' (result unchanged).", "how_to_choose": "Condition causes the bad result → ては." }
+      ],
+      "common_traps": ["Option with a positive result is always wrong", "Option with ～しよう (intention) is always wrong"],
+      "examples": [
+        { "japanese": "山中{やまなか}さん^は手術{しゅじゅつ}したばかりだから、お見舞{みま}いに行{い}って^はかえって迷惑{めいわく}だろう。", "english": "Yamanaka just had surgery, so visiting would only be a bother.", "note": "Bad result 迷惑 → ては." },
+        { "japanese": "そんな無責任{むせきにん}な態度{たいど}で^はみんなにきらわれますよ。", "english": "With such an irresponsible attitude, everyone will dislike you.", "note": "Bad result → では." }
+      ],
+      "more_examples": [
+        { "japanese": "今{いま}から家{いえ}を建{た}て始{はじ}めるので^は年内{ねんない}に^はでき上{あ}がらない。", "english": "If you start building the house now, it won't be finished within the year." }
+      ],
+      "book_explanation": "「～という事実(または仮定の状況)だと、…というよくない結果になる。」… is negative; no hope/intention/requests.",
+      "one_line_memory_trick": "ては = 'if you do that… (uh oh)'"
+    },
+    {
+      "id": "saeba",
+      "pattern": "～さえ～ば… / ～さえ～なら…",
+      "reading": "さえ…ば / さえ…なら",
+      "meaning": "As long as ~ / if only ~, (then …)",
+      "category": "Conditionals",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "Noun さえ + Verb ば形 / Verb ます-stem + さえ + すれば", "example": "漫画さえ読んでいれば・言いさえすれば" },
+        { "type": "い-adj", "form": "Noun さえ + ～ければ", "example": "天気さえよければ" },
+        { "type": "な-adj", "form": "Noun さえ + ～なら", "example": "体さえ丈夫なら" },
+        { "type": "Noun", "form": "Noun さえ + Noun なら", "example": "" }
+      ],
+      "connection_notes": "Verb: ます-stem + さえ + すれば (言いさえすれば); て形 + さえいれば.",
+      "can_be_used_for": ["The minimum condition needed for a result"],
+      "cannot_be_used_for": ["Multiple necessary conditions", "'even' meaning without ば/なら (that is plain さえ)"],
+      "exam_pinpoint": "Only ONE minimal condition is enough for the result (体さえ丈夫なら何でもできる) → さえ～ば",
+      "clue_words": ["だけで", "どんなことにも", "許してくれる", "～さえすれば"],
+      "confusable_with": [
+        { "pattern": "～さえ (even)", "difference": "Alone, さえ = 'even' (子どもさえ知っている).", "how_to_choose": "Followed by ば/なら → minimum condition." },
+        { "pattern": "～だけ", "difference": "だけ = only; さえ～ば = only that is needed.", "how_to_choose": "Condition + result structure → さえ～ば." }
+      ],
+      "common_traps": ["Wrong formation: 言うさえすれば ✗ → 言いさえすれば"],
+      "examples": [
+        { "japanese": "体{からだ}さえ丈夫{じょうぶ}ならどんなことにも挑戦{ちょうせん}できる。", "english": "As long as I'm healthy, I can take on any challenge.", "note": "Minimum condition → result." },
+        { "japanese": "一言{ひとこと}「ごめんなさい。」と言{い}いさえすれば、相手{あいて}^は許{ゆる}してくれるだろう。", "english": "If you just say 'I'm sorry', they'll probably forgive you.", "note": "Verb stem + さえ + すれば." }
+      ],
+      "more_examples": [
+        { "japanese": "太郎{たろう}^は漫画{まんが}さえ読{よ}んでいれば退屈{たいくつ}しないようだ。", "english": "As long as Taro has manga to read, he never seems bored." }
+      ],
+      "book_explanation": "「～が実現すれば、それだけで…が実現する。」Shows the minimum condition necessary for … .",
+      "one_line_memory_trick": "さえ～ば = 'Just this one key opens the door.'"
+    },
+    {
+      "id": "tatoe-temo",
+      "pattern": "たとえ～ても… / たとえ～でも…",
+      "reading": "たとえ…ても / でも",
+      "meaning": "Even if ~, …",
+      "category": "Conditionals",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "たとえ + て形 + も", "example": "たとえ反対されても" },
+        { "type": "い-adj", "form": "たとえ + ～くて + も", "example": "たとえ高くても" },
+        { "type": "な-adj", "form": "たとえ + ～で + も", "example": "たとえ面倒でも" },
+        { "type": "Noun", "form": "たとえ + Noun + でも", "example": "たとえ子どもでも" }
+      ],
+      "connection_notes": "たとえ is paired with ても/でも. Often with どんなに / 何を.",
+      "can_be_used_for": ["Hypothetical concession", "Strong will regardless of conditions", "Advice regardless"],
+      "cannot_be_used_for": ["Normal 'if' conditions (たとえ～ば ✗)"],
+      "exam_pinpoint": "たとえ at the start → the answer must contain ても / でも",
+      "clue_words": ["たとえ", "どんなに", "いくら", "～なければならない", "～たい"],
+      "confusable_with": [
+        { "pattern": "～ても (alone)", "difference": "たとえ only strengthens ても.", "how_to_choose": "たとえ requires ても, not ば/たら." }
+      ],
+      "common_traps": ["たとえ…ば / たとえ…たら ✗"],
+      "examples": [
+        { "japanese": "たとえ周{まわ}りの人{ひと}たちにどんなに反対{はんたい}されても、ぼく^はプロの歌手{かしゅ}になりたい。", "english": "Even if everyone around me opposes it, I want to be a pro singer.", "note": "たとえ + どんなに + ても." },
+        { "japanese": "たとえ面倒{めんどう}でも、健康診断{けんこうしんだん}^は毎年{まいとし}受{う}けたほうがいいですよ。", "english": "Even if it's a hassle, you should get a checkup every year.", "note": "な-adj ～でも." }
+      ],
+      "more_examples": [
+        { "japanese": "たとえ高{たか}くても、仕事{しごと}に必要{ひつよう}なもの^は買{か}わなければならない。", "english": "Even if it's expensive, I must buy what I need for work." }
+      ],
+      "book_explanation": "「～が事実だと仮定した場合でも、それに関係なく…。」",
+      "one_line_memory_trick": "たとえ = 'Even in the worst case — still!'"
+    },
+    {
+      "id": "ba-tara-nara-counterfactual",
+      "pattern": "～ば… / ～たら… / ～なら… (counterfactual)",
+      "reading": "ば / たら / なら (反事実)",
+      "meaning": "If ~ had been the case, … (but in reality it wasn't)",
+      "category": "Conditionals",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "ば形 / なければ / た形 + ら (often ～ていたら)", "example": "あれば・寝坊していたら" },
+        { "type": "い-adj", "form": "～ければ / ～くなければ / ～かったら", "example": "" },
+        { "type": "な-adj", "form": "～なら / ～でなければ / ～だったら", "example": "" },
+        { "type": "Noun", "form": "Noun + なら / でなければ / だったら", "example": "学生なら" }
+      ],
+      "connection_notes": "Verbs are often ～ていたら. The second half often ends with ～た・～のだが・～のに.",
+      "can_be_used_for": ["Hypothetical situations contrary to fact", "Regret (～のに……)", "Relief (～てよかった)"],
+      "cannot_be_used_for": ["Real future conditions (this usage is unreal)"],
+      "exam_pinpoint": "Sentence ends with ～のに / ～のだが / ～た + the fact is the opposite (残念だ・よかった) → counterfactual ば/たら/なら",
+      "clue_words": ["～のに……", "～んだけど……", "残念だ", "間に合ってよかった", "もし"],
+      "confusable_with": [
+        { "pattern": "～ばよかった", "difference": "ばよかった directly expresses regret about one's own action.", "how_to_choose": "Fixed regret 'should have' → ばよかった." }
+      ],
+      "common_traps": ["Second half in plain future (that's a real condition, not counterfactual)"],
+      "examples": [
+        { "japanese": "お金{かね}とひまがあれ^ばわたしも海外旅行{かいがいりょこう}するんだけど……。", "english": "If I had money and time, I'd travel abroad too, but…", "note": "Not true in reality → ～んだけど." },
+        { "japanese": "ああ、残念{ざんねん}だ。学生{がくせい}なら学生割引{がくせいわりびき}でチケットが買{か}えたのに……。", "english": "Ah, too bad. If I were a student, I could have bought a discounted ticket…", "note": "Unreal condition + のに (regret)." }
+      ],
+      "more_examples": [
+        { "japanese": "もし寝坊{ねぼう}していたらこの飛行機{ひこうき}に^は乗{の}れなかった。間{ま}に合{あ}ってよかった。", "english": "If I had overslept I couldn't have caught this flight. Glad I made it." }
+      ],
+      "book_explanation": "「もし～の場合、…という結果になるはずだが、実際にはそうではない。」Both ～ and … differ from reality; … often ends in ～た・～のだが・～のに.",
+      "one_line_memory_trick": "Counterfactual = 'In a parallel world…'"
+    }
+  ]
+}

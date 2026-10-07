@@ -1,0 +1,6268 @@
+{
+ "chapters": [
+  {
+   "id": "p1-01",
+   "part": "第1部 文の文法1",
+   "no": "1課",
+   "title": "～とき",
+   "title_en": "Time (when / while)",
+   "book_pages": "16-17"
+  },
+  {
+   "id": "p1-02",
+   "part": "第1部 文の文法1",
+   "no": "2課",
+   "title": "～と関係して",
+   "title_en": "In relation to ~",
+   "book_pages": "18-19"
+  },
+  {
+   "id": "p1-03",
+   "part": "第1部 文の文法1",
+   "no": "3課",
+   "title": "比べれば…・～がいちばん",
+   "title_en": "Comparison / the best",
+   "book_pages": "22-23"
+  },
+  {
+   "id": "p1-04",
+   "part": "第1部 文の文法1",
+   "no": "4課",
+   "title": "～とは違って",
+   "title_en": "Contrast (unlike ~)",
+   "book_pages": "24-25"
+  },
+  {
+   "id": "p1-05",
+   "part": "第1部 文の文法1",
+   "no": "5課",
+   "title": "～だから",
+   "title_en": "Reason / cause",
+   "book_pages": "30-31"
+  },
+  {
+   "id": "p1-06",
+   "part": "第1部 文の文法1",
+   "no": "6課",
+   "title": "もし、…",
+   "title_en": "Conditionals (if ~)",
+   "book_pages": "32-33"
+  },
+  {
+   "id": "p1-07",
+   "part": "第1部 文の文法1",
+   "no": "7課",
+   "title": "～だそうだ",
+   "title_en": "Reported speech / hearsay",
+   "book_pages": "36-37"
+  },
+  {
+   "id": "p1-08",
+   "part": "第1部 文の文法1",
+   "no": "8課",
+   "title": "絶対～ない・必ず～とは言えない",
+   "title_en": "Negation (definitely not / not necessarily)",
+   "book_pages": "38-39"
+  },
+  {
+   "id": "p1-09",
+   "part": "第1部 文の文法1",
+   "no": "9課",
+   "title": "～と望む",
+   "title_en": "Wishes & hopes"
+  },
+  {
+   "id": "p1-10",
+   "part": "第1部 文の文法1",
+   "no": "10課",
+   "title": "～したほうがいい・～なさい",
+   "title_en": "Advice & commands"
+  },
+  {
+   "id": "p1-11",
+   "part": "第1部 文の文法1",
+   "no": "11課",
+   "title": "～(よ)うと思う",
+   "title_en": "Intention & effort"
+  },
+  {
+   "id": "p1-12",
+   "part": "第1部 文の文法1",
+   "no": "12課",
+   "title": "敬語",
+   "title_en": "Honorific language"
+  },
+  {
+   "id": "sec-A",
+   "part": "文法形式の整理",
+   "no": "A",
+   "title": "いろいろな働きをする助詞",
+   "title_en": "Particles with special functions"
+  },
+  {
+   "id": "sec-B",
+   "part": "文法形式の整理",
+   "no": "B",
+   "title": "助詞のような働きをする言葉",
+   "title_en": "Words that work like particles"
+  },
+  {
+   "id": "sec-C",
+   "part": "文法形式の整理",
+   "no": "C",
+   "title": "「こと・の」の使い方",
+   "title_en": "Uses of こと and の"
+  },
+  {
+   "id": "sec-D",
+   "part": "文法形式の整理",
+   "no": "D",
+   "title": "「よう」のいろいろな使い方",
+   "title_en": "Uses of よう"
+  },
+  {
+   "id": "sec-E",
+   "part": "文法形式の整理",
+   "no": "E",
+   "title": "「わけ」のいろいろな使い方",
+   "title_en": "Uses of わけ"
+  },
+  {
+   "id": "sec-F",
+   "part": "文法形式の整理",
+   "no": "F",
+   "title": "「ばかり」のいろいろな使い方",
+   "title_en": "Uses of ばかり"
+  },
+  {
+   "id": "sec-G",
+   "part": "文法形式の整理",
+   "no": "G",
+   "title": "「する・なる」の整理",
+   "title_en": "する vs なる"
+  },
+  {
+   "id": "sec-H",
+   "part": "文法形式の整理",
+   "no": "H",
+   "title": "「たら・ば・と・なら」の特別な使い方",
+   "title_en": "Special uses of たら・ば・と・なら"
+  },
+  {
+   "id": "sec-I",
+   "part": "文法形式の整理",
+   "no": "I",
+   "title": "後に決まった表現が来る副詞",
+   "title_en": "Adverbs with fixed endings"
+  },
+  {
+   "id": "sec-J",
+   "part": "文法形式の整理",
+   "no": "J",
+   "title": "動詞や名詞の意味を広げる文法形式",
+   "title_en": "Forms that broaden verbs & nouns"
+  },
+  {
+   "id": "p2",
+   "part": "第2部 文の文法2",
+   "no": "1-4課",
+   "title": "文の組み立て",
+   "title_en": "Sentence structure (quote, noun modification, という, fixed forms)"
+  },
+  {
+   "id": "p3",
+   "part": "第3部 文章の文法",
+   "no": "1-2課",
+   "title": "文の始めと終わりの対応・時制",
+   "title_en": "Sentence beginning/end correspondence, tense & ている"
+  },
+  {
+   "id": "extra",
+   "part": "Extra (from your list)",
+   "no": "+",
+   "title": "追加パターン",
+   "title_en": "Extra exam patterns"
+  }
+ ],
+ "patterns": [
+  {
+   "id": "uchini",
+   "pattern": "～うちに (A: before it changes)",
+   "reading": "うちに",
+   "meaning": "While it is still ~ / before ~ changes, (do something)",
+   "category": "Time",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "辞書形 / ている / ない形 + うちに",
+     "example": "溶けないうちに・いるうちに"
+    },
+    {
+     "type": "い-adj",
+     "form": "～い + うちに",
+     "example": "明るいうちに"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な + うちに",
+     "example": "元気なうちに"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + の + うちに",
+     "example": "学生のうちに"
+    }
+   ],
+   "connection_notes": "Noun + の + うちに / な-adj + な + うちに. Past tense (た形) is NOT used before うちに.",
+   "can_be_used_for": [
+    "Doing something before a state changes",
+    "Speaker's intention / will (～たい・～よう)",
+    "Request / advice (～てください)"
+   ],
+   "cannot_be_used_for": [
+    "Past tense before うちに (×行ったうちに)",
+    "A state that will never change"
+   ],
+   "exam_pinpoint": "If the first half is a state that WILL CHANGE (明るい・若い・熱い・溶けない) and the second half is a deliberate action → うちに",
+   "clue_words": [
+    "～ないうちに",
+    "明るいうちに",
+    "若いうちに",
+    "熱いうちに",
+    "早く",
+    "しまおう",
+    "一度～てみたい"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～間に",
+     "difference": "間に just marks a time span; うちに(A) stresses 'before the state changes, take the chance'.",
+     "how_to_choose": "If losing the chance is implied (溶けない・暗くならない) → うちに."
+    },
+    {
+     "pattern": "～前に",
+     "difference": "前に is a plain time order; ないうちに adds 'before the bad change happens'.",
+     "how_to_choose": "Negative + うちに when the change is undesirable."
+    }
+   ],
+   "common_traps": [
+    "た形 + うちに is always wrong",
+    "Using うちに with an unchanging fact (日本人のうちに ×)"
+   ],
+   "examples": [
+    {
+     "japanese": "日本{にほん}にいるうちに一度{いちど}富士山{ふじさん}に登{のぼ}ってみたい。",
+     "english": "While I'm still in Japan, I want to climb Mt. Fuji once.",
+     "note": "Being in Japan will end → do it before it changes (will: ～たい)."
+    },
+    {
+     "japanese": "溶{と}けないうちに早{はや}く食{た}べてくださいね。",
+     "english": "Please eat it quickly before it melts.",
+     "note": "ないうちに = before the undesirable change; request is OK."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "明{あか}るいうちに庭{にわ}の掃除{そうじ}をしてしまおう。",
+     "english": "Let's finish cleaning the garden while it's still light."
+    }
+   ],
+   "book_explanation": "「～の状態が変わる前に、…する。」～ is the state before the change; … is a deliberate (intentional) action.",
+   "one_line_memory_trick": "うちに(A) = 'while the window is open, jump through it.'",
+   "chapter": "p1-01"
+  },
+  {
+   "id": "uchini-b",
+   "pattern": "～うちに (B: while ~, a change happened)",
+   "reading": "うちに",
+   "meaning": "While ~ was going on, (something changed without my intent)",
+   "category": "Time",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "辞書形 / ている / ない形 + うちに",
+     "example": "聞いているうちに・重ねるうちに"
+    },
+    {
+     "type": "い-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "—",
+     "example": ""
+    }
+   ],
+   "connection_notes": "Mainly verbs of continuous action (～ている・～ているうちに). The second half is a CHANGE (～なる・～てしまった・～ようになる).",
+   "can_be_used_for": [
+    "Unplanned change during an ongoing action",
+    "Gradual change (～ようになる・～てきた)"
+   ],
+   "cannot_be_used_for": [
+    "Speaker's will / intention in the second half",
+    "Request / command",
+    "Non-change states in the second half"
+   ],
+   "exam_pinpoint": "If the second half is an UNINTENDED CHANGE (眠ってしまった・～ようになった・暗くなっていた) → ているうちに",
+   "clue_words": [
+    "～ているうちに",
+    "～てしまった",
+    "～ようになる",
+    "いつの間にか",
+    "気がつかないうちに"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～間(に)",
+     "difference": "間に can take an intentional one-time action; うちに(B) takes a natural change.",
+     "how_to_choose": "Change without will (眠る・なる) → うちに; deliberate action at one point → 間に."
+    }
+   ],
+   "common_traps": [
+    "Option with ～よう / ～つもり after うちに(B) is wrong — the change is not intentional"
+   ],
+   "examples": [
+    {
+     "japanese": "音楽{おんがく}を聞{き}いているうちに眠{ねむ}ってしまった。",
+     "english": "I fell asleep while listening to music.",
+     "note": "Falling asleep = unintended change → うちに(B)."
+    },
+    {
+     "japanese": "気{き}がつかないうちに外{そと}^は暗{くら}くなっていた。",
+     "english": "Before I noticed, it had gotten dark outside.",
+     "note": "Natural change without the speaker's will."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "少{すこ}し難{むずか}しい曲{きょく}でも、練習{れんしゅう}を重{かさ}ねるうちに弾{ひ}けるようになりますよ。",
+     "english": "Even a slightly difficult piece—you'll be able to play it as you keep practicing."
+    }
+   ],
+   "book_explanation": "「～の状態が続いているときに、…に変わる。」～ is continuous; … is a change not controlled by the speaker.",
+   "one_line_memory_trick": "うちに(B) = 'while I was busy… oops, it changed.'",
+   "chapter": "p1-01"
+  },
+  {
+   "id": "aida",
+   "pattern": "～間… / ～間に…",
+   "reading": "あいだ / あいだに",
+   "meaning": "間: during the whole time ~ / 間に: at some point during ~",
+   "category": "Time",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "辞書形 / ている / ない形 + 間・間に",
+     "example": "寝ている間に"
+    },
+    {
+     "type": "い-adj",
+     "form": "～い + 間",
+     "example": "若い間"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な + 間",
+     "example": "静かな間に"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + の + 間・間に",
+     "example": "留守の間に"
+    }
+   ],
+   "connection_notes": "間 (no に) → second half is CONTINUOUS (ずっと～ていた). 間に → second half is a ONE-TIME action or change.",
+   "can_be_used_for": [
+    "間: something continuing for the whole period",
+    "間に: a single event within the period",
+    "Requests (留守の間、～お願いできませんか)"
+   ],
+   "cannot_be_used_for": [
+    "間 + one-time action (×間、出かけた)",
+    "間に + continuous state (×間に、ずっと見ていた)"
+   ],
+   "exam_pinpoint": "Second half continuous (ずっと・～ていた) → 間 / second half a single event (出かけた・生えた) → 間に",
+   "clue_words": [
+    "ずっと",
+    "～ていた",
+    "留守の間",
+    "昼寝をしている間に",
+    "その間に"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～うちに",
+     "difference": "うちに has the nuance 'before it changes' or 'unintended change'; 間に is neutral time span.",
+     "how_to_choose": "Look for a state that will change/chance-taking → うちに; neutral span → 間に."
+    }
+   ],
+   "common_traps": [
+    "Choosing 間に when the main clause is ずっと～ていた (should be 間)",
+    "Choosing 間 when the main clause is a one-off action"
+   ],
+   "examples": [
+    {
+     "japanese": "お母{かあ}さんが昼寝{ひるね}をしている間{あいだ}、子{こ}どもたち^はテレビを見{み}ていた。",
+     "english": "While mother napped, the children watched TV (the whole time).",
+     "note": "Both halves continuous → 間."
+    },
+    {
+     "japanese": "お母{かあ}さんが昼寝{ひるね}をしている間{あいだ}に、子{こ}どもたち^は遊{あそ}びに出{で}かけた。",
+     "english": "While mother was napping, the children went out to play.",
+     "note": "One-time action (出かけた) → 間に."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "わたしが旅行{りょこう}で留守{るす}の間{あいだ}、うちの犬{いぬ}の世話{せわ}をお願{ねが}いできないでしょうか。",
+     "english": "Could I ask you to look after my dog while I'm away on a trip?"
+    },
+    {
+     "japanese": "わたしが旅行{りょこう}で留守{るす}の間{あいだ}に、庭{にわ}に草{くさ}がたくさん生{は}えてしまった。",
+     "english": "While I was away on a trip, lots of weeds grew in the garden."
+    }
+   ],
+   "book_explanation": "間: ～ continuous, … also continuous. 間に: ～ continuous, … is a momentary action or change.",
+   "one_line_memory_trick": "間 = a long line; 間に = a dot on that line.",
+   "chapter": "p1-01"
+  },
+  {
+   "id": "tekaradenaito",
+   "pattern": "～てからでないと… / ～てからでなければ…",
+   "reading": "てからでないと / てからでなければ",
+   "meaning": "Unless/until ~ is done first, … can't happen",
+   "category": "Time",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "て形 + からでないと / からでなければ",
+     "example": "相談してからでないと"
+    },
+    {
+     "type": "い-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "—",
+     "example": ""
+    }
+   ],
+   "connection_notes": "Only verb て形. Second half must be NEGATIVE / impossible (～できない・～てはいけない・無理だ).",
+   "can_be_used_for": [
+    "Necessary precondition",
+    "Prohibition until a condition is met",
+    "Impossibility"
+   ],
+   "cannot_be_used_for": [
+    "Positive / possible second half",
+    "Speaker's will (～しよう)"
+   ],
+   "exam_pinpoint": "If the second half is negative/impossible (決められない・いけない・無理だ) and the first half is a prerequisite → てからでないと",
+   "clue_words": [
+    "～できない",
+    "～てはいけない",
+    "無理だ",
+    "決められない",
+    "まず"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～てから",
+     "difference": "てから just orders events; てからでないと says the second thing is impossible without the first.",
+     "how_to_choose": "Negative/impossible ending → てからでないと."
+    }
+   ],
+   "common_traps": [
+    "Option with a positive ending (～できる) after てからでないと is wrong"
+   ],
+   "examples": [
+    {
+     "japanese": "運転免許{うんてんめんきょ}を取{と}ってからでなければ車{くるま}を運転{うんてん}してはいけない。",
+     "english": "You must not drive until you have a license.",
+     "note": "Prerequisite + prohibition (てはいけない)."
+    },
+    {
+     "japanese": "病気{びょうき}が治{なお}ってからでなければ激{はげ}しい運動{うんどう}^は無理{むり}だ。",
+     "english": "Hard exercise is impossible until you recover.",
+     "note": "Ends in 無理だ (negative)."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "高{たか}い物{もの}なので、家族{かぞく}と相談{そうだん}してからでないと買{か}うかどうか決{き}められませんね。",
+     "english": "It's expensive, so I can't decide whether to buy it until I talk with my family."
+    }
+   ],
+   "book_explanation": "「～の前は…の状態が続く。」… expresses a negative meaning or minus state.",
+   "one_line_memory_trick": "てからでないと = 'Not before ~. No way.'",
+   "chapter": "p1-01"
+  },
+  {
+   "id": "tokoroda",
+   "pattern": "～ところだ / ～ところ(＋助詞)",
+   "reading": "ところだ / ところを・ところで・ところへ",
+   "meaning": "Just about to ~ / in the middle of ~ / just finished ~",
+   "category": "Time",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb (about to)",
+     "form": "辞書形 + ところだ",
+     "example": "飛び立つところです"
+    },
+    {
+     "type": "Verb (in the middle)",
+     "form": "ている + ところだ",
+     "example": "見ているところを"
+    },
+    {
+     "type": "Verb (just done)",
+     "form": "た形 + ところだ",
+     "example": "始まったところで"
+    },
+    {
+     "type": "Noun / adj",
+     "form": "—",
+     "example": ""
+    }
+   ],
+   "connection_notes": "The particle changes with the following verb: ～ところを見つかる/注意される, ～ところで(電話が鳴った), ～ところへ(帰ってきた).",
+   "can_be_used_for": [
+    "Just before (辞書形)",
+    "In progress (ている)",
+    "Just after (た形)",
+    "Interruption by someone/something"
+   ],
+   "cannot_be_used_for": [
+    "Long-past events (×去年食べたところだ)"
+   ],
+   "exam_pinpoint": "Choose the particle by the next verb: 見る/注意する/見つかる → ところを; 鳴る/始まる(interrupt) → ところで; 来る/帰る → ところへ",
+   "clue_words": [
+    "間もなく",
+    "ちょうど",
+    "今",
+    "注意された",
+    "見つかった",
+    "帰ってきた",
+    "電話が鳴った"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～たばかりだ",
+     "difference": "たところ = moment right after (objectively); たばかり = subjectively 'only a short time ago' (can be days).",
+     "how_to_choose": "Weeks/days ago with 'still new' feeling → たばかり."
+    }
+   ],
+   "common_traps": [
+    "Using ところへ with a verb that isn't movement/arrival",
+    "Wrong tense before ところ (辞書形 vs た形)"
+   ],
+   "examples": [
+    {
+     "japanese": "試験中{しけんちゅう}、となりの人{ひと}の答{こた}えを見{み}ているところを先生{せんせい}に注意{ちゅうい}された。",
+     "english": "During the exam, I was warned by the teacher while looking at my neighbor's answers.",
+     "note": "Caught in the act → ているところを."
+    },
+    {
+     "japanese": "ケーキができ上{あ}がったところへ子{こ}どもたちが帰{かえ}ってきた。",
+     "english": "The kids came home just as the cake was ready.",
+     "note": "Arrival verb 帰ってきた → ところへ."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "ロケット^は間{ま}もなく飛{と}び立{た}つところです。",
+     "english": "The rocket is about to take off."
+    },
+    {
+     "japanese": "楽{たの}しみにしていたテレビドラマが始{はじ}まったところで電話{でんわ}が鳴{な}った。",
+     "english": "The phone rang just as the drama I'd been looking forward to started."
+    }
+   ],
+   "book_explanation": "「～の直前だ・進行中だ・直後だ。」In a sentence, the particle after ところ (を・で・へ) depends on the verb that follows.",
+   "one_line_memory_trick": "ところ = a camera snapshot: before / during / after.",
+   "chapter": "p1-01"
+  },
+  {
+   "id": "toori",
+   "pattern": "～とおりだ / ～とおり(に) / ～どおりだ / ～どおり(に)",
+   "reading": "とおり / どおり",
+   "meaning": "Exactly as ~ / in the same way as ~",
+   "category": "Relation",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "辞書形 / た形 / てある / ている + とおり(に)",
+     "example": "書いてあるとおり"
+    },
+    {
+     "type": "い-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + の + とおり / Noun + どおり",
+     "example": "説明のとおり・期待どおり"
+    }
+   ],
+   "connection_notes": "Noun + の + とおり, but Noun directly + どおり (期待どおり・予定どおり・計画どおり).",
+   "can_be_used_for": [
+    "Doing something exactly as instructed",
+    "Result matching expectation"
+   ],
+   "cannot_be_used_for": [
+    "Noun + どおり with の (×期待のどおり)",
+    "Comparison of degree"
+   ],
+   "exam_pinpoint": "Something matched a plan / instruction / expectation (教えてもらった・書いてある・予定・期待) → とおり / どおり",
+   "clue_words": [
+    "教えてもらった",
+    "書いてある",
+    "予定",
+    "期待",
+    "思った",
+    "言われた"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ように",
+     "difference": "ように(言う) reports content of a request; とおり means 'in exactly the same way'.",
+     "how_to_choose": "Following/reproducing exactly → とおり."
+    }
+   ],
+   "common_traps": [
+    "Noun + のどおり ✗ / Noun + とおり without の ✗ (check connection)"
+   ],
+   "examples": [
+    {
+     "japanese": "交番{こうばん}で教{おし}えてもらったとおりに歩{ある}いていったので、迷{まよ}わず会場{かいじょう}に着{つ}いた。",
+     "english": "I walked exactly as I was told at the police box, so I reached the venue without getting lost.",
+     "note": "Following directions exactly → とおりに."
+    },
+    {
+     "japanese": "サッカーの試合{しあい}の結果{けっか}^はわたしたちの期待{きたい}どおりだった。",
+     "english": "The result of the soccer match was just as we'd hoped.",
+     "note": "Noun 期待 + どおり (no の)."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "初{はじ}めて作{つく}る料理{りょうり}だから、この本{ほん}に書{か}いてあるとおりのやり方{かた}で作{つく}ってみよう。",
+     "english": "It's my first time making this dish, so I'll make it exactly the way written in this book."
+    }
+   ],
+   "book_explanation": "「～と同じだ。～と同じように…。」",
+   "one_line_memory_trick": "とおり = 'trace the line exactly'.",
+   "chapter": "p1-02"
+  },
+  {
+   "id": "niyotte-variety",
+   "pattern": "～によって… / ～によっては…",
+   "reading": "によって / によっては",
+   "meaning": "Depending on ~ (it varies) / in some ~ cases",
+   "category": "Relation",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "い-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + によって / によっては",
+     "example": "国によって・日によっては"
+    }
+   ],
+   "connection_notes": "によって + variety words (違う・さまざまだ・変わる・異なる). によっては + ONE possible case (～こともある・～かもしれない).",
+   "can_be_used_for": [
+    "Variation (違う・さまざまだ)",
+    "One example among possibilities (によっては～こともある)"
+   ],
+   "cannot_be_used_for": [
+    "A single fixed outcome",
+    "によっては + 違う (use によって)"
+   ],
+   "exam_pinpoint": "Second half 違う / さまざまだ / 変わる → によって; second half こともある / かもしれない → によっては",
+   "clue_words": [
+    "違う",
+    "さまざまだ",
+    "異なる",
+    "変わる",
+    "～こともある",
+    "～かもしれない",
+    "人",
+    "国",
+    "場合"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～によって (cause/means/agent, section B)",
+     "difference": "Section B's によって means 'by/due to'; this one means 'depending on'.",
+     "how_to_choose": "Is there a variety word? → depending on."
+    },
+    {
+     "pattern": "～たびに",
+     "difference": "たびに = every time (same result each time); によって = result varies.",
+     "how_to_choose": "Same each time → たびに; varies → によって."
+    }
+   ],
+   "common_traps": [
+    "によっては with さまざまだ (should be によって)"
+   ],
+   "examples": [
+    {
+     "japanese": "国{くに}によって習慣{しゅうかん}が違{ちが}う。",
+     "english": "Customs differ depending on the country.",
+     "note": "違う = variety → によって."
+    },
+    {
+     "japanese": "わたしの帰宅{きたく}時間{じかん}^は毎日{まいにち}違{ちが}う。日{ひ}によって^は夜中{よなか}になることもある。",
+     "english": "My return time differs every day. On some days it's midnight.",
+     "note": "One case → によっては ～こともある."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "感{かん}じ方{かた}^は人{ひと}によってさまざまだ。",
+     "english": "How people feel varies from person to person."
+    },
+    {
+     "japanese": "場合{ばあい}によって^は今年{ことし}の文化祭{ぶんかさい}^は中止{ちゅうし}になるかもしれない。",
+     "english": "Depending on circumstances, this year's school festival may be cancelled."
+    }
+   ],
+   "book_explanation": "「～が違えば…。」… is something not fixed (さまざまだ・変える). 「～によっては…」 gives one example from various cases.",
+   "one_line_memory_trick": "によって = menu of results; によっては = point to one item.",
+   "chapter": "p1-02"
+  },
+  {
+   "id": "tabini",
+   "pattern": "～たびに…",
+   "reading": "たびに",
+   "meaning": "Every time ~, … (always)",
+   "category": "Relation",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "辞書形 + たびに",
+     "example": "電話をかけるたびに"
+    },
+    {
+     "type": "い-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + の + たびに",
+     "example": "試合のたびに"
+    }
+   ],
+   "connection_notes": "Verb dictionary form or Noun + の. Neither half can be a STATE.",
+   "can_be_used_for": [
+    "Emphasizing that something happens every single time",
+    "Gradual change each time (強くなっていく)"
+   ],
+   "cannot_be_used_for": [
+    "Everyday obvious routines (×朝起きるたびに顔を洗う)",
+    "States (～ある・～だ) in either half"
+   ],
+   "exam_pinpoint": "Repeated event + same notable result each time (大水の害が起こる・聞く・強くなる) → たびに",
+   "clue_words": [
+    "毎回",
+    "いつも",
+    "必ず",
+    "～ていく"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～と (habit)",
+     "difference": "と also covers natural/everyday consequences; たびに emphasizes the repetition and is not used for obvious routines.",
+     "how_to_choose": "Speaker emphasizes 'without fail, every time' → たびに."
+    }
+   ],
+   "common_traps": [
+    "た形 + たびに ✗",
+    "State in the second half ✗"
+   ],
+   "examples": [
+    {
+     "japanese": "この地方{ちほう}^は台風{たいふう}が来{く}るたびに大水{おおみず}の害{がい}が起{お}こる。",
+     "english": "Every time a typhoon comes, this region suffers flood damage.",
+     "note": "Repeated event → same result each time."
+    },
+    {
+     "japanese": "このチーム^は試合{しあい}のたびに強{つよ}くなっていく。",
+     "english": "This team gets stronger with every match.",
+     "note": "Noun + の + たびに; change each time."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "母{はは}^はわたしが電話{でんわ}をかけるたびに、ちゃんとご飯{はん}を食{た}べているかと聞{き}く。",
+     "english": "Every time I call, my mother asks if I'm eating properly."
+    }
+   ],
+   "book_explanation": "「～のとき、毎回同じように…する。」Used to emphasize repetition; not for everyday matter-of-course events. Neither ~ nor … can be a state.",
+   "one_line_memory_trick": "たびに = 'every trip (旅), the same souvenir.'",
+   "chapter": "p1-02"
+  },
+  {
+   "id": "hodo-more",
+   "pattern": "(～ば)～ほど… / (～なら)～ほど… / ～ほど…",
+   "reading": "ばほど / ほど",
+   "meaning": "The more ~, the more …",
+   "category": "Relation",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "(Verb ば形) + Verb 辞書形 + ほど",
+     "example": "増えれば増えるほど"
+    },
+    {
+     "type": "い-adj",
+     "form": "(～ければ) + ～い + ほど",
+     "example": "多ければ多いほど"
+    },
+    {
+     "type": "な-adj",
+     "form": "(～なら) + ～な + ほど",
+     "example": "にぎやかなほど"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + ほど",
+     "example": "忙しい人ほど"
+    }
+   ],
+   "connection_notes": "The same word is repeated: ば形 + 辞書形 + ほど. The ば part may be dropped.",
+   "can_be_used_for": [
+    "Proportional change (the more…the more…)"
+   ],
+   "cannot_be_used_for": [
+    "Single fixed comparison (use より)",
+    "Mismatched words (×増えれば多いほど)"
+   ],
+   "exam_pinpoint": "Same word repeated with ば…ほど, or a rising degree in both halves → ばほど",
+   "clue_words": [
+    "～ば～ほど",
+    "増える",
+    "たつ",
+    "上がる",
+    "～になる"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～くらい / ほど (degree)",
+     "difference": "Degree ほど compares to an example (泣きたいほど); ばほど shows proportional change.",
+     "how_to_choose": "Look for the repeated ば形 → ばほど."
+    }
+   ],
+   "common_traps": [
+    "Not repeating the same verb/adjective",
+    "Using た形 before ほど"
+   ],
+   "examples": [
+    {
+     "japanese": "物{もの}が増{ふ}えれば増{ふ}えるほど整理{せいり}が大変{たいへん}になる。",
+     "english": "The more things increase, the harder it is to organize.",
+     "note": "Same verb repeated: 増えれば増えるほど."
+    },
+    {
+     "japanese": "忙{いそが}しい人{ひと}ほど時間{じかん}の使{つか}い方{かた}が上手{じょうず}だ。",
+     "english": "The busier a person is, the better they use their time.",
+     "note": "Short form: Noun + ほど."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "本当{ほんとう}にいい家具{かぐ}^は時間{じかん}がたつほど価値{かち}が上{あ}がる。",
+     "english": "Truly good furniture increases in value as time passes."
+    },
+    {
+     "japanese": "休{やす}みの日{ひ}^は多{おお}ければ多{おお}いほどうれしい。",
+     "english": "The more days off, the happier I am."
+    },
+    {
+     "japanese": "町{まち}がにぎやかなほど商店{しょうてん}で^は物{もの}がよく売{う}れるのだ。",
+     "english": "The livelier the town, the better shops sell."
+    }
+   ],
+   "book_explanation": "「～の程度が進めば、その分…の程度も進む。」",
+   "one_line_memory_trick": "ばほど = a seesaw: one goes up, the other goes up.",
+   "chapter": "p1-02"
+  },
+  {
+   "id": "tsuideni",
+   "pattern": "～ついでに…",
+   "reading": "ついでに",
+   "meaning": "While doing ~ (taking the opportunity), also do …",
+   "category": "Relation",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "辞書形 / た形 + ついでに",
+     "example": "掃除をするついでに・注文したついでに"
+    },
+    {
+     "type": "い-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "Noun(する-noun) + の + ついでに",
+     "example": "散歩のついでに"
+    }
+   ],
+   "connection_notes": "する-noun + の (散歩のついでに). ～ is the main action; … is an extra intentional action.",
+   "can_be_used_for": [
+    "Doing an extra task using the opportunity",
+    "Requests (～てきて)",
+    "Intention (～しよう)"
+   ],
+   "cannot_be_used_for": [
+    "Unintentional happenings in the second half",
+    "Two unrelated simultaneous states"
+   ],
+   "exam_pinpoint": "Main purpose + an extra small errand done 'while you're at it' → ついでに",
+   "clue_words": [
+    "散歩",
+    "買い物",
+    "出かける",
+    "～てきて",
+    "も"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ながら",
+     "difference": "ながら = two actions literally at the same time; ついでに = using the occasion of one to do another.",
+     "how_to_choose": "Errand added to a trip/action → ついでに."
+    }
+   ],
+   "common_traps": [
+    "Second half not intentional (×ついでに雨が降った)"
+   ],
+   "examples": [
+    {
+     "japanese": "散歩{さんぽ}のついでにこのはがきをポストに出{だ}してきて。",
+     "english": "While you're out for a walk, please post this postcard.",
+     "note": "Main action 散歩 + extra errand."
+    },
+    {
+     "japanese": "玄関{げんかん}の掃除{そうじ}をするついでに靴{くつ}の整理{せいり}をしよう。",
+     "english": "While cleaning the entrance, I'll sort out the shoes too.",
+     "note": "Intentional extra action."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "インターネットで本{ほん}を注文{ちゅうもん}したついでに新{あたら}しく出{で}たDVDも調{しら}べた。",
+     "english": "When I ordered a book online, I also looked up a newly released DVD."
+    }
+   ],
+   "book_explanation": "「～するとき、その機会を利用して…もする。」～ is the original action; … is an added purposeful action.",
+   "one_line_memory_trick": "ついでに = 'while I'm at it…'",
+   "chapter": "p1-02"
+  },
+  {
+   "id": "kurai-hodo",
+   "pattern": "～くらいだ / ～ぐらいだ / ～くらい… / ～ほどだ / ～ほど…",
+   "reading": "くらい / ぐらい / ほど",
+   "meaning": "To the extent that ~ / so … that ~",
+   "category": "Comparison / Degree",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + くらい / ほど",
+     "example": "食べたいくらいだ・倒れるかと思うほど"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + くらい / ほど",
+     "example": "痛いくらい"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な + くらい / ほど",
+     "example": "きれいなほど"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + くらい / ほど",
+     "example": "台風ぐらいの風"
+    }
+   ],
+   "connection_notes": "な-adj keeps な (×きれいだくらい). Often ～かと思うくらい / ～かと思うほど.",
+   "can_be_used_for": [
+    "Emphasizing degree with a comparison/example",
+    "Hypothetical illustration (didn't really happen)"
+   ],
+   "cannot_be_used_for": [
+    "Exact quantity comparison as a fact"
+   ],
+   "exam_pinpoint": "An exaggerated example illustrating a degree (毎日食べたい・折れそう・倒れるかと思う) → くらい / ほど",
+   "clue_words": [
+    "～かと思う",
+    "～そうな",
+    "～たい",
+    "立っていられない",
+    "泣きたい"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～くらい…はない",
+     "difference": "That pattern = 'nothing is as ~ as X' (the most).",
+     "how_to_choose": "Ends in はない/いない → the 'most' pattern."
+    },
+    {
+     "pattern": "～ばかり",
+     "difference": "ばかり = 'only'; くらい = 'to the extent'.",
+     "how_to_choose": "Degree illustration → くらい."
+    }
+   ],
+   "common_traps": [
+    "ほど cannot be used for 'at least' minimal degree (くらい can: 挨拶くらいしなさい)"
+   ],
+   "examples": [
+    {
+     "japanese": "この店{みせ}のパン^はおいしい。毎日{まいにち}食{た}べたいくらいだ。",
+     "english": "This shop's bread is delicious—so good I'd eat it every day.",
+     "note": "Example illustrates the degree of おいしい."
+    },
+    {
+     "japanese": "さっき地震{じしん}があった。本{ほん}だなが倒{たお}れるかと思{おも}うほど激{はげ}しく揺{ゆ}れた。",
+     "english": "There was an earthquake—it shook so hard I thought the bookshelf would fall.",
+     "note": "～かと思うほど = imagined extreme."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "よう子{こ}さんの腕{うで}^は折{お}れそうなくらい細{ほそ}い。",
+     "english": "Yoko's arms are so thin they look like they could break."
+    },
+    {
+     "japanese": "天気予報{てんきよほう}によると、今日{きょう}^は台風{たいふう}ぐらいの風{かぜ}が吹{ふ}くそうだ。",
+     "english": "According to the forecast, there'll be typhoon-level wind today."
+    },
+    {
+     "japanese": "かさをさすほどで^はないが、少{すこ}し雨{あめ}が降{ふ}っている。",
+     "english": "It's not enough to need an umbrella, but it's raining a little."
+    },
+    {
+     "japanese": "突然{とつぜん}立{た}っていられないほどの痛{いた}みを背中{せなか}に感{かん}じた。",
+     "english": "Suddenly I felt a pain in my back so bad I couldn't stand."
+    }
+   ],
+   "book_explanation": "「～と同じ程度だ・～と同じ程度に…。」Used to show the strength of a degree by likening it to some situation.",
+   "one_line_memory_trick": "くらい/ほど = 'so much that (picture this)…'",
+   "chapter": "p1-03"
+  },
+  {
+   "id": "kurai-wanai",
+   "pattern": "～くらい…はない / ～ぐらい…はない / ～ほど…はない",
+   "reading": "くらい…はない / ほど…はない",
+   "meaning": "Nothing/no one is as … as ~ (= ~ is the most …)",
+   "category": "Comparison / Degree",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "Verb 辞書形 + こと + くらい/ほど",
+     "example": "料理を作ることぐらい"
+    },
+    {
+     "type": "い-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + くらい / ぐらい / ほど …はない",
+     "example": "テストほどいやなものはない"
+    }
+   ],
+   "connection_notes": "Noun + くらい/ほど + adjective + Noun(人・もの・こと) + はない/いない.",
+   "can_be_used_for": [
+    "Speaker's subjective 'the most'"
+   ],
+   "cannot_be_used_for": [
+    "Objective, verifiable facts (×富士山ほど高い山は日本にない is odd in the exam sense)"
+   ],
+   "exam_pinpoint": "Sentence ends with ～はない / ～はいない and expresses the speaker's feeling 'the most' → くらい/ほど…はない",
+   "clue_words": [
+    "～はない",
+    "～はいない",
+    "～ことはない",
+    "～ものはない"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～がいちばん",
+     "difference": "Same meaning, but くらい…はない is subjective and emphatic.",
+     "how_to_choose": "Look for はない at the end."
+    }
+   ],
+   "common_traps": [
+    "Forgetting the ending must be negative (はない)"
+   ],
+   "examples": [
+    {
+     "japanese": "リーさんぐらい動物{どうぶつ}好{ず}きな人{ひと}^はいない。",
+     "english": "No one loves animals as much as Lee.",
+     "note": "Ends in いない → 'the most'."
+    },
+    {
+     "japanese": "ああ、あしたも漢字{かんじ}のテストがある。テストほどいやなもの^はない。",
+     "english": "Ugh, another kanji test tomorrow. Nothing is as awful as tests.",
+     "note": "Subjective feeling → ほど…はない."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "わたし^は料理{りょうり}を作{つく}ることぐらい楽{たの}しいこと^はないと思{おも}っています。",
+     "english": "I think nothing is as fun as cooking."
+    },
+    {
+     "japanese": "2年前{ねんまえ}に病気{びょうき}だとわかったときほど不安{ふあん}になったこと^はない。",
+     "english": "I've never been as anxious as when I learned I was ill two years ago."
+    }
+   ],
+   "book_explanation": "「～がいちばん…。」Not an objective fact but the speaker's subjective judgment.",
+   "one_line_memory_trick": "X ほど…はない = 'X is No.1 (in my heart)'.",
+   "chapter": "p1-03"
+  },
+  {
+   "id": "kurainara",
+   "pattern": "～くらいなら… / ～ぐらいなら…",
+   "reading": "くらいなら",
+   "meaning": "If (it comes to) ~, I'd rather …",
+   "category": "Comparison / Degree",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "辞書形 + くらいなら",
+     "example": "弁当を作るくらいなら"
+    },
+    {
+     "type": "い-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "—",
+     "example": ""
+    }
+   ],
+   "connection_notes": "Verb dictionary form only. Second half: ～方がいい・～でいい・～たい・～かまわない.",
+   "can_be_used_for": [
+    "Choosing the lesser evil",
+    "Speaker's preference"
+   ],
+   "cannot_be_used_for": [
+    "Objective facts",
+    "Positive first half that the speaker wants"
+   ],
+   "exam_pinpoint": "First half is something unpleasant; second half says another option is better (～方がいい・～でいい・かまわない) → くらいなら",
+   "clue_words": [
+    "～ほうがいい",
+    "～でいい",
+    "～ままでいい",
+    "かまわない",
+    "がまんする"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～なら",
+     "difference": "なら is a neutral condition; くらいなら says the first option is so bad that anything else is better.",
+     "how_to_choose": "Unwanted option vs. better alternative → くらいなら."
+    }
+   ],
+   "common_traps": [
+    "Second half that is not a preference/alternative"
+   ],
+   "examples": [
+    {
+     "japanese": "毎朝{まいあさ}自分{じぶん}で弁当{べんとう}を作{つく}るくらいなら、コンビニ弁当{べんとう}でいい。",
+     "english": "If I have to make lunch myself every morning, I'm fine with convenience-store bento.",
+     "note": "Unpleasant option → better alternative (でいい)."
+    },
+    {
+     "japanese": "30分{ぷん}も遅{おく}れて説明会{せつめいかい}に行{い}くくらいなら、参加{さんか}しないほうがいい。",
+     "english": "Rather than arrive 30 minutes late to the briefing, it's better not to go.",
+     "note": "～ほうがいい ending."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "気{き}が合{あ}わない人{ひと}といっしょに生活{せいかつ}するぐらいなら、このまま独身{どくしん}でいたい。",
+     "english": "Rather than live with someone I don't get along with, I'd stay single."
+    },
+    {
+     "japanese": "やせるために好{す}きなケーキをがまんするくらいなら、今{いま}の体型{たいけい}のままでかまわない。",
+     "english": "If losing weight means giving up cake, I'm fine with my current figure."
+    }
+   ],
+   "book_explanation": "「～というよくない状況に比べれば、…の方が少しはいい。」A subjective judgment of the speaker.",
+   "one_line_memory_trick": "くらいなら = 'If THAT's the price, no thanks — I'll take the other.'",
+   "chapter": "p1-03"
+  },
+  {
+   "id": "nikagiru",
+   "pattern": "～に限る",
+   "reading": "にかぎる",
+   "meaning": "~ is the best (way/thing)",
+   "category": "Comparison / Degree",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "辞書形 / ない形 + に限る",
+     "example": "映画館で見るに限る・行かないに限る"
+    },
+    {
+     "type": "い-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + に限る",
+     "example": "夏はビールに限る"
+    }
+   ],
+   "connection_notes": "Verb 辞書形/ない形 or Noun. Subjective opinion only.",
+   "can_be_used_for": [
+    "Speaker's subjective best choice / best method"
+   ],
+   "cannot_be_used_for": [
+    "Objective facts",
+    "Others' opinions as fact"
+   ],
+   "exam_pinpoint": "Speaker recommends the best way (やっぱり～は…に限る) → に限る",
+   "clue_words": [
+    "やっぱり",
+    "～なら",
+    "～ときは"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～に限らず / ～に限って",
+     "difference": "Different meanings (not only / only in that case).",
+     "how_to_choose": "Sentence-final 'is the best' → に限る."
+    }
+   ],
+   "common_traps": [
+    "Using に限る for objective statistics"
+   ],
+   "examples": [
+    {
+     "japanese": "やっぱり映画{えいが}^は映画館{えいがかん}で見{み}るに限{かぎ}る。",
+     "english": "After all, movies are best seen in a theater.",
+     "note": "Subjective 'best way'."
+    },
+    {
+     "japanese": "かぜがはやっているとき^は、人{ひと}が多{おお}い所{ところ}に^は行{い}かないに限{かぎ}る。",
+     "english": "When colds are going around, it's best not to go to crowded places.",
+     "note": "ない形 + に限る."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "湖{みずうみ}の写真{しゃしん}を撮{と}るならこの場所{ばしょ}に限{かぎ}ります。すてきな写真{しゃしん}が撮{と}れますよ。",
+     "english": "If you're photographing the lake, this spot is the best. You'll get lovely photos."
+    }
+   ],
+   "book_explanation": "「～がいちばんいい・～がいちばんいい方法だ。」Subjective judgment of the speaker.",
+   "one_line_memory_trick": "に限る = 'limited to this — nothing beats it.'",
+   "chapter": "p1-03"
+  },
+  {
+   "id": "nitaishite-contrast",
+   "pattern": "～に対して… (contrast)",
+   "reading": "にたいして",
+   "meaning": "In contrast to ~, …",
+   "category": "Contrast",
+   "formality": "neutral / written",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + の + に対して",
+     "example": "飲みに行くのに対して"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + の + に対して",
+     "example": "高いのに対して"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な / ～である + の + に対して",
+     "example": "静かなのに対して"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + に対して / Noun な・である + のに対して",
+     "example": "長男に対して・大雨だったのに対して"
+    }
+   ],
+   "connection_notes": "Clause + の + に対して. な-adj / Noun: ～なのに対して or ～であるのに対して (NOT ～だのに).",
+   "can_be_used_for": [
+    "Clear contrast of two things (A vs B)"
+   ],
+   "cannot_be_used_for": [
+    "Two sides of ONE thing (use 反面)",
+    "Target of action/feeling (that is section B's に対して)"
+   ],
+   "exam_pinpoint": "Two DIFFERENT subjects contrasted (大阪 vs 東京, 女性 vs 男性, 長男 vs 次男) → に対して",
+   "clue_words": [
+    "一方",
+    "は…、は…",
+    "男性 / 女性",
+    "長男 / 次男",
+    "～のに対して"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～反面",
+     "difference": "反面 shows two sides of the SAME thing; に対して contrasts two different things.",
+     "how_to_choose": "One topic with good/bad sides → 反面; two different topics → に対して."
+    },
+    {
+     "pattern": "～に対して (target, B)",
+     "difference": "Target usage: 先生に対して失礼だ (towards).",
+     "how_to_choose": "Is there an A-vs-B contrast? → contrast usage."
+    }
+   ],
+   "common_traps": [
+    "Missing の after a clause (×行くに対して)"
+   ],
+   "examples": [
+    {
+     "japanese": "きのう^は大阪{おおさか}で^は大雨{おおあめ}だったのに対{たい}して、東京{とうきょう}^はいい天気{てんき}だった。",
+     "english": "Yesterday Osaka had heavy rain, whereas Tokyo had nice weather.",
+     "note": "Two places contrasted."
+    },
+    {
+     "japanese": "外遊{そとあそ}びが好{す}きな長男{ちょうなん}に対{たい}して、次男{じなん}^は家{いえ}の中{なか}で遊{あそ}ぶことが好{す}きだ。",
+     "english": "Unlike the eldest son who loves playing outside, the second son likes playing indoors.",
+     "note": "Noun + に対して, two people contrasted."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "うちの課{か}^は女性{じょせい}がよく飲{の}みに行{い}くのに対{たい}して、男性{だんせい}^は皆{みな}まっすぐ家{いえ}に帰{かえ}る。",
+     "english": "In our section, the women often go drinking, while the men all go straight home."
+    }
+   ],
+   "book_explanation": "「～と対比的に…。」Used to clearly show the difference between two things (～ and …).",
+   "one_line_memory_trick": "に対して = A ⟷ B face-off.",
+   "chapter": "p1-04"
+  },
+  {
+   "id": "hanmen",
+   "pattern": "～反面…",
+   "reading": "はんめん",
+   "meaning": "While ~, on the other hand …",
+   "category": "Contrast",
+   "formality": "neutral / written",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + 反面",
+     "example": "増えた反面"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + 反面",
+     "example": "面白いことが多い反面"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な / ～である + 反面",
+     "example": "気楽な反面"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + である + 反面",
+     "example": "便利である反面"
+    }
+   ],
+   "connection_notes": "な-adj: ～な反面 / ～である反面. Noun: ～である反面.",
+   "can_be_used_for": [
+    "Two opposite sides of the same thing (merit/demerit)"
+   ],
+   "cannot_be_used_for": [
+    "Contrasting two different subjects (use に対して)"
+   ],
+   "exam_pinpoint": "ONE topic with a good side and a bad side (面白い↔ストレス, 気楽↔不便) → 反面",
+   "clue_words": [
+    "～が多い反面",
+    "便利",
+    "不便",
+    "ストレス",
+    "メリット / デメリット"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～に対して",
+     "difference": "に対して = two different things.",
+     "how_to_choose": "Same subject? → 反面."
+    },
+    {
+     "pattern": "～一方(で)",
+     "difference": "一方で also = 'at the same time'; with opposite sides it means about the same as 反面.",
+     "how_to_choose": "Two simultaneous actions (not opposite) → 一方で."
+    }
+   ],
+   "common_traps": [
+    "Using 反面 for two different people/places"
+   ],
+   "examples": [
+    {
+     "japanese": "都会{とかい}の生活{せいかつ}^は面白{おもしろ}いことが多{おお}い反面{はんめん}、ストレスも多{おお}い。",
+     "english": "City life has lots of fun things, but also lots of stress.",
+     "note": "One topic, two sides."
+    },
+    {
+     "japanese": "一人旅{ひとりたび}^は気楽{きらく}な反面{はんめん}、何{なん}でも一人{ひとり}でやらなければならないので、不便{ふべん}だ。",
+     "english": "Traveling alone is carefree, but it's inconvenient since you must do everything yourself.",
+     "note": "な-adj + な + 反面."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "仕事{しごと}を辞{や}めて自由{じゆう}な時間{じかん}が増{ふ}えた反面{はんめん}、緊張感{きんちょうかん}もなくなってしまった。",
+     "english": "Quitting my job gave me more free time, but I also lost my sense of tension."
+    }
+   ],
+   "book_explanation": "「～だが、逆に…の面もある。」Used to present both contrasting sides of one thing.",
+   "one_line_memory_trick": "反面 = flip the same coin.",
+   "chapter": "p1-04"
+  },
+  {
+   "id": "ippou",
+   "pattern": "～一方(で)…",
+   "reading": "いっぽう(で)",
+   "meaning": "While ~, at the same time … / on the other hand …",
+   "category": "Contrast",
+   "formality": "neutral / written",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + 一方(で)",
+     "example": "意見を言う一方で"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + 一方(で)",
+     "example": "うれしかった一方で"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な / ～である + 一方(で)",
+     "example": "便利な一方で"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + である + 一方(で)",
+     "example": ""
+    }
+   ],
+   "connection_notes": "Clause + 一方(で). For opposite matters it ≈ 反面.",
+   "can_be_used_for": [
+    "Doing two things in parallel",
+    "Contrasting sides (≈ 反面)",
+    "Contrasting groups (～人がいる一方、…人も多い)"
+   ],
+   "cannot_be_used_for": [
+    "Cause → result"
+   ],
+   "exam_pinpoint": "Two parallel roles/actions at the same time (意見を言う一方で、話もよく聞く) → 一方で",
+   "clue_words": [
+    "同時に",
+    "～も",
+    "しっかり",
+    "一方、"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～反面",
+     "difference": "反面 only opposite sides; 一方で also parallel actions.",
+     "how_to_choose": "Two duties at once → 一方で."
+    }
+   ],
+   "common_traps": [
+    "Confusing 一方だ (ever-increasing trend, ～一方だ) with 一方で"
+   ],
+   "examples": [
+    {
+     "japanese": "会議{かいぎ}で^は自分{じぶん}の意見{いけん}を言{い}う一方{いっぽう}で、ほかの人{ひと}の話{はなし}もよく聞{き}いてください。",
+     "english": "In meetings, state your own opinion while also listening carefully to others.",
+     "note": "Two parallel actions."
+    },
+    {
+     "japanese": "子{こ}どもが生{う}まれてうれしかった一方{いっぽう}で、重{おも}い責任{せきにん}も感{かん}じた。",
+     "english": "I was happy my child was born, but at the same time felt a heavy responsibility.",
+     "note": "Opposite feelings ≈ 反面."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "教授{きょうじゅ}^は新{あたら}しい研究{けんきゅう}に取{と}り組{く}む一方{いっぽう}で、しっかり学生{がくせい}の世話{せわ}もしなければならない。",
+     "english": "The professor must take on new research while also properly looking after students."
+    },
+    {
+     "japanese": "世{よ}の中{なか}に^は人{ひと}と話{はな}すことが好{す}きな人{ひと}がいる一方{いっぽう}、それが苦手{にがて}な人{ひと}も多{おお}い。",
+     "english": "Some people love talking with others, while many find it hard."
+    }
+   ],
+   "book_explanation": "「～だが、同時に、別の面で…。」When contrasting (③④) it is roughly the same as 反面.",
+   "one_line_memory_trick": "一方で = one hand does A, the other hand does B.",
+   "chapter": "p1-04"
+  },
+  {
+   "id": "toiuyori",
+   "pattern": "～というより…",
+   "reading": "というより",
+   "meaning": "Rather than ~, (it's more accurate to say) …",
+   "category": "Contrast",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + というより",
+     "example": "歩くというより走る"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + というより",
+     "example": "寒いというより痛い"
+    },
+    {
+     "type": "な-adj",
+     "form": "～(だ) + というより",
+     "example": "静かというより寂しい"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun(だ) + というより",
+     "example": "友だちというより"
+    }
+   ],
+   "connection_notes": "Attaches to the word being compared as an expression. A more appropriate expression follows.",
+   "can_be_used_for": [
+    "Correcting to a more accurate description",
+    "Rephrasing what someone said"
+   ],
+   "cannot_be_used_for": [
+    "Simple comparison of quantity/size (use より)"
+   ],
+   "exam_pinpoint": "Speaker replaces one description with a MORE ACCURATE word (友だち→競争相手, 歩く→走る, 頼まれた→命令された) → というより",
+   "clue_words": [
+    "いや",
+    "～という感じだ",
+    "むしろ",
+    "～んだよ"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ではなく",
+     "difference": "ではなく completely denies A; というより says A is not quite the right word.",
+     "how_to_choose": "Partly true but a better word exists → というより. Completely wrong → ではなく."
+    },
+    {
+     "pattern": "～より",
+     "difference": "より compares degree of two things.",
+     "how_to_choose": "Comparing expressions (not things) → というより."
+    }
+   ],
+   "common_traps": [
+    "Choosing ではなく when A is partly true"
+   ],
+   "examples": [
+    {
+     "japanese": "ぼくと彼{かれ}が友{とも}だち？いや、ぼくたち^は友{とも}だちというよりいい競争相手{きょうそうあいて}なんだよ。",
+     "english": "Him and me friends? No, we're more like good rivals than friends.",
+     "note": "More accurate word: 競争相手."
+    },
+    {
+     "japanese": "美知子{みちこ}^は歩{ある}くのが速{はや}い。歩{ある}くというより走{はし}るという感{かん}じだ。",
+     "english": "Michiko walks fast—it's more like running than walking.",
+     "note": "Rephrasing to a better description."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "A「へえ、この絵{え}、社長{しゃちょう}に頼{たの}まれてかいたんですか。」B「頼{たの}まれて、というより命令{めいれい}されたんだよ。」",
+     "english": "A: Oh, you painted this because the president asked? B: Asked? More like ordered."
+    }
+   ],
+   "book_explanation": "「～という言い方より…という言い方の方が適切だ。」Shows a more appropriate expression (…) than ～.",
+   "one_line_memory_trick": "というより = 'Well, a better word is…'",
+   "chapter": "p1-04"
+  },
+  {
+   "id": "kawarini",
+   "pattern": "～かわりに…",
+   "reading": "かわりに",
+   "meaning": "(1) On the other hand / in exchange for ~ (2) Instead of ~",
+   "category": "Contrast",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + かわりに",
+     "example": "教えてもらっているかわりに"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + かわりに",
+     "example": "多いかわりに"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な + かわりに",
+     "example": "自由なかわりに"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + の + かわりに",
+     "example": "父のかわりに"
+    }
+   ],
+   "connection_notes": "Verbs/adj in plain form; な-adj + な; Noun + の.",
+   "can_be_used_for": [
+    "Plus and minus of equal weight (①②)",
+    "Exchange / compensation (③)",
+    "Doing something different instead of the usual (④)"
+   ],
+   "cannot_be_used_for": [
+    "Simple contrast of two separate subjects"
+   ],
+   "exam_pinpoint": "A trade-off of equal weight or 'in return' (教えてもらう↔手伝う) or 'instead of the usual' → かわりに",
+   "clue_words": [
+    "その分",
+    "お礼に",
+    "いつものように",
+    "今度",
+    "手伝う"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～反面",
+     "difference": "反面 just shows two sides; かわりに implies balance/exchange.",
+     "how_to_choose": "Exchange or substitution → かわりに."
+    }
+   ],
+   "common_traps": [
+    "Noun + かわりに without の"
+   ],
+   "examples": [
+    {
+     "japanese": "フリーの仕事{しごと}^は自由{じゆう}な時間{じかん}が多{おお}いかわりに、お金{かね}のことがいつも心配{しんぱい}だ。",
+     "english": "Freelance work gives lots of free time, but in exchange money is always a worry.",
+     "note": "Plus and minus balance out."
+    },
+    {
+     "japanese": "今度{こんど}の正月{しょうがつ}^はいつものようにふるさとに帰{かえ}るかわりに、両親{りょうしん}と海外旅行{かいがいりょこう}をしたい。",
+     "english": "This New Year, instead of going home as usual, I want to travel abroad with my parents.",
+     "note": "Instead of the usual action."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "会長{かいちょう}の山田{やまだ}さん^は、実行力{じっこうりょく}があるかわりに、深{ふか}く考{かんが}えることはしない。",
+     "english": "Chairman Yamada has the drive to get things done, but doesn't think deeply."
+    },
+    {
+     "japanese": "リーさんに英語{えいご}を教{おし}えてもらっているかわりに、リーさんの仕事{しごと}を手伝{てつだ}っている。",
+     "english": "In return for Lee teaching me English, I help with Lee's work."
+    }
+   ],
+   "book_explanation": "「～ということがあるが、反対に、それと同じ程度の…ということもある。」/「通常している・通常するはずの～をしないで、それと同じ程度の…をする。」",
+   "one_line_memory_trick": "かわりに = a fair trade.",
+   "chapter": "p1-04"
+  },
+  {
+   "id": "tame-reason",
+   "pattern": "～ためだ / ～ため(に)… (reason)",
+   "reading": "ためだ / ために",
+   "meaning": "Because of ~ / due to ~",
+   "category": "Reason",
+   "formality": "formal",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + ため(に)",
+     "example": "見直しをしなかったため"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + ため(に)",
+     "example": "寒いため"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な / ～である + ため(に)",
+     "example": "不便なため"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + の / である + ため(に)",
+     "example": "出張のため"
+    }
+   ],
+   "connection_notes": "Noun + の + ため; な-adj + な + ため. Slightly formal/stiff.",
+   "can_be_used_for": [
+    "Cause → result (objective)",
+    "Polite explanations (出張のため欠席します)"
+   ],
+   "cannot_be_used_for": [
+    "Speaker's hope / intention in the second half",
+    "Request / command / invitation (働きかけ)"
+   ],
+   "exam_pinpoint": "Formal objective cause → result with NO request/will in the second half → ため(に)",
+   "clue_words": [
+    "～のは…ためだ",
+    "欠席",
+    "中止",
+    "遅れ",
+    "～なければならない"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ために (purpose)",
+     "difference": "Purpose ために takes a volitional verb dictionary form (行くために); reason ために often follows past/negative/state.",
+     "how_to_choose": "Was it a cause (past fact)? → reason."
+    },
+    {
+     "pattern": "～から / ～ので",
+     "difference": "から can be followed by requests; ため cannot.",
+     "how_to_choose": "Second half a request → から/ので."
+    }
+   ],
+   "common_traps": [
+    "Option ending in ～てください / ～ましょう after ため is wrong"
+   ],
+   "examples": [
+    {
+     "japanese": "報告書{ほうこくしょ}にミスが多{おお}かったの^は、よく見直{みなお}しをしなかったためだろう。",
+     "english": "The many mistakes in the report were probably because it wasn't checked carefully.",
+     "note": "～のは…ためだ explains a cause."
+    },
+    {
+     "japanese": "出張{しゅっちょう}のため、明日{あす}の会議{かいぎ}^は欠席{けっせき}させていただきます。",
+     "english": "Due to a business trip, I will be absent from tomorrow's meeting.",
+     "note": "Noun + の + ため, formal."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "この村{むら}に^は医者{いしゃ}がいないために、病気{びょうき}のとき^はとなりの町{まち}まで行{い}かなければならない。",
+     "english": "Because there's no doctor in this village, when sick you must go to the next town."
+    }
+   ],
+   "book_explanation": "「～が原因だ・～が原因で…という結果になる。」… normally isn't a hope, intention, or request to others. Slightly formal.",
+   "one_line_memory_trick": "ため(reason) = a report-style 'because'.",
+   "chapter": "p1-05"
+  },
+  {
+   "id": "niyotte-cause",
+   "pattern": "～によって… / ～による (cause・means)",
+   "reading": "によって / による",
+   "meaning": "A: due to ~ (cause) / B: by means of ~",
+   "category": "Reason",
+   "formality": "formal",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "～ことによって",
+     "example": "学ぶことによって"
+    },
+    {
+     "type": "い-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "—",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + によって / Noun + による + Noun",
+     "example": "材料不足によって・クレジットカードによる支払い"
+    }
+   ],
+   "connection_notes": "による modifies a noun: Noun + による + Noun.",
+   "can_be_used_for": [
+    "A: cause → result that happens",
+    "B: means/method"
+   ],
+   "cannot_be_used_for": [
+    "A: states in the second half",
+    "Hope / intention / request in the second half"
+   ],
+   "exam_pinpoint": "A cause noun (材料不足・ウイルス) leading to an event, or a means (～ことによって…できる) in stiff style → によって / による",
+   "clue_words": [
+    "不足",
+    "ウイルス",
+    "事故",
+    "地震",
+    "～ことによって",
+    "方法"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～によって (depending on)",
+     "difference": "'Depending on' goes with 違う/さまざま.",
+     "how_to_choose": "Variety word → depending on."
+    },
+    {
+     "pattern": "～ために",
+     "difference": "Both cause; によって is more written and attaches mostly to nouns.",
+     "how_to_choose": "Noun + による + Noun → による."
+    }
+   ],
+   "common_traps": [
+    "Using によって before a request"
+   ],
+   "examples": [
+    {
+     "japanese": "うちの工場{こうじょう}で^は、材料不足{ざいりょうぶそく}によってたたみの生産{せいさん}^はもうできなくなった。",
+     "english": "At our factory, due to a shortage of materials, tatami production is no longer possible.",
+     "note": "A: cause → result."
+    },
+    {
+     "japanese": "外国語{がいこくご}を学{まな}ぶことによってその国{くに}の人{ひと}たちの考{かんが}え方{かた}も知{し}ることができる。",
+     "english": "By learning a foreign language, you can also learn how its people think.",
+     "note": "B: means/method."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "今年{ことし}のインフルエンザ^は、今{いま}までにない型{かた}のウイルスによるものである。",
+     "english": "This year's flu is caused by a new type of virus."
+    },
+    {
+     "japanese": "クレジットカードによるお支払{しはら}いを希望{きぼう}される方{かた}^は、次{つぎ}の注意{ちゅうい}をお読{よ}みください。",
+     "english": "Those wishing to pay by credit card, please read the following notes."
+    }
+   ],
+   "book_explanation": "A: 「～が原因で…という結果が起こる。」No states, hope, intention or requests in … ; slightly formal. B: 「～という手段で…する。」",
+   "one_line_memory_trick": "によって = 'by' (cause or tool) in newspaper style.",
+   "chapter": "p1-05"
+  },
+  {
+   "id": "kara-kotokara",
+   "pattern": "～から… / ～ことから…",
+   "reading": "から / ことから",
+   "meaning": "From/because of (the fact that) ~, … resulted / I concluded …",
+   "category": "Reason",
+   "formality": "neutral / written",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + ことから",
+     "example": "となりの席になったことから"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + ことから",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "～な / ～である + ことから",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + から / Noun である + ことから",
+     "example": "誤解から"
+    }
+   ],
+   "connection_notes": "Noun + から (small cause → result). Clause + ことから (fact → result / judgment).",
+   "can_be_used_for": [
+    "A fact developing into a result",
+    "Basis for a judgment (～とすぐにわかった)"
+   ],
+   "cannot_be_used_for": [
+    "Hope / intention / request in the second half"
+   ],
+   "exam_pinpoint": "A small fact/clue that led to a result or conclusion (誤解から・似ていることから～とわかった) → から / ことから",
+   "clue_words": [
+    "わずかな",
+    "～とわかった",
+    "～と呼ばれる",
+    "～ようになった",
+    "誤解"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ので",
+     "difference": "ので is a general reason; ことから stresses the fact used as evidence/origin.",
+     "how_to_choose": "Fact → conclusion/naming → ことから."
+    }
+   ],
+   "common_traps": [
+    "Request/will after ことから"
+   ],
+   "examples": [
+    {
+     "japanese": "わずかな誤解{ごかい}から友{とも}だちとの関係{かんけい}が悪{わる}くなってしまった。",
+     "english": "Because of a small misunderstanding, my relationship with my friend went bad.",
+     "note": "Noun + から: small cause develops into a result."
+    },
+    {
+     "japanese": "顔{かお}がよく似{に}ていることから、二人{ふたり}^は親子{おやこ}だとすぐにわかった。",
+     "english": "Since their faces looked so alike, I knew right away they were parent and child.",
+     "note": "Fact → judgment (わかった)."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "日本語{にほんご}の授業{じゅぎょう}でとなりの席{せき}になったことから、わたしたち^は親{した}しくなった。",
+     "english": "Because we sat next to each other in Japanese class, we became close."
+    }
+   ],
+   "book_explanation": "「～という事実が原因で…という結果に発展する・…と判断する。」No hope/intention/requests in ….",
+   "one_line_memory_trick": "ことから = 'from that clue, it followed…'",
+   "chapter": "p1-05"
+  },
+  {
+   "id": "okage-sei",
+   "pattern": "～おかげだ / ～おかげで… / ～せいだ / ～せいで…",
+   "reading": "おかげ / せい",
+   "meaning": "Thanks to ~ (good result) / because of ~ (bad result, blame)",
+   "category": "Reason",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + おかげで / せいで",
+     "example": "続いたおかげで"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + おかげで / せいで",
+     "example": "忙しかったせいで"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な + おかげで / せいで",
+     "example": "便利なおかげで"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + の + おかげで / せいで",
+     "example": "先生のおかげ"
+    }
+   ],
+   "connection_notes": "Noun + の. な-adj + な.",
+   "can_be_used_for": [
+    "おかげ: good result, gratitude",
+    "せい: bad result, blame",
+    "Ironic おかげで for bad results"
+   ],
+   "cannot_be_used_for": [
+    "Hope / intention / request in the second half"
+   ],
+   "exam_pinpoint": "Good result + thanks (ありがとう・早く終わった) → おかげ / bad result + blame (疲れている・遅れた) → せい",
+   "clue_words": [
+    "ありがとう",
+    "助かった",
+    "疲れている",
+    "失敗",
+    "遅れた",
+    "～てしまった"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ため(に)",
+     "difference": "ため is neutral and formal; おかげ/せい carry feeling (gratitude/blame).",
+     "how_to_choose": "Is there gratitude or blame? → おかげ/せい."
+    }
+   ],
+   "common_traps": [
+    "せい with a good result",
+    "おかげ followed by request"
+   ],
+   "examples": [
+    {
+     "japanese": "いい会社{かいしゃ}に就職{しゅうしょく}が決{き}まったの^は先生{せんせい}のおかげです。ありがとうございました。",
+     "english": "It's thanks to you that I got a job at a good company. Thank you.",
+     "note": "Good result + gratitude."
+    },
+    {
+     "japanese": "最近{さいきん}忙{いそが}しかったせいで、かなり疲{つか}れている。",
+     "english": "Because I've been busy lately, I'm pretty tired.",
+     "note": "Bad result → せいで."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "天気{てんき}のいい日{ひ}が続{つづ}いたおかげで、工事{こうじ}が早{はや}く終{お}わった。",
+     "english": "Thanks to a run of good weather, construction finished early."
+    }
+   ],
+   "book_explanation": "「～の影響で…といういい結果になる(おかげだ)/よくない結果になる(せいだ)。」No hope/intention/requests in ….",
+   "one_line_memory_trick": "おかげ = bow 🙇 ; せい = point the finger 👉",
+   "chapter": "p1-05"
+  },
+  {
+   "id": "nodakara",
+   "pattern": "～のだから…",
+   "reading": "のだから / んだから",
+   "meaning": "Since (it's a known fact that) ~, naturally …",
+   "category": "Reason",
+   "formality": "neutral (んだから = casual)",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + のだから",
+     "example": "けがをしているんだから"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + のだから",
+     "example": "広いのだから"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な + のだから",
+     "example": "元気なのだから"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + な + のだから",
+     "example": "学生なのだから"
+    }
+   ],
+   "connection_notes": "な-adj / Noun + な + のだから, NOT だ (×学生だのだから).",
+   "can_be_used_for": [
+    "Speaker's judgment (当然だ)",
+    "Advice / prohibition (無理をしてはいけない)",
+    "Request (笑わないでください)",
+    "Will / hope"
+   ],
+   "cannot_be_used_for": [
+    "Neutral new information the listener doesn't know",
+    "Objective report of cause"
+   ],
+   "exam_pinpoint": "First half is a fact the listener already knows; second half is the speaker's judgment/advice/request → のだから",
+   "clue_words": [
+    "当然だ",
+    "～てはいけない",
+    "～なさい",
+    "～てください",
+    "～はずだ",
+    "せっかく"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～から",
+     "difference": "から is neutral; のだから pushes 'you know this, so obviously…'.",
+     "how_to_choose": "Shared known fact + strong judgment → のだから."
+    },
+    {
+     "pattern": "～ため(に)",
+     "difference": "ため cannot take requests; のだから typically does.",
+     "how_to_choose": "Request/advice at end → のだから."
+    }
+   ],
+   "common_traps": [
+    "Noun/na-adj + だのだから is wrong (needs な)"
+   ],
+   "examples": [
+    {
+     "japanese": "世界{せかい}^は広{ひろ}いのだから、いろいろな習慣{しゅうかん}があるの^は当然{とうぜん}だ。",
+     "english": "Since the world is big, it's natural there are various customs.",
+     "note": "Known fact → speaker's judgment (当然)."
+    },
+    {
+     "japanese": "あなた^はけがをしているんだから、無理{むり}をして^はいけませんよ。",
+     "english": "You're injured, so you mustn't push yourself.",
+     "note": "Fact the listener knows → advice/prohibition."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "笑{わら}わないでください。真剣{しんけん}にやっているんですから。",
+     "english": "Please don't laugh. I'm doing this seriously."
+    }
+   ],
+   "book_explanation": "「～が事実だから、当然…。」～ is a fact the listener should know; … is the speaker's judgment, hope, intention, or a request.",
+   "one_line_memory_trick": "のだから = 'You KNOW ~, so obviously…'",
+   "chapter": "p1-05"
+  },
+  {
+   "id": "nonara",
+   "pattern": "～(の)なら…",
+   "reading": "(の)なら",
+   "meaning": "If (as you say / as it seems) ~, then …",
+   "category": "Conditionals",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + (の)なら",
+     "example": "使わないなら・読んでしまったのなら"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + (の)なら",
+     "example": "高いなら"
+    },
+    {
+     "type": "な-adj",
+     "form": "～(×だ) + なら / ～である + (の)なら",
+     "example": "暇なら"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun(×だ) + なら / Noun である + (の)なら",
+     "example": "雨なら"
+    }
+   ],
+   "connection_notes": "な-adj and Noun drop だ: 雨なら (NOT 雨のなら).",
+   "can_be_used_for": [
+    "Reacting to info from others or the situation",
+    "Speaker's judgment / will / request / advice in the second half"
+   ],
+   "cannot_be_used_for": [
+    "Natural consequence / habit (use と)",
+    "Time-sequence 'after A, B' (use たら)"
+   ],
+   "exam_pinpoint": "First half picks up what the OTHER person just said or what you see (その箱、使わないんですか → 使わないなら…) → なら",
+   "clue_words": [
+    "～んですか",
+    "そうか",
+    "～か。",
+    "それなら",
+    "あしたは雨か"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～たら",
+     "difference": "たら: A happens first then B. なら: B can come before A (行くなら、切符を買っておいて).",
+     "how_to_choose": "Second action happens BEFORE the condition → なら."
+    },
+    {
+     "pattern": "～ば",
+     "difference": "ば is general condition; なら reacts to information.",
+     "how_to_choose": "Reacting to someone's words → なら."
+    }
+   ],
+   "common_traps": [
+    "雨のなら ✗ (Noun + なら)"
+   ],
+   "examples": [
+    {
+     "japanese": "その箱{はこ}、もう使{つか}わないんですか。使{つか}わないならわたしにください。",
+     "english": "You're not using that box anymore? If not, please give it to me.",
+     "note": "Reacting to info → request."
+    },
+    {
+     "japanese": "ああ、あした^は雨{あめ}か。雨{あめ}ならサイクリングに^は行{い}けそうもないね。",
+     "english": "Oh, rain tomorrow. If it's raining, we probably can't go cycling.",
+     "note": "Info from forecast → judgment. Noun + なら."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "その本{ほん}、読{よ}んでしまったのならわたしに貸{か}してくれませんか。",
+     "english": "If you've finished that book, could you lend it to me?"
+    }
+   ],
+   "book_explanation": "「～という情報を受けて、…。」～ is learned from others' words or the situation; … is the speaker's judgment, will, or request.",
+   "one_line_memory_trick": "なら = 'If THAT's the case (you just told me)…'",
+   "chapter": "p1-06"
+  },
+  {
+   "id": "tewa",
+   "pattern": "～ては… / ～(の)では…",
+   "reading": "ては / では / のでは",
+   "meaning": "If/given that ~, (then a bad result)",
+   "category": "Conditionals",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "て形 + は / 普通形 + のでは",
+     "example": "行っては・建て始めるのでは"
+    },
+    {
+     "type": "い-adj",
+     "form": "～くて + は",
+     "example": "高くては"
+    },
+    {
+     "type": "な-adj",
+     "form": "～で + は / ～な + のでは",
+     "example": "無責任では"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + では / Noun な + のでは",
+     "example": "そんな態度では"
+    }
+   ],
+   "connection_notes": "Verb て形 + は; い-adj ～くては; な-adj・Noun ～では; plain form + のでは.",
+   "can_be_used_for": [
+    "Warning",
+    "Complaint",
+    "Negative judgment"
+   ],
+   "cannot_be_used_for": [
+    "Speaker's hope or intention",
+    "Request / command",
+    "Positive result"
+   ],
+   "exam_pinpoint": "Second half is a BAD result (大変・困る・迷惑・だめ・きらわれる・できない) → ては / では",
+   "clue_words": [
+    "かえって",
+    "迷惑",
+    "困る",
+    "大変でしょう",
+    "きらわれる",
+    "～ない",
+    "だめだ"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～たら",
+     "difference": "たら is neutral and allows good results and requests; ては only allows bad results.",
+     "how_to_choose": "Bad result & no request → ては."
+    },
+    {
+     "pattern": "～ても",
+     "difference": "ても = 'even if' (result unchanged).",
+     "how_to_choose": "Condition causes the bad result → ては."
+    }
+   ],
+   "common_traps": [
+    "Option with a positive result is always wrong",
+    "Option with ～しよう (intention) is always wrong"
+   ],
+   "examples": [
+    {
+     "japanese": "山中{やまなか}さん^は手術{しゅじゅつ}したばかりだから、お見舞{みま}いに行{い}って^はかえって迷惑{めいわく}だろう。",
+     "english": "Yamanaka just had surgery, so visiting would only be a bother.",
+     "note": "Bad result 迷惑 → ては."
+    },
+    {
+     "japanese": "そんな無責任{むせきにん}な態度{たいど}で^はみんなにきらわれますよ。",
+     "english": "With such an irresponsible attitude, everyone will dislike you.",
+     "note": "Bad result → では."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "今{いま}から家{いえ}を建{た}て始{はじ}めるので^は年内{ねんない}に^はでき上{あ}がらない。",
+     "english": "If you start building the house now, it won't be finished within the year."
+    }
+   ],
+   "book_explanation": "「～という事実(または仮定の状況)だと、…というよくない結果になる。」… is negative; no hope/intention/requests.",
+   "one_line_memory_trick": "ては = 'if you do that… (uh oh)'",
+   "chapter": "p1-06"
+  },
+  {
+   "id": "saeba",
+   "pattern": "～さえ～ば… / ～さえ～なら…",
+   "reading": "さえ…ば / さえ…なら",
+   "meaning": "As long as ~ / if only ~, (then …)",
+   "category": "Conditionals",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "Noun さえ + Verb ば形 / Verb ます-stem + さえ + すれば",
+     "example": "漫画さえ読んでいれば・言いさえすれば"
+    },
+    {
+     "type": "い-adj",
+     "form": "Noun さえ + ～ければ",
+     "example": "天気さえよければ"
+    },
+    {
+     "type": "な-adj",
+     "form": "Noun さえ + ～なら",
+     "example": "体さえ丈夫なら"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun さえ + Noun なら",
+     "example": ""
+    }
+   ],
+   "connection_notes": "Verb: ます-stem + さえ + すれば (言いさえすれば); て形 + さえいれば.",
+   "can_be_used_for": [
+    "The minimum condition needed for a result"
+   ],
+   "cannot_be_used_for": [
+    "Multiple necessary conditions",
+    "'even' meaning without ば/なら (that is plain さえ)"
+   ],
+   "exam_pinpoint": "Only ONE minimal condition is enough for the result (体さえ丈夫なら何でもできる) → さえ～ば",
+   "clue_words": [
+    "だけで",
+    "どんなことにも",
+    "許してくれる",
+    "～さえすれば"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～さえ (even)",
+     "difference": "Alone, さえ = 'even' (子どもさえ知っている).",
+     "how_to_choose": "Followed by ば/なら → minimum condition."
+    },
+    {
+     "pattern": "～だけ",
+     "difference": "だけ = only; さえ～ば = only that is needed.",
+     "how_to_choose": "Condition + result structure → さえ～ば."
+    }
+   ],
+   "common_traps": [
+    "Wrong formation: 言うさえすれば ✗ → 言いさえすれば"
+   ],
+   "examples": [
+    {
+     "japanese": "体{からだ}さえ丈夫{じょうぶ}ならどんなことにも挑戦{ちょうせん}できる。",
+     "english": "As long as I'm healthy, I can take on any challenge.",
+     "note": "Minimum condition → result."
+    },
+    {
+     "japanese": "一言{ひとこと}「ごめんなさい。」と言{い}いさえすれば、相手{あいて}^は許{ゆる}してくれるだろう。",
+     "english": "If you just say 'I'm sorry', they'll probably forgive you.",
+     "note": "Verb stem + さえ + すれば."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "太郎{たろう}^は漫画{まんが}さえ読{よ}んでいれば退屈{たいくつ}しないようだ。",
+     "english": "As long as Taro has manga to read, he never seems bored."
+    }
+   ],
+   "book_explanation": "「～が実現すれば、それだけで…が実現する。」Shows the minimum condition necessary for … .",
+   "one_line_memory_trick": "さえ～ば = 'Just this one key opens the door.'",
+   "chapter": "p1-06"
+  },
+  {
+   "id": "tatoe-temo",
+   "pattern": "たとえ～ても… / たとえ～でも…",
+   "reading": "たとえ…ても / でも",
+   "meaning": "Even if ~, …",
+   "category": "Conditionals",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "たとえ + て形 + も",
+     "example": "たとえ反対されても"
+    },
+    {
+     "type": "い-adj",
+     "form": "たとえ + ～くて + も",
+     "example": "たとえ高くても"
+    },
+    {
+     "type": "な-adj",
+     "form": "たとえ + ～で + も",
+     "example": "たとえ面倒でも"
+    },
+    {
+     "type": "Noun",
+     "form": "たとえ + Noun + でも",
+     "example": "たとえ子どもでも"
+    }
+   ],
+   "connection_notes": "たとえ is paired with ても/でも. Often with どんなに / 何を.",
+   "can_be_used_for": [
+    "Hypothetical concession",
+    "Strong will regardless of conditions",
+    "Advice regardless"
+   ],
+   "cannot_be_used_for": [
+    "Normal 'if' conditions (たとえ～ば ✗)"
+   ],
+   "exam_pinpoint": "たとえ at the start → the answer must contain ても / でも",
+   "clue_words": [
+    "たとえ",
+    "どんなに",
+    "いくら",
+    "～なければならない",
+    "～たい"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ても (alone)",
+     "difference": "たとえ only strengthens ても.",
+     "how_to_choose": "たとえ requires ても, not ば/たら."
+    }
+   ],
+   "common_traps": [
+    "たとえ…ば / たとえ…たら ✗"
+   ],
+   "examples": [
+    {
+     "japanese": "たとえ周{まわ}りの人{ひと}たちにどんなに反対{はんたい}されても、ぼく^はプロの歌手{かしゅ}になりたい。",
+     "english": "Even if everyone around me opposes it, I want to be a pro singer.",
+     "note": "たとえ + どんなに + ても."
+    },
+    {
+     "japanese": "たとえ面倒{めんどう}でも、健康診断{けんこうしんだん}^は毎年{まいとし}受{う}けたほうがいいですよ。",
+     "english": "Even if it's a hassle, you should get a checkup every year.",
+     "note": "な-adj ～でも."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "たとえ高{たか}くても、仕事{しごと}に必要{ひつよう}なもの^は買{か}わなければならない。",
+     "english": "Even if it's expensive, I must buy what I need for work."
+    }
+   ],
+   "book_explanation": "「～が事実だと仮定した場合でも、それに関係なく…。」",
+   "one_line_memory_trick": "たとえ = 'Even in the worst case — still!'",
+   "chapter": "p1-06"
+  },
+  {
+   "id": "ba-tara-nara-counterfactual",
+   "pattern": "～ば… / ～たら… / ～なら… (counterfactual)",
+   "reading": "ば / たら / なら (反事実)",
+   "meaning": "If ~ had been the case, … (but in reality it wasn't)",
+   "category": "Conditionals",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "ば形 / なければ / た形 + ら (often ～ていたら)",
+     "example": "あれば・寝坊していたら"
+    },
+    {
+     "type": "い-adj",
+     "form": "～ければ / ～くなければ / ～かったら",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "～なら / ～でなければ / ～だったら",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + なら / でなければ / だったら",
+     "example": "学生なら"
+    }
+   ],
+   "connection_notes": "Verbs are often ～ていたら. The second half often ends with ～た・～のだが・～のに.",
+   "can_be_used_for": [
+    "Hypothetical situations contrary to fact",
+    "Regret (～のに……)",
+    "Relief (～てよかった)"
+   ],
+   "cannot_be_used_for": [
+    "Real future conditions (this usage is unreal)"
+   ],
+   "exam_pinpoint": "Sentence ends with ～のに / ～のだが / ～た + the fact is the opposite (残念だ・よかった) → counterfactual ば/たら/なら",
+   "clue_words": [
+    "～のに……",
+    "～んだけど……",
+    "残念だ",
+    "間に合ってよかった",
+    "もし"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ばよかった",
+     "difference": "ばよかった directly expresses regret about one's own action.",
+     "how_to_choose": "Fixed regret 'should have' → ばよかった."
+    }
+   ],
+   "common_traps": [
+    "Second half in plain future (that's a real condition, not counterfactual)"
+   ],
+   "examples": [
+    {
+     "japanese": "お金{かね}とひまがあれ^ばわたしも海外旅行{かいがいりょこう}するんだけど……。",
+     "english": "If I had money and time, I'd travel abroad too, but…",
+     "note": "Not true in reality → ～んだけど."
+    },
+    {
+     "japanese": "ああ、残念{ざんねん}だ。学生{がくせい}なら学生割引{がくせいわりびき}でチケットが買{か}えたのに……。",
+     "english": "Ah, too bad. If I were a student, I could have bought a discounted ticket…",
+     "note": "Unreal condition + のに (regret)."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "もし寝坊{ねぼう}していたらこの飛行機{ひこうき}に^は乗{の}れなかった。間{ま}に合{あ}ってよかった。",
+     "english": "If I had overslept I couldn't have caught this flight. Glad I made it."
+    }
+   ],
+   "book_explanation": "「もし～の場合、…という結果になるはずだが、実際にはそうではない。」Both ～ and … differ from reality; … often ends in ～た・～のだが・～のに.",
+   "one_line_memory_trick": "Counterfactual = 'In a parallel world…'",
+   "chapter": "p1-06"
+  },
+  {
+   "id": "toiukotoda",
+   "pattern": "～ということだ / ～とのことだ",
+   "reading": "ということだ / とのことだ",
+   "meaning": "I hear that ~ / (someone said) that ~",
+   "category": "Reported speech",
+   "formality": "formal",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + ということだ / とのことだ",
+     "example": "始まるということです"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + ということだ",
+     "example": "おいしいということだ"
+    },
+    {
+     "type": "な-adj",
+     "form": "普通形(～だ) + ということだ",
+     "example": "元気だということだ"
+    },
+    {
+     "type": "Noun",
+     "form": "普通形(Noun だ) + ということだ",
+     "example": "雨だとのことです"
+    }
+   ],
+   "connection_notes": "Plain form + ということだ. Source often marked with ～によると / ～によれば / ～では. とのことだ is used for passing on a message from a specific person, and in letters (～とのこと、おめでとうございます).",
+   "can_be_used_for": [
+    "Passing on information from a source (more formal than そうだ)",
+    "Relaying a message from a person (とのことだ)",
+    "Letters"
+   ],
+   "cannot_be_used_for": [
+    "Speaker's own judgment or guess",
+    "Casual chat (use って)"
+   ],
+   "exam_pinpoint": "Source + formal relay (お知らせによれば / 電話がありました / メールによると) → ということだ / とのことだ",
+   "clue_words": [
+    "～によると",
+    "～によれば",
+    "～では",
+    "お知らせ",
+    "電話がありました",
+    "メール",
+    "【手紙】"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～そうだ (hearsay)",
+     "difference": "Same meaning; ということだ is stiffer.",
+     "how_to_choose": "Formal announcement / message → ということだ."
+    },
+    {
+     "pattern": "～って",
+     "difference": "って is casual spoken.",
+     "how_to_choose": "Friends' chat → って."
+    },
+    {
+     "pattern": "～と言われている",
+     "difference": "と言われている = general public opinion, no specific source.",
+     "how_to_choose": "Specific source (news/person) → ということだ."
+    }
+   ],
+   "common_traps": [
+    "Choosing と言われている when there's a specific source like 店の人の話では"
+   ],
+   "examples": [
+    {
+     "japanese": "市{し}のお知{し}らせによれば、この道路{どうろ}^は来週{らいしゅう}から工事{こうじ}が始{はじ}まるということです。",
+     "english": "According to the city notice, construction on this road begins next week.",
+     "note": "Source (によれば) + formal relay."
+    },
+    {
+     "japanese": "さっき川村{かわむら}さんから電話{でんわ}がありました。今日{きょう}^は社{しゃ}に戻{もど}れないとのことです。",
+     "english": "Kawamura called a moment ago. They said they can't come back to the office today.",
+     "note": "Relaying a person's message → とのことだ."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "店{みせ}の人{ひと}の話{はなし}で^は、この地方{ちほう}の米{こめ}^はとてもおいしいということだ。",
+     "english": "According to the shopkeeper, the rice from this region is very good."
+    },
+    {
+     "japanese": "メールによると、林{はやし}さん^は来週{らいしゅう}^はとても忙{いそが}しいとのことです。",
+     "english": "According to the email, Hayashi is very busy next week."
+    },
+    {
+     "japanese": "【手紙{てがみ}】新{あたら}しい仕事{しごと}が決{き}まったとのこと、おめでとうございます。",
+     "english": "[Letter] I hear you've found a new job—congratulations."
+    }
+   ],
+   "book_explanation": "「～だそうだ。」A way to pass on acquired info, stiffer than そうだ. Source shown with ～では・～によると・～によれば. とのことだ often when relaying what a person said.",
+   "one_line_memory_trick": "とのこと = the office memo version of 'they said'.",
+   "chapter": "p1-07"
+  },
+  {
+   "id": "toiwareteiru",
+   "pattern": "～と言われている",
+   "reading": "といわれている",
+   "meaning": "It is said that ~ / people say ~",
+   "category": "Reported speech",
+   "formality": "neutral / formal",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + と言われている",
+     "example": "流行すると言われている"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + と言われている",
+     "example": "体にいいと言われている"
+    },
+    {
+     "type": "な-adj",
+     "form": "普通形(～だ) + と言われている",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "普通形(Noun だ) + と言われている",
+     "example": ""
+    }
+   ],
+   "connection_notes": "Plain form + と言われている. Often with 昔から / 一般に / 世間では.",
+   "can_be_used_for": [
+    "General opinion / common belief",
+    "Traditional sayings",
+    "Predictions people make"
+   ],
+   "cannot_be_used_for": [
+    "Message from one specific person",
+    "Speaker's own opinion"
+   ],
+   "exam_pinpoint": "Information that 'everyone / the public' says, no specific speaker (昔から・一般に・今年は…が流行する) → と言われている",
+   "clue_words": [
+    "昔から",
+    "一般に",
+    "世間では",
+    "今年は",
+    "体にいい"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ということだ",
+     "difference": "ということだ relays info from a particular source.",
+     "how_to_choose": "Public / general belief → と言われている."
+    },
+    {
+     "pattern": "～とか",
+     "difference": "とか = vague rumor I heard.",
+     "how_to_choose": "Widely-held view → と言われている."
+    }
+   ],
+   "common_traps": [
+    "Using と言われている for a phone message from a colleague"
+   ],
+   "examples": [
+    {
+     "japanese": "今年{ことし}^は黒{くろ}い服{ふく}が流行{りゅうこう}すると言{い}われている。",
+     "english": "It's said black clothes will be in fashion this year.",
+     "note": "General prediction by people."
+    },
+    {
+     "japanese": "納豆{なっとう}^は体{からだ}にいいと言{い}われている。",
+     "english": "Natto is said to be good for your health.",
+     "note": "Common belief."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "今度{こんど}の大会{たいかい}で^は中川選手{なかがわせんしゅ}が優勝{ゆうしょう}するだろうと言{い}われています。",
+     "english": "It's said that Nakagawa will probably win the next tournament."
+    }
+   ],
+   "book_explanation": "「～と、世間の人たちが言っている。」",
+   "one_line_memory_trick": "と言われている = 'the whole world whispers…'",
+   "chapter": "p1-07"
+  },
+  {
+   "id": "toka-hearsay",
+   "pattern": "～とか",
+   "reading": "とか",
+   "meaning": "I heard something like ~ (vague hearsay)",
+   "category": "Reported speech",
+   "formality": "casual / neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + とか",
+     "example": "飼っているとか"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + とか",
+     "example": "おいしいとか"
+    },
+    {
+     "type": "な-adj",
+     "form": "普通形(～だ) + とか",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "Noun だ + とか",
+     "example": "出張だとか"
+    }
+   ],
+   "connection_notes": "Plain form + とか at the end of a sentence (≠ listing とか).",
+   "can_be_used_for": [
+    "Unconfirmed rumor / vague hearsay",
+    "Friendly small talk (…とか。～ですね)"
+   ],
+   "cannot_be_used_for": [
+    "Official, certain information",
+    "Speaker's own experience"
+   ],
+   "exam_pinpoint": "Speaker isn't sure, heard it vaguely (rumor) and then comments on it → とか",
+   "clue_words": [
+    "うわさ",
+    "～んですか",
+    "にぎやかでしょうね",
+    "確かじゃないけど"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～って",
+     "difference": "って is casual quote (clear). とか is vaguer.",
+     "how_to_choose": "Vague/unsure rumor → とか."
+    },
+    {
+     "pattern": "～とか～とか (listing)",
+     "difference": "Listing examples.",
+     "how_to_choose": "At sentence end after a clause → hearsay."
+    }
+   ],
+   "common_traps": [
+    "Using とか for a formal announcement"
+   ],
+   "examples": [
+    {
+     "japanese": "来月{らいげつ}また出張{しゅっちょう}だとか。今度{こんど}^はどちらに行{い}かれるんですか。",
+     "english": "I hear you have another business trip next month. Where are you going this time?",
+     "note": "Heard vaguely → とか."
+    },
+    {
+     "japanese": "あの店{みせ}のパン^はとてもおいしいとか。今日{きょう}、帰{かえ}りに買{か}って帰{かえ}ります。",
+     "english": "I heard that shop's bread is very good. I'll buy some on my way home today.",
+     "note": "Unconfirmed info."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "お宅{たく}で^はいろいろな動物{どうぶつ}を飼{か}っているとか。にぎやかでしょうね。",
+     "english": "I hear you keep all kinds of animals at home. It must be lively."
+    }
+   ],
+   "book_explanation": "「～と聞いた。」Used for unclear things heard as rumors, etc.",
+   "one_line_memory_trick": "とか = 'something like that, I heard…' 🤷",
+   "chapter": "p1-07"
+  },
+  {
+   "id": "tte",
+   "pattern": "～って",
+   "reading": "って",
+   "meaning": "(Someone) said ~ / I heard ~ (casual quotation)",
+   "category": "Reported speech",
+   "formality": "casual",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + って",
+     "example": "休むって言ってた"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + って",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "普通形(～だ) + って",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "Noun だ + って",
+     "example": "料理の先生だって"
+    }
+   ],
+   "connection_notes": "Casual form of ～と. The verb after it (言っている・聞いた) is often omitted. Can attach directly to a quoted statement (来てくださいって).",
+   "can_be_used_for": [
+    "Casual hearsay",
+    "Quoting someone's words",
+    "Passing on a message among friends"
+   ],
+   "cannot_be_used_for": [
+    "Formal writing / business announcements"
+   ],
+   "exam_pinpoint": "Casual conversation between friends passing on what someone said → って",
+   "clue_words": [
+    "～君",
+    "～よ",
+    "～んだって",
+    "行ってみようよ",
+    "言ってたよ"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～という",
+     "difference": "という (sentence end) is written and stiff.",
+     "how_to_choose": "Chatty tone → って; written history → という."
+    },
+    {
+     "pattern": "～ということだ",
+     "difference": "Formal relay.",
+     "how_to_choose": "Casual → って."
+    }
+   ],
+   "common_traps": [
+    "Using って in a formal notice"
+   ],
+   "examples": [
+    {
+     "japanese": "佐藤{さとう}さんの奥{おく}さん^は料理{りょうり}の先生{せんせい}だって。",
+     "english": "I heard Sato's wife is a cooking teacher.",
+     "note": "Casual hearsay, 聞いた omitted."
+    },
+    {
+     "japanese": "山川君{やまかわくん}、先生{せんせい}が教員室{きょういんしつ}まで来{き}てくださいって。",
+     "english": "Yamakawa, the teacher says to please come to the staff room.",
+     "note": "って attached directly to the quoted words."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "小川{おがわ}さん、今日{きょう}^は休{やす}むって言{い}ってたよ。",
+     "english": "Ogawa said they'd be off today."
+    },
+    {
+     "japanese": "駅前{えきまえ}にタイ料理{りょうり}のレストランができたんだって。行{い}ってみようよ。",
+     "english": "I heard a Thai restaurant opened in front of the station. Let's go try it."
+    }
+   ],
+   "book_explanation": "「～と言っている・～と聞いた。」Casual spoken form of ～と; the following verb is often omitted.",
+   "one_line_memory_trick": "って = the texting version of と言っていた.",
+   "chapter": "p1-07"
+  },
+  {
+   "id": "toiu-hearsay",
+   "pattern": "～という (sentence-final hearsay)",
+   "reading": "という",
+   "meaning": "It is said that ~ (written)",
+   "category": "Reported speech",
+   "formality": "written",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + という",
+     "example": "行われてきたという"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + という",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "普通形(～だ) + という",
+     "example": ""
+    },
+    {
+     "type": "Noun",
+     "form": "普通形(Noun だ) + という",
+     "example": "野原だったという"
+    }
+   ],
+   "connection_notes": "Plain form + という at sentence end. Stiff, written.",
+   "can_be_used_for": [
+    "Legends, history, traditions (written)",
+    "Narration"
+   ],
+   "cannot_be_used_for": [
+    "Casual conversation",
+    "Speaker's own experience"
+   ],
+   "exam_pinpoint": "Written narration about history/tradition (昔・古くから・～年前に) ending in plain form → という",
+   "clue_words": [
+    "昔",
+    "古くから",
+    "～年前",
+    "伝わった",
+    "この辺りは"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～って",
+     "difference": "Casual.",
+     "how_to_choose": "Written/history → という."
+    },
+    {
+     "pattern": "～と言われている",
+     "difference": "Also general; という is a stiffer narrative ending.",
+     "how_to_choose": "Both possible; という for storytelling style."
+    }
+   ],
+   "common_traps": [
+    "Confusing with Noun という Noun (naming)"
+   ],
+   "examples": [
+    {
+     "japanese": "この辺{あた}り^は昔{むかし}、広{ひろ}い野原{のはら}だったという。",
+     "english": "It's said this area was once a wide field.",
+     "note": "History, written style."
+    },
+    {
+     "japanese": "豆腐{とうふ}^は1300年{ねん}ぐらい前{まえ}に中国{ちゅうごく}から日本{にほん}に伝{つた}わったという。",
+     "english": "Tofu is said to have come to Japan from China about 1300 years ago.",
+     "note": "Written narration of history."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "この祭{まつ}り^は村{むら}で古{ふる}くから行{おこな}われてきたという。",
+     "english": "This festival is said to have been held in the village since long ago."
+    }
+   ],
+   "book_explanation": "「～だそうだ。」A slightly stiff written expression.",
+   "one_line_memory_trick": "という (end) = 'Legend has it…'",
+   "chapter": "p1-07"
+  },
+  {
+   "id": "hazuganai",
+   "pattern": "～はずがない",
+   "reading": "はずがない",
+   "meaning": "There's no way ~ (logically impossible)",
+   "category": "Negation",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + はずがない",
+     "example": "来ないはずがない"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + はずがない",
+     "example": "易しいはずがない"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な / ～である + はずがない",
+     "example": "暇なはずがない"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + の / である + はずがない",
+     "example": "休みのはずはありません"
+    }
+   ],
+   "connection_notes": "Noun + の + はず; な-adj + な. Also はずはない / はずはありません.",
+   "can_be_used_for": [
+    "Strong denial based on evidence/reasoning (約束した・確認した)"
+   ],
+   "cannot_be_used_for": [
+    "Partial negation ('not necessarily')",
+    "Speaker's own will"
+   ],
+   "exam_pinpoint": "Speaker has a GROUND (約束した・電話で確認した・国家試験だ) and denies with confidence → はずがない",
+   "clue_words": [
+    "～んだから",
+    "確認した",
+    "約束した",
+    "～なのだから",
+    "どうしたのかなあ"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～わけがない",
+     "difference": "Same meaning; わけがない is more emotional/subjective and colloquial (わけない).",
+     "how_to_choose": "Both often OK; logic/evidence → はず, emotional rejection → わけ."
+    },
+    {
+     "pattern": "～とは限らない",
+     "difference": "とは限らない = not always (partial).",
+     "how_to_choose": "100% denial → はずがない."
+    },
+    {
+     "pattern": "～ないはずだ",
+     "difference": "ないはずだ = 'should not be' (expectation), weaker.",
+     "how_to_choose": "'No way!' → はずがない."
+    }
+   ],
+   "common_traps": [
+    "Choosing とは限らない when the speaker is 100% sure"
+   ],
+   "examples": [
+    {
+     "japanese": "ちゃんと約束{やくそく}したんだから、彼{かれ}が来{こ}ないはずがない。どうしたのかなあ。",
+     "english": "We definitely promised, so there's no way he won't come. I wonder what happened.",
+     "note": "Evidence (約束) → strong denial."
+    },
+    {
+     "japanese": "あの店{みせ}が今日{きょう}休{やす}みのはず^はありません。電話{でんわ}で確認{かくにん}したんですから。",
+     "english": "There's no way that shop is closed today. I checked by phone.",
+     "note": "Noun + の + はず."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "国家試験{こっかしけん}なのだから易{やさ}しいはずがない。がんばらなくて^は……。",
+     "english": "It's a national exam, so it can't be easy. I have to work hard…"
+    }
+   ],
+   "book_explanation": "「絶対～ない。」The speaker denies with strong conviction.",
+   "one_line_memory_trick": "はずがない = detective logic: 'Impossible, Watson.'",
+   "chapter": "p1-08"
+  },
+  {
+   "id": "wakeganai",
+   "pattern": "～わけがない",
+   "reading": "わけがない",
+   "meaning": "There's no way ~ / of course not ~",
+   "category": "Negation",
+   "formality": "neutral (わけない = casual)",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + わけがない",
+     "example": "買えるわけがない"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + わけがない",
+     "example": "きびしくないわけがない"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な / ～である + わけがない",
+     "example": "簡単なわけがない"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun + の / である + わけがない",
+     "example": ""
+    }
+   ],
+   "connection_notes": "Same connection as はずがない.",
+   "can_be_used_for": [
+    "Strong, emotional denial",
+    "Rhetorical 'of course not'"
+   ],
+   "cannot_be_used_for": [
+    "Partial negation",
+    "Polite neutral statements of fact"
+   ],
+   "exam_pinpoint": "Emphatic 'no way!' denial, often with こんなに / ～でしょう → わけがない",
+   "clue_words": [
+    "こんなに",
+    "～でしょう",
+    "絶対",
+    "まさか"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～はずがない",
+     "difference": "Near-synonym; はず is more reasoning-based.",
+     "how_to_choose": "Both often correct; check other options."
+    },
+    {
+     "pattern": "～わけではない",
+     "difference": "わけではない = 'it's not that ~' (partial).",
+     "how_to_choose": "がない = total denial; ではない = partial."
+    }
+   ],
+   "common_traps": [
+    "Mixing わけがない (total) and わけではない (partial)"
+   ],
+   "examples": [
+    {
+     "japanese": "こんなに大{おお}きい家{いえ}、わたしに買{か}えるわけがないでしょう。",
+     "english": "There's no way I could buy such a big house.",
+     "note": "Emotional total denial."
+    },
+    {
+     "japanese": "試合{しあい}に勝{か}つために練習{れんしゅう}しているのだ。練習{れんしゅう}がきびしくないわけがない。",
+     "english": "We train to win matches. Of course the practice is tough.",
+     "note": "Double negative → 'of course it is'."
+    }
+   ],
+   "more_examples": [],
+   "book_explanation": "「絶対～ない。」The speaker denies with strong conviction.",
+   "one_line_memory_trick": "わけがない = 'No WAY!' (with feeling).",
+   "chapter": "p1-08"
+  },
+  {
+   "id": "towakagiranai",
+   "pattern": "～とは限らない",
+   "reading": "とはかぎらない",
+   "meaning": "Not necessarily ~ / not always ~",
+   "category": "Negation",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + とは限らない",
+     "example": "知っているとは限らない"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + とは限らない",
+     "example": "質がいいとは限らない"
+    },
+    {
+     "type": "な-adj",
+     "form": "～(だ) + とは限らない",
+     "example": "本当(だ)とは限らない"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun(だ) + とは限らない",
+     "example": ""
+    }
+   ],
+   "connection_notes": "Plain form; だ is optional after な-adj/Noun.",
+   "can_be_used_for": [
+    "Partial negation of a general assumption",
+    "Warning that exceptions exist"
+   ],
+   "cannot_be_used_for": [
+    "Total denial ('no way')"
+   ],
+   "exam_pinpoint": "みんな / いつも / 必ず / だれでも + the speaker says there are exceptions → とは限らない",
+   "clue_words": [
+    "みんな",
+    "いつも",
+    "必ず",
+    "だれでも",
+    "高いものが",
+    "～からといって"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～わけではない",
+     "difference": "わけではない denies an inference from the situation; とは限らない denies an always-true generalization.",
+     "how_to_choose": "必ず/いつも/みんな → とは限らない."
+    },
+    {
+     "pattern": "～はずがない",
+     "difference": "Total denial.",
+     "how_to_choose": "Exceptions exist → とは限らない."
+    }
+   ],
+   "common_traps": [
+    "Missing 必ず/いつも/みんな clue"
+   ],
+   "examples": [
+    {
+     "japanese": "値段{ねだん}が高{たか}いものが必{かなら}ず質{しつ}がいいと^は限{かぎ}らない。",
+     "english": "Expensive things aren't necessarily good quality.",
+     "note": "必ず + exceptions → とは限らない."
+    },
+    {
+     "japanese": "旅行中{りょこうちゅう}にけがをしないと^は限{かぎ}りません。保険{ほけん}に入{はい}っておいたほうがいいですよ。",
+     "english": "You can't be sure you won't get hurt on a trip. Better get insurance.",
+     "note": "Warning: not guaranteed."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "この歌{うた}^は古{ふる}くから歌{うた}われているが、日本人{にほんじん}がみんな知{し}っていると^は限{かぎ}らない。",
+     "english": "This song has been sung for ages, but not every Japanese person knows it."
+    },
+    {
+     "japanese": "新聞{しんぶん}に書{か}いてあることがいつも本当{ほんとう}のこと(だ)と^は限{かぎ}らない。",
+     "english": "What's written in the newspaper isn't always true."
+    }
+   ],
+   "book_explanation": "「必ず～とは断定できない・～ではない場合もある。」Often with みんな・いつも・だれでも・必ず.",
+   "one_line_memory_trick": "とは限らない = 'Not 100%.'",
+   "chapter": "p1-08"
+  },
+  {
+   "id": "wakedewanai",
+   "pattern": "～わけではない / ～というわけではない / ～のではない",
+   "reading": "わけではない / というわけではない / のではない",
+   "meaning": "It's not that ~ / it doesn't mean ~",
+   "category": "Negation",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + わけではない",
+     "example": "忘れていたわけではありません"
+    },
+    {
+     "type": "い-adj",
+     "form": "普通形 + わけではない",
+     "example": ""
+    },
+    {
+     "type": "な-adj",
+     "form": "～な / ～である + わけではない; ～(だ) + というわけではない; ～な + のではない",
+     "example": "好き(だ)というわけではない"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun の / な / である + わけではない; Noun(だ) + というわけではない; Noun な + のではない",
+     "example": ""
+    }
+   ],
+   "connection_notes": "Three forms with different connections; のではない (casual: んじゃない) negates only part of a statement.",
+   "can_be_used_for": [
+    "Denying what the listener might assume from the situation",
+    "Correcting part of a statement (転勤するのではない、辞めるんです)"
+   ],
+   "cannot_be_used_for": [
+    "Total, emotional denial"
+   ],
+   "exam_pinpoint": "Speaker corrects a natural ASSUMPTION ('you might think ~, but actually…') → わけではない / のではない",
+   "clue_words": [
+    "～ままでしたが",
+    "～が、",
+    "実は",
+    "～んです",
+    "自分で作ったの"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～わけがない",
+     "difference": "Total denial.",
+     "how_to_choose": "'Not that ~' (partial) → わけではない."
+    },
+    {
+     "pattern": "～とは限らない",
+     "difference": "Against generalizations with 必ず/いつも.",
+     "how_to_choose": "Against an assumption from the situation → わけではない."
+    },
+    {
+     "pattern": "～ではなく",
+     "difference": "ではなく gives the correct alternative in the same sentence.",
+     "how_to_choose": "Structure 'not A but B' mid-sentence → ではなく."
+    }
+   ],
+   "common_traps": [
+    "Choosing わけがない (too strong)"
+   ],
+   "examples": [
+    {
+     "japanese": "長{なが}い間{あいだ}本{ほん}をお借{か}りしたままでしたが、忘{わす}れていたわけで^はありません。",
+     "english": "I kept your book for a long time, but it's not that I forgot.",
+     "note": "Denying the natural assumption."
+    },
+    {
+     "japanese": "転勤{てんきん}するので^はありません。会社{かいしゃ}を辞{や}めるんです。",
+     "english": "It's not that I'm being transferred. I'm quitting the company.",
+     "note": "Partial correction → のではない."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "いつでも電話{でんわ}に出{で}られるわけで^はありません。連絡{れんらく}^はメールでお願{ねが}いします。",
+     "english": "I can't always answer the phone. Please contact me by email."
+    },
+    {
+     "japanese": "この仕事{しごと}が好{す}き(だ)というわけで^はないが、彼{かれ}といっしょに仕事{しごと}ができて楽{たの}しい。",
+     "english": "It's not that I like this job, but working with him is fun."
+    },
+    {
+     "japanese": "A「いい帽子{ぼうし}ね。高{たか}かったでしょう。」B「これ^は買{か}ったんじゃないの。自分{じぶん}で作{つく}ったの。」",
+     "english": "A: Nice hat. Was it expensive? B: I didn't buy it. I made it myself."
+    }
+   ],
+   "book_explanation": "「状況から～だと想像されるだろうが、実はそうではない。」Negates only the ～ part.",
+   "one_line_memory_trick": "わけではない = 'It's not like that…' (soft correction).",
+   "chapter": "p1-08"
+  },
+  {
+   "id": "naikotowanai",
+   "pattern": "～ないことはない",
+   "reading": "ないことはない",
+   "meaning": "It's not that ~ isn't (= it is, somewhat / it's possible)",
+   "category": "Negation",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "ない形 + ことはない",
+     "example": "歩けないことはない"
+    },
+    {
+     "type": "い-adj",
+     "form": "～くない + ことはない",
+     "example": "おいしくないことはない"
+    },
+    {
+     "type": "な-adj",
+     "form": "～でない + ことはない",
+     "example": "心配でないことはない"
+    },
+    {
+     "type": "Noun",
+     "form": "Noun でない + ことはない",
+     "example": ""
+    }
+   ],
+   "connection_notes": "Double negative. Often followed by が / けど + a reservation.",
+   "can_be_used_for": [
+    "Weak, reluctant affirmation",
+    "'Possible, but…'"
+   ],
+   "cannot_be_used_for": [
+    "Strong affirmation",
+    "Advice 'no need to' (that is ～ことはない without ない)"
+   ],
+   "exam_pinpoint": "Weak yes + reservation (～ないことはないが、かなり時間がかかる) → ないことはない",
+   "clue_words": [
+    "～が、",
+    "けど",
+    "かなり",
+    "もっと",
+    "まあ"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ことはない (no need)",
+     "difference": "Verb 辞書形 + ことはない = there's no need to.",
+     "how_to_choose": "ない形 before ことはない → weak affirmation."
+    }
+   ],
+   "common_traps": [
+    "Reading it as negative — it's actually a mild YES"
+   ],
+   "examples": [
+    {
+     "japanese": "ここから駅{えき}まで歩{ある}けないこと^はありませんが、かなり時間{じかん}がかかりますよ。",
+     "english": "It's not impossible to walk to the station from here, but it takes a long time.",
+     "note": "Weak yes + reservation."
+    },
+    {
+     "japanese": "この店{みせ}のカレーもおいしくないこと^はないが、わたし^はもっと辛{から}いのが好{す}きだ。",
+     "english": "This shop's curry isn't bad, but I like it spicier.",
+     "note": "Mild affirmation."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "試験{しけん}の結果{けっか}が心配{しんぱい}でないこと^はないのですが、今{いま}^は終{お}わってほっとしています。",
+     "english": "It's not that I'm not worried about the results, but right now I'm relieved it's over."
+    }
+   ],
+   "book_explanation": "「絶対～ないとは言えない。」Weakly affirms by negating a negative.",
+   "one_line_memory_trick": "ないことはない = 'not NOT… so, kinda yes.'",
+   "chapter": "p1-08"
+  },
+  {
+   "id": "kotowa-ga",
+   "pattern": "～ことは～が、…",
+   "reading": "ことは…が",
+   "meaning": "It's true that ~, but …",
+   "category": "Negation",
+   "formality": "neutral",
+   "formation": [
+    {
+     "type": "Verb",
+     "form": "普通形 + ことは + same verb 普通形/丁寧形 + が",
+     "example": "読んだことは読んだが"
+    },
+    {
+     "type": "い-adj",
+     "form": "～い + ことは + ～い + が",
+     "example": "高いことは高いが"
+    },
+    {
+     "type": "な-adj",
+     "form": "～な + ことは + ～だ + が",
+     "example": "大変なことは大変だが"
+    },
+    {
+     "type": "Noun",
+     "form": "—",
+     "example": ""
+    }
+   ],
+   "connection_notes": "The same word is repeated before and after ことは.",
+   "can_be_used_for": [
+    "Admitting a fact then shifting to a more important point"
+   ],
+   "cannot_be_used_for": [
+    "Strong emphasis of the first part"
+   ],
+   "exam_pinpoint": "Same word repeated around ことは + が → admitting but downplaying",
+   "clue_words": [
+    "～ことは～が",
+    "～んですが",
+    "でも"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ないことはない",
+     "difference": "Both are mild; ことは～が repeats the same word.",
+     "how_to_choose": "Look for the repeated word."
+    }
+   ],
+   "common_traps": [
+    "Different words before and after ことは"
+   ],
+   "examples": [
+    {
+     "japanese": "彼{かれ}からの手紙{てがみ}^は読{よ}んだこと^は読{よ}んだんですが、意味{いみ}がよくわかりませんでした。",
+     "english": "I did read his letter, but I didn't really understand it.",
+     "note": "Admit, then the real point."
+    },
+    {
+     "japanese": "この本{ほん}^は高{たか}いこと^は高{たか}いが、写真{しゃしん}が多{おお}くて楽{たの}しめそうだ。",
+     "english": "This book is expensive, sure, but with lots of photos it looks enjoyable.",
+     "note": "Same adjective repeated."
+    }
+   ],
+   "more_examples": [
+    {
+     "japanese": "わたし^は泳{およ}げること^は泳{およ}げますが、長{なが}い距離{きょり}^はだめなんです。",
+     "english": "I can swim, but not long distances."
+    },
+    {
+     "japanese": "子{こ}どもを育{そだ}てるの^は大変{たいへん}なこと^は大変{たいへん}だが、成長{せいちょう}が楽{たの}しみで大変{たいへん}さを忘{わす}れる。",
+     "english": "Raising kids is hard, true, but watching them grow makes you forget it."
+    }
+   ],
+   "book_explanation": "「確かに～だが、その事実はあまり重要ではなくて、…。」",
+   "one_line_memory_trick": "XことはXが = 'Yes, X… BUT.'",
+   "chapter": "p1-08"
+  },
+  {
+   "id": "temoraitai",
+   "pattern": "～てもらいたい / ～ていただきたい / ～てほしい",
+   "meaning": "I want someone (else) to do ~",
+   "category": "Wishes",
+   "formality": "neutral",
+   "formation": "Verb て形 + もらいたい / いただきたい / ほしい",
+   "can_be_used_for": [
+    "Wanting another person to act",
+    "Indirect request"
+   ],
+   "cannot_be_used_for": [
+    "Speaker's own action (use ～たい)"
+   ],
+   "exam_pinpoint": "Doer is SOMEONE ELSE → てほしい / てもらいたい",
+   "clue_words": [
+    "だれかに",
+    "～んですが",
+    "そばに"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～たい",
+     "difference": "たい = I do it myself.",
+     "how_to_choose": "Others act → てほしい."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "だれかに自分{じぶん}の悩{なや}みを聞{き}いてもらいたい。",
+     "english": "I want someone to listen to my worries.",
+     "note": "Doer = someone else."
+    },
+    {
+     "japanese": "ずっとぼくのそばにいてほしい。",
+     "english": "I want you to stay by my side.",
+     "note": "Wish about listener's action."
+    }
+   ],
+   "one_line_memory_trick": "てほしい = 'I wish YOU would…'",
+   "chapter": "p1-09"
+  },
+  {
+   "id": "naidehoshii",
+   "pattern": "～ないでほしい / ～ないでもらいたい",
+   "meaning": "I don't want someone to do ~",
+   "category": "Wishes",
+   "formality": "neutral",
+   "formation": "Verb ない形 + で + ほしい / もらいたい / いただきたい",
+   "can_be_used_for": [
+    "Asking others not to do something"
+   ],
+   "cannot_be_used_for": [
+    "～なくてほしい (wrong form)",
+    "Speaker's own action (use たくない)"
+   ],
+   "exam_pinpoint": "Someone else should NOT do it → ないでほしい",
+   "clue_words": [
+    "これ以上",
+    "遠くへ"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～てほしくない",
+     "difference": "Same idea, stronger dislike.",
+     "how_to_choose": "Check form: ないで, not なくて."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "これ以上{いじょう}自然{しぜん}をこわさないでほしい。",
+     "english": "I don't want them to destroy nature any more.",
+     "note": "Others' action, negative wish."
+    },
+    {
+     "japanese": "遠{とお}くへ行{い}かないでほしい。",
+     "english": "Please don't go far away.",
+     "note": "ない形+で+ほしい."
+    }
+   ],
+   "one_line_memory_trick": "ないでほしい = 'please don't (you)'.",
+   "chapter": "p1-09"
+  },
+  {
+   "id": "sasetemoraitai",
+   "pattern": "～(さ)せてもらいたい / ～(さ)せていただきたい / ～(さ)せてほしい",
+   "meaning": "Please let me ~",
+   "category": "Wishes",
+   "formality": "neutral / polite",
+   "formation": "Causative て形 (帰らせて・食べさせて・させて) + もらいたい / いただきたい / ほしい",
+   "can_be_used_for": [
+    "Asking permission to do something yourself"
+   ],
+   "cannot_be_used_for": [
+    "Wanting others to do the action"
+   ],
+   "exam_pinpoint": "SPEAKER will do it and asks permission → させてほしい",
+   "clue_words": [
+    "わたしに",
+    "早く帰らせて",
+    "～のですが"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～てほしい",
+     "difference": "Other person acts.",
+     "how_to_choose": "Speaker acts → させて."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "今日{きょう}^は早{はや}く帰{かえ}らせていただきたいのですが。",
+     "english": "I'd like to leave early today, if possible.",
+     "note": "Speaker asks permission."
+    },
+    {
+     "japanese": "ポスター^はわたしに作{つく}らせてほしい。",
+     "english": "Let me make the poster.",
+     "note": "Speaker wants to do it."
+    }
+   ],
+   "one_line_memory_trick": "させてほしい = 'Let ME!'",
+   "chapter": "p1-09"
+  },
+  {
+   "id": "toii",
+   "pattern": "～といい / ～ばいい / ～たらいい",
+   "meaning": "I hope ~ (wish) / you should ~ (advice)",
+   "category": "Wishes",
+   "formality": "neutral",
+   "formation": "辞書形+と / ば形 / た形+ら + いい",
+   "can_be_used_for": [
+    "Hoping for an outcome you can't control",
+    "Advice (～といいですよ)"
+   ],
+   "cannot_be_used_for": [
+    "Wish about your own deliberate action"
+   ],
+   "exam_pinpoint": "Wish for an uncontrollable result (会える・合格できる) → といい / たらいい",
+   "clue_words": [
+    "～なあ",
+    "～ですね",
+    "～が……"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～たらどうか",
+     "difference": "Suggestion only.",
+     "how_to_choose": "Wish → といい."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "いつかまたみんなで会{あ}えるといいですね。",
+     "english": "I hope we can all meet again someday.",
+     "note": "Wish beyond control."
+    },
+    {
+     "japanese": "合格{ごうかく}できたらいいなあ。",
+     "english": "I hope I pass.",
+     "note": "たらいいなあ = wish."
+    }
+   ],
+   "one_line_memory_trick": "といい = 🙏",
+   "chapter": "p1-09"
+  },
+  {
+   "id": "meirei",
+   "pattern": "命令(しろ) / 禁止(～な)",
+   "meaning": "Do ~! / Don't ~!",
+   "category": "Commands",
+   "formality": "casual / strong",
+   "formation": "命令: 行け・降りろ・しろ・来い (くれる→くれ) / 禁止: 辞書形 + な",
+   "can_be_used_for": [
+    "Strong orders",
+    "Cheering (走れ!)",
+    "Signs",
+    "Indirect quotes (止まれという意味)"
+   ],
+   "cannot_be_used_for": [
+    "Polite requests"
+   ],
+   "exam_pinpoint": "Quoted order inside と言われた / という意味 / と書いてある → 命令形 or ～な",
+   "clue_words": [
+    "と言われている",
+    "という意味",
+    "立て札"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～こと",
+     "difference": "こと = written rules/notices.",
+     "how_to_choose": "Shouted/quoted → 命令形."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "赤信号{あかしんごう}^は止{と}まれという意味{いみ}です。",
+     "english": "A red light means 'stop'.",
+     "note": "Indirect command."
+    },
+    {
+     "japanese": "父{ちち}^は医者{いしゃ}にお酒{さけ}を飲{の}むなと言{い}われている。",
+     "english": "Dad's doctor told him not to drink.",
+     "note": "Prohibition 辞書形+な."
+    }
+   ],
+   "one_line_memory_trick": "な at the end = 🚫",
+   "chapter": "p1-10"
+  },
+  {
+   "id": "koto-command",
+   "pattern": "～こと (instruction)",
+   "meaning": "Must do ~ / do not ~ (written rule)",
+   "category": "Commands",
+   "formality": "written",
+   "formation": "Verb 辞書形 / ない形 + こと",
+   "can_be_used_for": [
+    "Rules on notices",
+    "Teacher's instructions"
+   ],
+   "cannot_be_used_for": [
+    "Polite requests to superiors"
+   ],
+   "exam_pinpoint": "Notice / rule / teacher's instruction ending in a noun-like command → こと",
+   "clue_words": [
+    "立て札",
+    "必ず",
+    "注意書き"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "命令形",
+     "difference": "Spoken, strong.",
+     "how_to_choose": "Written notice → こと."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "レポート^は来週{らいしゅう}月曜日{げつようび}に必{かなら}ず出{だ}すこと。",
+     "english": "Hand in the report next Monday without fail.",
+     "note": "Teacher's rule."
+    },
+    {
+     "japanese": "危{あぶ}ないからこの川{かわ}で泳{およ}がないこと。",
+     "english": "Dangerous: no swimming in this river.",
+     "note": "Sign → ないこと."
+    }
+   ],
+   "one_line_memory_trick": "こと = rule board.",
+   "chapter": "p1-10"
+  },
+  {
+   "id": "beki",
+   "pattern": "～べきだ / ～べき / ～べきではない",
+   "meaning": "Should ~ / should not ~ (speaker's opinion)",
+   "category": "Advice",
+   "formality": "neutral",
+   "formation": "Verb 辞書形 + べきだ (する → するべき / すべき); べき + Noun",
+   "can_be_used_for": [
+    "Speaker's opinion of what's right"
+   ],
+   "cannot_be_used_for": [
+    "Official rules/laws",
+    "Negative as ～ないべき (use べきではない)"
+   ],
+   "exam_pinpoint": "Speaker's personal 'that's what one should do' → べきだ; 'shouldn't' → べきではない",
+   "clue_words": [
+    "せっかく",
+    "大事なこと",
+    "～と思います"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ほうがいい",
+     "difference": "Softer advice.",
+     "how_to_choose": "Moral/strong opinion → べき."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "せっかく入{はい}った会社{かいしゃ}なのだから、簡単{かんたん}に辞{や}めるべきで^はない。",
+     "english": "You worked hard to join; you shouldn't quit so easily.",
+     "note": "Opinion → べきではない."
+    },
+    {
+     "japanese": "もう少{すこ}し話{はな}し合{あ}ってから決{き}めるべきだと思{おも}いますよ。",
+     "english": "I think we should discuss more before deciding.",
+     "note": "Speaker's view."
+    }
+   ],
+   "one_line_memory_trick": "べき = 'by my moral compass'.",
+   "chapter": "p1-10"
+  },
+  {
+   "id": "bekidatta",
+   "pattern": "～べきだった",
+   "meaning": "Should have ~ (regret / reflection)",
+   "category": "Regret",
+   "formality": "neutral",
+   "formation": "Verb 辞書形 + べきだった / べきではなかった",
+   "can_be_used_for": [
+    "Regret about past action",
+    "Criticism of past action"
+   ],
+   "cannot_be_used_for": [
+    "Future advice"
+   ],
+   "exam_pinpoint": "Bad situation NOW + what should have been done earlier (もっと早く・今では) → べきだった",
+   "clue_words": [
+    "もっと早く",
+    "今では",
+    "まだ～ない",
+    "残念"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ばよかった",
+     "difference": "ばよかった is more emotional, personal regret.",
+     "how_to_choose": "Both fine; べきだった = duty missed."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "レポートがまだ書{か}き終{お}わらない。もっと早{はや}くから始{はじ}めるべきだった。",
+     "english": "My report isn't finished. I should have started earlier.",
+     "note": "Regret."
+    },
+    {
+     "japanese": "あのとき本当{ほんとう}のことを言{い}うべきだった。",
+     "english": "I should have told the truth then.",
+     "note": "Past duty missed."
+    }
+   ],
+   "one_line_memory_trick": "べきだった = 'should-have' 😞",
+   "chapter": "p1-10"
+  },
+  {
+   "id": "taradouka",
+   "pattern": "～たらどうか",
+   "meaning": "Why don't you ~? (suggestion)",
+   "category": "Advice",
+   "formality": "neutral",
+   "formation": "Verb たら + どうですか / どうでしょうか / どう?",
+   "can_be_used_for": [
+    "Mild suggestion",
+    "Criticism for not doing it (謝ったらどうですか)"
+   ],
+   "cannot_be_used_for": [
+    "Speaker's own plans"
+   ],
+   "exam_pinpoint": "Speaker lightly suggests an action to the listener → たらどうですか",
+   "clue_words": [
+    "心配なら",
+    "疲れているみたい",
+    "じゃ、"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～たらいい",
+     "difference": "Advice/wish.",
+     "how_to_choose": "Question form → たらどう."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "少{すこ}し休{やす}んだらどうですか。",
+     "english": "Why don't you rest a bit?",
+     "note": "Suggestion."
+    },
+    {
+     "japanese": "悪{わる}いのはそっちですよ。一言{ひとこと}謝{あやま}ったらどうですか。",
+     "english": "You're the one at fault. Why not apologize?",
+     "note": "Criticism."
+    }
+   ],
+   "one_line_memory_trick": "たらどう = 'how about…?'",
+   "chapter": "p1-10"
+  },
+  {
+   "id": "kotonisuru",
+   "pattern": "～ことにする / ～ことにしている",
+   "meaning": "Decide to ~ / make it a rule to ~",
+   "category": "Intention & Effort",
+   "formality": "neutral",
+   "formation": "Verb 辞書形 / ない形 (/ている) + ことにする; ことにしている",
+   "can_be_used_for": [
+    "Speaker's own decision",
+    "Decision on the spot (ことにするよ)",
+    "Personal rule kept (ことにしている)"
+   ],
+   "cannot_be_used_for": [
+    "Decisions made by others/outside (use ことになる)"
+   ],
+   "exam_pinpoint": "The SPEAKER decides (～ので、…ことにした) → ことにする; others/organization decided → ことになる",
+   "clue_words": [
+    "～ので",
+    "よし、わかった",
+    "いつも"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ことになる",
+     "difference": "Decided by others/circumstances.",
+     "how_to_choose": "Own will → にする."
+    },
+    {
+     "pattern": "～ようにする",
+     "difference": "Effort, not decision.",
+     "how_to_choose": "One clear decision → ことにする."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "冷蔵庫{れいぞうこ}がこわれたので、新{あたら}しいのを買{か}うことにした。",
+     "english": "The fridge broke, so I decided to buy a new one.",
+     "note": "Own decision."
+    },
+    {
+     "japanese": "部長{ぶちょう}の言葉{ことば}^はきびしいが、わたし^は気{き}にしないことにしている。",
+     "english": "The manager's words are harsh, but I make a point of not minding them.",
+     "note": "Rule kept → ことにしている."
+    }
+   ],
+   "one_line_memory_trick": "ことにする = I hit the 'decide' button.",
+   "chapter": "p1-11"
+  },
+  {
+   "id": "younisuru",
+   "pattern": "～ようにする / ～ようにしている",
+   "meaning": "Try to (make a point of) ~",
+   "category": "Intention & Effort",
+   "formality": "neutral",
+   "formation": "Verb 辞書形 / ない形 + ようにする / ようにしている",
+   "can_be_used_for": [
+    "Ongoing effort / habit",
+    "Request (～ようにしてください)"
+   ],
+   "cannot_be_used_for": [
+    "One-time attempt at a single moment (use (よ)うとする)",
+    "Non-volitional verbs"
+   ],
+   "exam_pinpoint": "Continuous effort / careful habit (なるべく・大切に・遅れないように) → ようにする",
+   "clue_words": [
+    "なるべく",
+    "大切に",
+    "これからは",
+    "毎日"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～(よ)うとする",
+     "difference": "A one-time attempt right now.",
+     "how_to_choose": "Habitual effort → ようにする."
+    },
+    {
+     "pattern": "～ようになる",
+     "difference": "Change in ability/habit.",
+     "how_to_choose": "Effort → する; change → なる."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "これから^はもっと早{はや}く帰{かえ}るようにするよ。",
+     "english": "From now on I'll make an effort to come home earlier.",
+     "note": "Ongoing effort."
+    },
+    {
+     "japanese": "わたし^はなるべく自分{じぶん}で料理{りょうり}を作{つく}って食{た}べるようにしている。",
+     "english": "I try to cook for myself as much as possible.",
+     "note": "Habit → ようにしている."
+    }
+   ],
+   "one_line_memory_trick": "ようにする = daily discipline.",
+   "chapter": "p1-11"
+  },
+  {
+   "id": "youtosuru",
+   "pattern": "～(よ)うとする",
+   "meaning": "Try to ~ / be about to ~ / (neg.) won't even try",
+   "category": "Intention & Effort",
+   "formality": "neutral",
+   "formation": "Verb 意向形 (う・よう形) + とする",
+   "can_be_used_for": [
+    "An attempt (often failed)",
+    "Just about to (ようとしたとき)",
+    "Others' refusal (～うとしない)"
+   ],
+   "cannot_be_used_for": [
+    "Habitual effort",
+    "Negative form about the speaker (×わたしは行こうとしない)"
+   ],
+   "exam_pinpoint": "A single attempt that fails or is interrupted (～ようとしたが / ようとしたとき、突然) → (よ)うとする",
+   "clue_words": [
+    "なかなか～ない",
+    "～としたとき",
+    "突然",
+    "いくら勧めても"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ようにする",
+     "difference": "Continuous effort.",
+     "how_to_choose": "One moment → ようとする."
+    },
+    {
+     "pattern": "～つもりだ",
+     "difference": "Plan in mind, not an action.",
+     "how_to_choose": "Physical attempt → ようとする."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "家{いえ}を出{で}ようとしたとき、突然{とつぜん}大雨{おおあめ}が降{ふ}り出{だ}した。",
+     "english": "Just as I was about to leave, it suddenly poured.",
+     "note": "Just about to."
+    },
+    {
+     "japanese": "いくら勧{すす}めても夫{おっと}^は病院{びょういん}へ行{い}こうとしない。",
+     "english": "No matter how much I urge him, my husband won't go to the hospital.",
+     "note": "Others' no intent."
+    }
+   ],
+   "one_line_memory_trick": "(よ)うとする = reaching for it… 🤏",
+   "chapter": "p1-11"
+  },
+  {
+   "id": "tsumorida",
+   "pattern": "～つもりだ (self-image)",
+   "meaning": "I believe I am ~ (though others may not agree)",
+   "category": "Intention & Effort",
+   "formality": "neutral",
+   "formation": "普通形 (な-adj な / Noun の / Verb た形・ている) + つもりだ — NOT 辞書形/ない形 in this use",
+   "can_be_used_for": [
+    "Speaker's own belief about themselves",
+    "Criticism (掃除したつもりですか)"
+   ],
+   "cannot_be_used_for": [
+    "Objective fact"
+   ],
+   "exam_pinpoint": "Self-image different from reality (まだ若いつもり・先輩のつもり) or 'that's what you call cleaning?' → つもりだ",
+   "clue_words": [
+    "まだまだ",
+    "本当は",
+    "それでも",
+    "こんなに～のに"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～つもりだ (intention)",
+     "difference": "Intention uses 辞書形/ない形 (行くつもり).",
+     "how_to_choose": "た形/adj/Noun の + つもり → self-image."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "わたし^は今年{ことし}77歳{さい}ですが、まだまだ若{わか}いつもりです。",
+     "english": "I'm 77 but I still feel young.",
+     "note": "Self-image."
+    },
+    {
+     "japanese": "こんなに汚{きたな}いのに、それでも掃除{そうじ}したつもりですか。",
+     "english": "It's this dirty—and you call that cleaning?",
+     "note": "Criticism."
+    }
+   ],
+   "one_line_memory_trick": "つもり (self-image) = mirror, mirror…",
+   "chapter": "p1-11"
+  },
+  {
+   "id": "sonkeigo",
+   "pattern": "尊敬語 (お～になる・れる/られる・いらっしゃる)",
+   "meaning": "Respectful language: actions of superiors",
+   "category": "Keigo",
+   "formality": "formal",
+   "formation": "お + ます-stem + になる / ご + する-noun + になる / ～れる・られる / お～ください. Special: いらっしゃる(行く・来る・いる)・おっしゃる・召し上がる・ごらんになる・なさる・ご存じだ",
+   "can_be_used_for": [
+    "Superior's actions (先生は…)"
+   ],
+   "cannot_be_used_for": [
+    "Your own actions"
+   ],
+   "exam_pinpoint": "Subject is the teacher/customer/superior → 尊敬語",
+   "clue_words": [
+    "先生は",
+    "お客様",
+    "社長"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "謙譲語",
+     "difference": "Humble = speaker's own actions.",
+     "how_to_choose": "Who acts? Superior → 尊敬."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "今日{きょう}^は何時{なんじ}ごろお帰{かえ}りになりますか。",
+     "english": "About what time will you go home today?",
+     "note": "お～になる."
+    },
+    {
+     "japanese": "お名前{なまえ}^は何{なん}とおっしゃいますか。",
+     "english": "What is your name?",
+     "note": "言う → おっしゃる."
+    }
+   ],
+   "one_line_memory_trick": "尊敬 = raise THEM up ⬆",
+   "chapter": "p1-12"
+  },
+  {
+   "id": "kenjougo1",
+   "pattern": "謙譲語1 (お～する・伺う・申し上げる)",
+   "meaning": "Humble language for own actions involving a superior",
+   "category": "Keigo",
+   "formality": "formal",
+   "formation": "お + ます-stem + する / ご + する-noun + する. Special: 伺う(行く・聞く)・拝見する・差し上げる・いただく・お目にかかる・申し上げる・存じ上げる",
+   "can_be_used_for": [
+    "Your action toward/for a superior"
+   ],
+   "cannot_be_used_for": [
+    "Superior's action"
+   ],
+   "exam_pinpoint": "Speaker does something FOR / TO a superior → お～する / 伺う",
+   "clue_words": [
+    "先生に",
+    "お持ちします",
+    "お宅に"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "尊敬語",
+     "difference": "Superior's action.",
+     "how_to_choose": "I act → 謙譲."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "荷物{にもつ}をお持{も}ちします。",
+     "english": "Let me carry your luggage.",
+     "note": "お～する."
+    },
+    {
+     "japanese": "明日{あした}先生{せんせい}のお宅{たく}に伺{うかが}います。",
+     "english": "I will visit your home tomorrow.",
+     "note": "行く → 伺う."
+    }
+   ],
+   "one_line_memory_trick": "謙譲 = lower MYSELF ⬇",
+   "chapter": "p1-12"
+  },
+  {
+   "id": "kenjougo2",
+   "pattern": "謙譲語2 (参る・申す・おる・いたす)",
+   "meaning": "Polite-humble for own actions to the listener",
+   "category": "Keigo",
+   "formality": "formal",
+   "formation": "参る(行く・来る)・申す(言う)・おる(いる)・いたす(する)・～ております",
+   "can_be_used_for": [
+    "Self-introduction, formal speech about yourself"
+   ],
+   "cannot_be_used_for": [
+    "Superior's action"
+   ],
+   "exam_pinpoint": "Formal self-description to the listener (～と申します・～ております) → 謙譲語2",
+   "clue_words": [
+    "と申します",
+    "おります",
+    "参ります"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "謙譲語1",
+     "difference": "1 needs a superior as target of the action.",
+     "how_to_choose": "No target, just politeness → 2."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "田中{たなか}と申{もう}します。",
+     "english": "My name is Tanaka.",
+     "note": "言う → 申す."
+    },
+    {
+     "japanese": "東京{とうきょう}に住{す}んでおります。",
+     "english": "I live in Tokyo.",
+     "note": "いる → おる."
+    }
+   ],
+   "one_line_memory_trick": "参る・申す・おる・いたす = humble four.",
+   "chapter": "p1-12"
+  },
+  {
+   "id": "teineigo",
+   "pattern": "丁寧語 (です・ます・ございます)",
+   "meaning": "Polite language",
+   "category": "Keigo",
+   "formality": "formal",
+   "formation": "です → でございます; あります → ございます; いい → よろしい",
+   "can_be_used_for": [
+    "Polite speech in general, shops, announcements"
+   ],
+   "cannot_be_used_for": [
+    "Showing respect for a specific person's action"
+   ],
+   "exam_pinpoint": "Shop/announcement polite form (～でございます) → 丁寧語",
+   "clue_words": [
+    "こちら",
+    "ございます",
+    "よろしい"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "尊敬語",
+     "difference": "Respect toward a person's action.",
+     "how_to_choose": "Just polite tone → 丁寧."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "トイレ^は二階{にかい}でございます。",
+     "english": "The restroom is on the second floor.",
+     "note": "です → でございます."
+    },
+    {
+     "japanese": "こちらでよろしいですか。",
+     "english": "Is this all right?",
+     "note": "いい → よろしい."
+    }
+   ],
+   "one_line_memory_trick": "丁寧 = smooth polite surface.",
+   "chapter": "p1-12"
+  },
+  {
+   "id": "inyou",
+   "pattern": "～と / ～ように / ～か (引用)",
+   "meaning": "Quotation: say that ~ / tell to ~ / ask whether ~",
+   "category": "Sentence structure",
+   "formality": "neutral",
+   "formation": "普通形 + と言う; 辞書形 + ように言う; 疑問 + か(どうか)",
+   "can_be_used_for": [
+    "Quoting statements, requests, questions"
+   ],
+   "cannot_be_used_for": [
+    "Requests with と alone (use ように)"
+   ],
+   "exam_pinpoint": "Reported question → か(どうか); reported request → ように; statement → と",
+   "clue_words": [
+    "聞かれた",
+    "言われた",
+    "わからない"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～って",
+     "difference": "Casual quote.",
+     "how_to_choose": "Formal → と."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "行{い}くかどうか、まだ決{き}めていない。",
+     "english": "I haven't decided whether to go.",
+     "note": "Embedded question."
+    },
+    {
+     "japanese": "先生{せんせい}に早{はや}く来{く}るように言{い}われた。",
+     "english": "The teacher told me to come early.",
+     "note": "Request."
+    }
+   ],
+   "one_line_memory_trick": "と = said; ように = told to; か = asked.",
+   "chapter": "p2"
+  },
+  {
+   "id": "meishi-shuushoku",
+   "pattern": "Noun modification (～た + Noun / ～ている + Noun)",
+   "meaning": "Clause describing a noun",
+   "category": "Sentence structure",
+   "formality": "neutral",
+   "formation": "普通形 clause + Noun (subject marked with が/の, never は)",
+   "can_be_used_for": [
+    "Explaining a noun"
+   ],
+   "cannot_be_used_for": [
+    "は inside the modifier"
+   ],
+   "exam_pinpoint": "Inside a modifying clause, subject uses が / の (not は)",
+   "clue_words": [
+    "が",
+    "の"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "という + Noun",
+     "difference": "Content of noun.",
+     "how_to_choose": "Info/news content → という."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "母{はは}が作{つく}った料理{りょうり}^はおいしい。",
+     "english": "The food my mother made is delicious.",
+     "note": "が inside."
+    },
+    {
+     "japanese": "背{せ}の高{たか}い人{ひと}^はだれですか。",
+     "english": "Who is the tall person?",
+     "note": "の for が."
+    }
+   ],
+   "one_line_memory_trick": "Inside the clause: が/の, not は.",
+   "chapter": "p2"
+  },
+  {
+   "id": "toiu-noun",
+   "pattern": "～という + Noun / ～といった + Noun",
+   "meaning": "Noun called ~ / content ~ / such as ~",
+   "category": "Sentence structure",
+   "formality": "neutral",
+   "formation": "Noun/普通形 + という + Noun; Noun や Noun + といった + Noun",
+   "can_be_used_for": [
+    "Naming (～という人)",
+    "Content of news/message (～というメール)",
+    "Examples (AやBといった)"
+   ],
+   "cannot_be_used_for": [
+    "といった with only one item"
+   ],
+   "exam_pinpoint": "Content of 話・メール・知らせ・うわさ → という; list of examples AやB → といった",
+   "clue_words": [
+    "メール",
+    "知らせ",
+    "うわさ",
+    "や"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～って",
+     "difference": "Casual.",
+     "how_to_choose": "Noun follows → という."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "電車{でんしゃ}が止{と}まっているというメールが来{き}た。",
+     "english": "I got an email saying the train had stopped.",
+     "note": "Content."
+    },
+    {
+     "japanese": "すしや天{てん}ぷらといった日本料理{にほんりょうり}が好{す}きだ。",
+     "english": "I like Japanese food such as sushi and tempura.",
+     "note": "Examples."
+    }
+   ],
+   "one_line_memory_trick": "といった = 'such as (list)'.",
+   "chapter": "p2"
+  },
+  {
+   "id": "kimatta-katachi",
+   "pattern": "Fixed patterns (～ば～ほど・～ことは～が・～ても～ても…)",
+   "meaning": "Set forms whose parts must match",
+   "category": "Sentence structure",
+   "formality": "neutral",
+   "formation": "Repeat the same word / pair fixed partners",
+   "can_be_used_for": [
+    "Star-sort (並べ替え) questions"
+   ],
+   "cannot_be_used_for": [
+    "Breaking the pair"
+   ],
+   "exam_pinpoint": "In ★ ordering questions, first link fixed pairs (たとえ…ても, …わけではなく, …ように…と)",
+   "clue_words": [
+    "★",
+    "たとえ",
+    "どんなに"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "—",
+     "difference": "—",
+     "how_to_choose": "Build the chunk, then place it."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "たとえどんなに難{むずか}しい問題{もんだい}でも、必{かなら}ず答{こた}え^はあると思{おも}う。",
+     "english": "No matter how hard the problem, I believe there's always an answer.",
+     "note": "たとえ…でも pair."
+    },
+    {
+     "japanese": "テーマ^は何{なん}でもいいというわけで^はなく、日本文化{にほんぶんか}に関{かん}することだけです。",
+     "english": "Not just any theme—only ones about Japanese culture.",
+     "note": "わけではなく chunk."
+    }
+   ],
+   "one_line_memory_trick": "Glue the pairs first, then order.",
+   "chapter": "p2"
+  },
+  {
+   "id": "taiou",
+   "pattern": "Beginning–end correspondence (～のは～からだ・～理由は～ことだ)",
+   "meaning": "Sentence-start word decides the ending",
+   "category": "Text grammar",
+   "formality": "written",
+   "formation": "～のは…からだ / ～理由は…ためだ / 問題は…ことだ / 夢は…ことだ",
+   "can_be_used_for": [
+    "Reading passages, choosing sentence endings"
+   ],
+   "cannot_be_used_for": [
+    "Ending that doesn't match the subject"
+   ],
+   "exam_pinpoint": "Starts with ～のは / 理由は → ends with からだ / ためだ; starts with 夢は / 目的は → ことだ",
+   "clue_words": [
+    "のは",
+    "理由は",
+    "目的は",
+    "夢は"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～わけだ",
+     "difference": "Conclusion.",
+     "how_to_choose": "Match the starter word."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "遅{おく}れたの^は電車{でんしゃ}が止{と}まったからだ。",
+     "english": "The reason I was late is that the train stopped.",
+     "note": "のは…からだ."
+    },
+    {
+     "japanese": "わたしの目的{もくてき}^は日本{にほん}の大学{だいがく}に入{はい}ることだ。",
+     "english": "My aim is to enter a Japanese university.",
+     "note": "目的は…ことだ."
+    }
+   ],
+   "one_line_memory_trick": "Start key ↔ end lock 🔐",
+   "chapter": "p3"
+  },
+  {
+   "id": "jisei-teiru",
+   "pattern": "Tense & ～ている / ～ていた / ～てくる / ～ていく",
+   "meaning": "Choosing the right tense/aspect in a passage",
+   "category": "Text grammar",
+   "formality": "written",
+   "formation": "ている = ongoing/result; ていた = past state; てくる = change up to now; ていく = change from now",
+   "can_be_used_for": [
+    "Passage fill-in questions"
+   ],
+   "cannot_be_used_for": [
+    "Mixing timeline"
+   ],
+   "exam_pinpoint": "Change continuing toward now → てきた; from now into the future → ていく; result state → ている",
+   "clue_words": [
+    "これまで",
+    "これから",
+    "今では",
+    "最近"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ところだ",
+     "difference": "Moment.",
+     "how_to_choose": "Check timeline words."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "日本{にほん}に住{す}む外国人{がいこくじん}^は年々{ねんねん}増{ふ}えてきた。",
+     "english": "Foreign residents in Japan have increased year by year.",
+     "note": "Up to now → てきた."
+    },
+    {
+     "japanese": "これからも日本語{にほんご}の勉強{べんきょう}を続{つづ}けていきたい。",
+     "english": "I want to keep studying Japanese from now on.",
+     "note": "Into future → ていく."
+    }
+   ],
+   "one_line_memory_trick": "てくる ⬅ past→now; ていく ➡ now→future.",
+   "chapter": "p3"
+  },
+  {
+   "id": "bayokatta",
+   "pattern": "～ばよかった",
+   "meaning": "I wish I had ~ / should have ~",
+   "category": "Regret",
+   "formality": "neutral",
+   "formation": "Verb ば形 + よかった; ～なければよかった",
+   "can_be_used_for": [
+    "Speaker's personal regret",
+    "Mild advice about past (～ばよかったのに)"
+   ],
+   "cannot_be_used_for": [
+    "Future plans"
+   ],
+   "exam_pinpoint": "Personal regret now (～ばよかった・～なければよかった) → ばよかった",
+   "clue_words": [
+    "今では",
+    "残念",
+    "あのとき",
+    "～のに"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～べきだった",
+     "difference": "Duty/obligation tone.",
+     "how_to_choose": "Emotional regret → ばよかった."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "もっと勉強{べんきょう}すればよかった。",
+     "english": "I wish I had studied more.",
+     "note": "Regret."
+    },
+    {
+     "japanese": "あんなことを言{い}わなければよかった。",
+     "english": "I wish I hadn't said that.",
+     "note": "Negative regret."
+    }
+   ],
+   "one_line_memory_trick": "ばよかった = 'if only…' 😢",
+   "chapter": "extra"
+  },
+  {
+   "id": "temoiidesuka",
+   "pattern": "～てもいいですか / ～てもかまいませんか",
+   "meaning": "May I ~?",
+   "category": "Permission",
+   "formality": "neutral / polite",
+   "formation": "Verb て形 + もいいですか",
+   "can_be_used_for": [
+    "Asking permission for your own action"
+   ],
+   "cannot_be_used_for": [
+    "Asking others to act (use てくれませんか)"
+   ],
+   "exam_pinpoint": "Speaker asks permission for their OWN action → てもいいですか",
+   "clue_words": [
+    "ここで",
+    "ちょっと",
+    "使って"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～させてもらえますか",
+     "difference": "More humble permission.",
+     "how_to_choose": "Polite humble → させて."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "この辞書{じしょ}を使{つか}ってもいいですか。",
+     "english": "May I use this dictionary?",
+     "note": "Own action."
+    },
+    {
+     "japanese": "窓{まど}を開{あ}けてもかまいませんか。",
+     "english": "Do you mind if I open the window?",
+     "note": "Permission."
+    }
+   ],
+   "one_line_memory_trick": "てもいい = green light? 🟢",
+   "chapter": "extra"
+  },
+  {
+   "id": "tai",
+   "pattern": "～たい / ～たがる",
+   "meaning": "I want to ~ / (others) seem to want to ~",
+   "category": "Wishes",
+   "formality": "neutral",
+   "formation": "Verb ます-stem + たい (speaker); + たがる (third person)",
+   "can_be_used_for": [
+    "Speaker's own desire"
+   ],
+   "cannot_be_used_for": [
+    "Others' desire directly (use たがっている)",
+    "Wanting others to act (use てほしい)"
+   ],
+   "exam_pinpoint": "Speaker does it themselves → たい; third person → たがっている; others act → てほしい",
+   "clue_words": [
+    "わたしは",
+    "彼は",
+    "～に"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～てほしい",
+     "difference": "Others act.",
+     "how_to_choose": "Who acts?"
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "日本{にほん}で働{はたら}きたい。",
+     "english": "I want to work in Japan.",
+     "note": "Speaker's desire."
+    },
+    {
+     "japanese": "弟{おとうと}^は新{あたら}しいゲームを買{か}いたがっている。",
+     "english": "My brother wants to buy a new game.",
+     "note": "Third person → たがる."
+    }
+   ],
+   "one_line_memory_trick": "たい = me; たがる = them.",
+   "chapter": "extra"
+  },
+  {
+   "id": "dewanaku",
+   "pattern": "～ではなく(て)",
+   "meaning": "Not ~ but …",
+   "category": "Contrast",
+   "formality": "neutral",
+   "formation": "Noun / 普通形 + の + ではなく(て)",
+   "can_be_used_for": [
+    "Correcting: A is wrong, B is right"
+   ],
+   "cannot_be_used_for": [
+    "Adding (use だけでなく)"
+   ],
+   "exam_pinpoint": "Denial + correct item (いえ、AではなくB) → ではなく",
+   "clue_words": [
+    "いえ",
+    "いいえ",
+    "実は"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～というより",
+     "difference": "A partly right.",
+     "how_to_choose": "A totally wrong → ではなく."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "いえ、わたし^は学生{がくせい}で^はなく、教師{きょうし}です。",
+     "english": "No, I'm not a student but a teacher.",
+     "note": "Correction."
+    },
+    {
+     "japanese": "買{か}ったので^はなく、自分{じぶん}で作{つく}ったのです。",
+     "english": "I didn't buy it—I made it myself.",
+     "note": "のではなく."
+    }
+   ],
+   "one_line_memory_trick": "ではなく = ❌A ✅B.",
+   "chapter": "extra"
+  },
+  {
+   "id": "koso",
+   "pattern": "～こそ",
+   "meaning": "Precisely ~ / ~ (and nothing else)",
+   "category": "Particles",
+   "formality": "neutral",
+   "formation": "Noun / から + こそ",
+   "can_be_used_for": [
+    "Strong emphasis distinguishing from others"
+   ],
+   "cannot_be_used_for": [
+    "Negative/bad emphasis in normal use"
+   ],
+   "exam_pinpoint": "Emphasize 'THIS one, this time' (今度こそ・親だからこそ) → こそ",
+   "clue_words": [
+    "今度",
+    "だから",
+    "ずっと探していた"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～さえ",
+     "difference": "さえ = even (extreme example).",
+     "how_to_choose": "Highlight one item positively → こそ."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "今度{こんど}こそ優勝{ゆうしょう}したい。",
+     "english": "This time for sure I want to win.",
+     "note": "Emphasis."
+    },
+    {
+     "japanese": "親{おや}だからこそ自分{じぶん}の子{こ}をきびしくしかるのだ。",
+     "english": "It's precisely because they're parents that they scold strictly.",
+     "note": "からこそ."
+    }
+   ],
+   "one_line_memory_trick": "こそ = spotlight 🔦",
+   "chapter": "sec-A"
+  },
+  {
+   "id": "demo",
+   "pattern": "～でも (extreme / example)",
+   "meaning": "Even ~ / ~ or something",
+   "category": "Particles",
+   "formality": "neutral",
+   "formation": "Noun (+ particle) + でも",
+   "can_be_used_for": [
+    "Extreme example (子どもでも知っている)",
+    "Soft example in offers/requests (お茶でも)"
+   ],
+   "cannot_be_used_for": [
+    "Strong negation"
+   ],
+   "exam_pinpoint": "Invitation/request with a casual example (お茶でも飲みましょうか) or 'even a child' → でも",
+   "clue_words": [
+    "～ましょうか",
+    "～ようかな",
+    "子ども"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～さえ",
+     "difference": "さえ stresses surprise more.",
+     "how_to_choose": "Suggestion → でも."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "そんなこと^は子{こ}どもでも知{し}っている。",
+     "english": "Even a child knows that.",
+     "note": "Extreme example."
+    },
+    {
+     "japanese": "お茶{ちゃ}でも飲{の}みましょうか。",
+     "english": "Shall we have some tea or something?",
+     "note": "Soft example in proposal."
+    }
+   ],
+   "one_line_memory_trick": "でも = 'even / or something'.",
+   "chapter": "sec-A"
+  },
+  {
+   "id": "mo-emph",
+   "pattern": "～も (1つも～ない / extreme)",
+   "meaning": "Not even one ~ / even ~",
+   "category": "Particles",
+   "formality": "neutral",
+   "formation": "Counter 1 + も + negative / extreme Noun + も",
+   "can_be_used_for": [
+    "Total negation (1円も残っていない)",
+    "Extreme example (漢字も書ける)"
+   ],
+   "cannot_be_used_for": [
+    "Minimal 'only' (use しか)"
+   ],
+   "exam_pinpoint": "1 + counter + も + ない → total 'not even one'",
+   "clue_words": [
+    "1日も",
+    "1円も",
+    "だれにも"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～しか～ない",
+     "difference": "しか = only that much.",
+     "how_to_choose": "Zero → も; small amount → しか."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "財布{さいふ}^は空{から}っぽだ。1円{えん}も残{のこ}っていない。",
+     "english": "My wallet's empty—not even 1 yen left.",
+     "note": "Total negation."
+    },
+    {
+     "japanese": "足{あし}が痛{いた}くて立{た}つこともできない。",
+     "english": "My leg hurts so much I can't even stand.",
+     "note": "Extreme."
+    }
+   ],
+   "one_line_memory_trick": "1つも～ない = zero.",
+   "chapter": "sec-A"
+  },
+  {
+   "id": "sae",
+   "pattern": "～さえ (even)",
+   "meaning": "Even ~ (surprising extreme)",
+   "category": "Particles",
+   "formality": "neutral",
+   "formation": "Noun (+ particle) + さえ",
+   "can_be_used_for": [
+    "Surprising extreme example"
+   ],
+   "cannot_be_used_for": [
+    "Suggestions/invitations"
+   ],
+   "exam_pinpoint": "Surprising extreme ('even an expert can't solve') → さえ",
+   "clue_words": [
+    "学者で",
+    "北極に",
+    "卵"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～さえ～ば",
+     "difference": "With ば = minimum condition.",
+     "how_to_choose": "No ば → 'even'."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "冷蔵庫{れいぞうこ}に^は卵{たまご}さえ入{はい}っていない。",
+     "english": "There aren't even eggs in the fridge.",
+     "note": "Extreme."
+    },
+    {
+     "japanese": "学者{がくしゃ}でさえ解{と}けない問題{もんだい}が出{で}た。",
+     "english": "A problem even scholars can't solve appeared.",
+     "note": "Surprise."
+    }
+   ],
+   "one_line_memory_trick": "さえ = 'even THAT!'",
+   "chapter": "sec-A"
+  },
+  {
+   "id": "shika-made",
+   "pattern": "～しか～ない / ～ぐらい・くらい / ～まで",
+   "meaning": "Only ~ / at least ~ / even ~ (going as far as)",
+   "category": "Particles",
+   "formality": "neutral",
+   "formation": "Noun + しか + negative; Noun + ぐらい; Noun + まで",
+   "can_be_used_for": [
+    "しか: only (feels small)",
+    "ぐらい: minimal (挨拶ぐらいしなさい)",
+    "まで: going as far as (子どもまで)"
+   ],
+   "cannot_be_used_for": [
+    "しか with positive verb"
+   ],
+   "exam_pinpoint": "Negative ending + 'only' → しか; 'at least do that much' → ぐらい; 'even extended to' → まで",
+   "clue_words": [
+    "～ない",
+    "せめて",
+    "～まで"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～だけ",
+     "difference": "だけ works with positive verbs.",
+     "how_to_choose": "Negative verb → しか."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "千円{せんえん}しか持{も}っていない。",
+     "english": "I only have 1000 yen.",
+     "note": "しか + ない."
+    },
+    {
+     "japanese": "あいさつぐらいしなさい。",
+     "english": "At least say hello.",
+     "note": "Minimal ぐらい."
+    }
+   ],
+   "one_line_memory_trick": "しか needs ない.",
+   "chapter": "sec-A"
+  },
+  {
+   "id": "nitsuite",
+   "pattern": "～について",
+   "meaning": "About ~ / concerning ~",
+   "category": "Particle-like",
+   "formality": "neutral",
+   "formation": "Noun + について / についての + Noun",
+   "can_be_used_for": [
+    "Topic of speaking, thinking, research"
+   ],
+   "cannot_be_used_for": [
+    "Attitude toward a person (use に対して)"
+   ],
+   "exam_pinpoint": "Verb is 話す・調べる・考える・書く (content) → について",
+   "clue_words": [
+    "調べる",
+    "話す",
+    "レポート",
+    "説明"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～に対して",
+     "difference": "Target of feeling/action.",
+     "how_to_choose": "Content/topic → について."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "日本{にほん}の歴史{れきし}について調{しら}べている。",
+     "english": "I'm researching Japanese history.",
+     "note": "Topic."
+    },
+    {
+     "japanese": "この問題{もんだい}についてどう思{おも}いますか。",
+     "english": "What do you think about this problem?",
+     "note": "Topic of thought."
+    }
+   ],
+   "one_line_memory_trick": "について = 'about (the content)'.",
+   "chapter": "sec-B"
+  },
+  {
+   "id": "nitaishite-target",
+   "pattern": "～に対して / ～に対する (target)",
+   "meaning": "Toward ~ / to ~",
+   "category": "Particle-like",
+   "formality": "neutral",
+   "formation": "Noun + に対して / に対する + Noun",
+   "can_be_used_for": [
+    "Target of attitude, feeling, action (失礼・反対・質問)"
+   ],
+   "cannot_be_used_for": [
+    "Topic of research (use について)"
+   ],
+   "exam_pinpoint": "Attitude/reaction aimed at someone (先生に対して失礼・意見に反対) → に対して",
+   "clue_words": [
+    "失礼",
+    "反対",
+    "態度",
+    "質問に"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～について",
+     "difference": "Content/topic.",
+     "how_to_choose": "Directed attitude → に対して."
+    },
+    {
+     "pattern": "～にとって",
+     "difference": "Viewpoint.",
+     "how_to_choose": "Evaluation from someone's view → にとって."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "先生{せんせい}に対{たい}して失礼{しつれい}なことを言{い}ってはいけない。",
+     "english": "Don't say rude things to the teacher.",
+     "note": "Target of attitude."
+    },
+    {
+     "japanese": "住民{じゅうみん}^は計画{けいかく}に対{たい}して反対{はんたい}している。",
+     "english": "Residents oppose the plan.",
+     "note": "Target."
+    }
+   ],
+   "one_line_memory_trick": "に対して = arrow → target.",
+   "chapter": "sec-B"
+  },
+  {
+   "id": "nitotte",
+   "pattern": "～にとって",
+   "meaning": "For ~ / from ~'s standpoint",
+   "category": "Particle-like",
+   "formality": "neutral",
+   "formation": "Noun + にとって",
+   "can_be_used_for": [
+    "Evaluation from someone's viewpoint (大切だ・難しい)"
+   ],
+   "cannot_be_used_for": [
+    "Actions toward someone",
+    "Followed by action verbs"
+   ],
+   "exam_pinpoint": "Second half is an evaluation adjective (大切・難しい・必要) from a person's viewpoint → にとって",
+   "clue_words": [
+    "大切",
+    "難しい",
+    "必要",
+    "宝物"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～として",
+     "difference": "In the role/capacity of.",
+     "how_to_choose": "Evaluation → にとって."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "わたしにとって家族{かぞく}^はいちばん大切{たいせつ}だ。",
+     "english": "For me, family is most important.",
+     "note": "Viewpoint + evaluation."
+    },
+    {
+     "japanese": "この問題{もんだい}^は子{こ}どもにとって難{むずか}しい。",
+     "english": "This problem is hard for children.",
+     "note": "Evaluation."
+    }
+   ],
+   "one_line_memory_trick": "にとって = through their eyes 👓",
+   "chapter": "sec-B"
+  },
+  {
+   "id": "toshite",
+   "pattern": "～として",
+   "meaning": "As ~ (role, status, purpose)",
+   "category": "Particle-like",
+   "formality": "neutral",
+   "formation": "Noun + として",
+   "can_be_used_for": [
+    "Role / capacity / purpose of use"
+   ],
+   "cannot_be_used_for": [
+    "Viewpoint evaluation"
+   ],
+   "exam_pinpoint": "Role/status/use (留学生として・主食として) → として",
+   "clue_words": [
+    "代表",
+    "主食",
+    "留学生",
+    "用具"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～にとって",
+     "difference": "Viewpoint.",
+     "how_to_choose": "Role → として."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "米{こめ}^は多{おお}くの国{くに}で主食{しゅしょく}として食{た}べられている。",
+     "english": "Rice is eaten as a staple in many countries.",
+     "note": "Role."
+    },
+    {
+     "japanese": "留学生{りゅうがくせい}として日本{にほん}に来{き}た。",
+     "english": "I came to Japan as an international student.",
+     "note": "Status."
+    }
+   ],
+   "one_line_memory_trick": "として = wearing the role hat 🎩",
+   "chapter": "sec-B"
+  },
+  {
+   "id": "niyotte-agent",
+   "pattern": "～によって (agent / method)",
+   "meaning": "By ~ (passive agent, means)",
+   "category": "Particle-like",
+   "formality": "written",
+   "formation": "Noun + によって / による + Noun",
+   "can_be_used_for": [
+    "Creator in passive (書かれた・建てられた)",
+    "Means"
+   ],
+   "cannot_be_used_for": [
+    "Everyday passive with feelings (use に)"
+   ],
+   "exam_pinpoint": "Passive of create/discover verbs (書かれた・発明された) + creator → によって",
+   "clue_words": [
+    "書かれた",
+    "建てられた",
+    "発見された"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～に (passive)",
+     "difference": "Ordinary passive.",
+     "how_to_choose": "Creation/discovery → によって."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "この小説{しょうせつ}^は夏目漱石{なつめそうせき}によって書{か}かれた。",
+     "english": "This novel was written by Natsume Soseki.",
+     "note": "Creator."
+    },
+    {
+     "japanese": "電話{でんわ}^はベルによって発明{はつめい}された。",
+     "english": "The telephone was invented by Bell.",
+     "note": "Discovery/invention."
+    }
+   ],
+   "one_line_memory_trick": "によって = credit line.",
+   "chapter": "sec-B"
+  },
+  {
+   "id": "koto-only",
+   "pattern": "～は…ことだ (こと only)",
+   "meaning": "~ is (the content) …",
+   "category": "こと・の",
+   "formality": "neutral",
+   "formation": "Noun は + Verb 普通形 + ことだ",
+   "can_be_used_for": [
+    "Explaining content (夢は～ことです)",
+    "Fixed forms: ことがある・ことはない・ことにする"
+   ],
+   "cannot_be_used_for": [
+    "Perception verbs (見る・聞こえる) — use の"
+   ],
+   "exam_pinpoint": "夢は / 特徴は / 違いは + …ことだ → こと (not の)",
+   "clue_words": [
+    "夢は",
+    "特徴は",
+    "違いは"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～の",
+     "difference": "の for perception/direct experience.",
+     "how_to_choose": "Content definition → こと."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "わたしの将来{しょうらい}の夢{ゆめ}^は、漫画家{まんがか}になることです。",
+     "english": "My future dream is to become a manga artist.",
+     "note": "Content → こと."
+    },
+    {
+     "japanese": "少{すこ}し熱{ねつ}があるが、すぐに病院{びょういん}に行{い}くこと^はない。",
+     "english": "I have a slight fever, but there's no need to go to hospital right away.",
+     "note": "ことはない = no need."
+    }
+   ],
+   "one_line_memory_trick": "Definition → こと.",
+   "chapter": "sec-C"
+  },
+  {
+   "id": "no-only",
+   "pattern": "～の (の only)",
+   "meaning": "Nominalizer with perception / immediate action",
+   "category": "こと・の",
+   "formality": "neutral",
+   "formation": "Verb 普通形 + の + を見る・が聞こえる・を手伝う・を待つ",
+   "can_be_used_for": [
+    "Perception verbs (見る・聞こえる・感じる)",
+    "Help/wait/stop (手伝う・待つ・止める)",
+    "～のは…だ emphasis"
+   ],
+   "cannot_be_used_for": [
+    "～ことができる・ことがある (fixed こと forms)"
+   ],
+   "exam_pinpoint": "Followed by 見る / 聞こえる / 手伝う / 待つ → の",
+   "clue_words": [
+    "見た",
+    "聞こえる",
+    "手伝う",
+    "待つ"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～こと",
+     "difference": "Abstract content.",
+     "how_to_choose": "Sense verb → の."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "子{こ}どもたちが遊{あそ}んでいるのが見{み}える。",
+     "english": "I can see the children playing.",
+     "note": "Perception → の."
+    },
+    {
+     "japanese": "母{はは}が料理{りょうり}を作{つく}るのを手伝{てつだ}った。",
+     "english": "I helped my mother cook.",
+     "note": "手伝う → の."
+    }
+   ],
+   "one_line_memory_trick": "Senses → の 👀",
+   "chapter": "sec-C"
+  },
+  {
+   "id": "mono-koto",
+   "pattern": "物 vs こと",
+   "meaning": "Physical thing vs abstract matter",
+   "category": "こと・の",
+   "formality": "neutral",
+   "formation": "物 = concrete object; こと = event, matter, content",
+   "can_be_used_for": [
+    "物: things you can touch",
+    "こと: things that happen / ideas"
+   ],
+   "cannot_be_used_for": [
+    "こと for objects"
+   ],
+   "exam_pinpoint": "Touchable object → 物; event/idea → こと",
+   "clue_words": [
+    "食べる物",
+    "言ったこと",
+    "起きたこと"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "の",
+     "difference": "Nominalizer.",
+     "how_to_choose": "Concrete → 物."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "何{なに}か食{た}べる物{もの}^はありますか。",
+     "english": "Is there anything to eat?",
+     "note": "Object."
+    },
+    {
+     "japanese": "昨日{きのう}起{お}きたことを話{はな}してください。",
+     "english": "Tell me what happened yesterday.",
+     "note": "Event."
+    }
+   ],
+   "one_line_memory_trick": "物 = touch; こと = think.",
+   "chapter": "sec-C"
+  },
+  {
+   "id": "youda",
+   "pattern": "～(かの)ようだ / ～(かの)ように",
+   "meaning": "Like ~ / as if ~",
+   "category": "よう",
+   "formality": "neutral",
+   "formation": "Noun の / Verb 普通形 + ようだ; (as if) 普通形 + かのようだ",
+   "can_be_used_for": [
+    "Simile",
+    "Guess from evidence",
+    "As if (かのように: not true)"
+   ],
+   "cannot_be_used_for": [
+    "Pure hearsay (use そうだ)"
+   ],
+   "exam_pinpoint": "Comparison to something it's not (まるで～のように) → ようだ / かのように",
+   "clue_words": [
+    "まるで",
+    "まるで～かのように"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～らしい",
+     "difference": "Typical quality / hearsay.",
+     "how_to_choose": "Simile → ようだ."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "まるで夢{ゆめ}のようだ。",
+     "english": "It's just like a dream.",
+     "note": "Simile."
+    },
+    {
+     "japanese": "彼{かれ}^は何{なに}も知{し}らないかのように話{はな}した。",
+     "english": "He spoke as if he knew nothing.",
+     "note": "As if (not true)."
+    }
+   ],
+   "one_line_memory_trick": "まるで…ようだ = simile.",
+   "chapter": "sec-D"
+  },
+  {
+   "id": "youni-purpose",
+   "pattern": "～ように (purpose)",
+   "meaning": "So that ~ (non-volitional goal)",
+   "category": "よう",
+   "formality": "neutral",
+   "formation": "Verb 辞書形 (possible form / non-volitional) / ない形 + ように",
+   "can_be_used_for": [
+    "Purpose with potential/non-volitional verbs (見える・できる・忘れない)"
+   ],
+   "cannot_be_used_for": [
+    "Volitional verbs with same subject (use ために)"
+   ],
+   "exam_pinpoint": "Before it: できる / 見える / ない形 (non-volitional) → ように; volitional verb → ために",
+   "clue_words": [
+    "見えるように",
+    "忘れないように",
+    "できるように"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ために",
+     "difference": "Volitional goal, same subject.",
+     "how_to_choose": "Potential/negative verb → ように."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "後{うし}ろの人{ひと}にも見{み}えるように大{おお}きく書{か}いた。",
+     "english": "I wrote big so people in back can see too.",
+     "note": "見える = non-volitional."
+    },
+    {
+     "japanese": "忘{わす}れないようにメモする。",
+     "english": "I'll note it down so I don't forget.",
+     "note": "ない形 + ように."
+    }
+   ],
+   "one_line_memory_trick": "ように = aim at a state; ために = aim at an action.",
+   "chapter": "sec-D"
+  },
+  {
+   "id": "youni-request",
+   "pattern": "～ように (言う / 頼む) / ～ようにと / ～よう",
+   "meaning": "(Tell/ask someone) to ~",
+   "category": "よう",
+   "formality": "neutral",
+   "formation": "Verb 辞書形 / ない形 + ように言う・頼む・注意する",
+   "can_be_used_for": [
+    "Indirect requests/instructions",
+    "Wishes (～ますように)"
+   ],
+   "cannot_be_used_for": [
+    "Direct quotes"
+   ],
+   "exam_pinpoint": "Reporting an instruction (先生に～ように言われた) → ように",
+   "clue_words": [
+    "言われた",
+    "注意された",
+    "頼んだ",
+    "～ますように"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～とおりに",
+     "difference": "Exactly as.",
+     "how_to_choose": "Report of a request → ように."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "医者{いしゃ}にお酒{さけ}を飲{の}まないように言{い}われた。",
+     "english": "The doctor told me not to drink.",
+     "note": "Indirect instruction."
+    },
+    {
+     "japanese": "合格{ごうかく}できますように。",
+     "english": "May I pass!",
+     "note": "Wish."
+    }
+   ],
+   "one_line_memory_trick": "ように言う = reported request.",
+   "chapter": "sec-D"
+  },
+  {
+   "id": "wakeda",
+   "pattern": "～わけだ / ～というわけだ",
+   "meaning": "That's why ~ / no wonder ~ / so it means ~",
+   "category": "わけ",
+   "formality": "neutral",
+   "formation": "普通形 (な-adj な / Noun の・な) + わけだ",
+   "can_be_used_for": [
+    "Natural conclusion after learning a reason (道理で)",
+    "Rephrasing"
+   ],
+   "cannot_be_used_for": [
+    "Guess about the future (use はずだ)"
+   ],
+   "exam_pinpoint": "Speaker learns a fact and understands the result (それで / だから～わけだ) → わけだ",
+   "clue_words": [
+    "それで",
+    "道理で",
+    "なるほど",
+    "つまり"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～はずだ",
+     "difference": "はず = expectation/prediction from grounds.",
+     "how_to_choose": "Now-understood reason → わけ; expectation → はず."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "20年{ねん}も住{す}んでいたのか。日本語{にほんご}が上手{じょうず}なわけだ。",
+     "english": "You lived here 20 years? No wonder your Japanese is good.",
+     "note": "Understanding a result."
+    },
+    {
+     "japanese": "毎日{まいにち}3時間{じかん}練習{れんしゅう}したというわけだ。",
+     "english": "So it means you practiced 3 hours every day.",
+     "note": "Rephrase."
+    }
+   ],
+   "one_line_memory_trick": "わけだ = 'Aha! that explains it.'",
+   "chapter": "sec-E"
+  },
+  {
+   "id": "wakeniwaikanai",
+   "pattern": "～わけにはいかない",
+   "meaning": "Can't (because of social/moral reasons)",
+   "category": "わけ",
+   "formality": "neutral",
+   "formation": "Verb 辞書形 + わけにはいかない",
+   "can_be_used_for": [
+    "Can't do it because of duty/circumstances"
+   ],
+   "cannot_be_used_for": [
+    "Physical inability (use できない)"
+   ],
+   "exam_pinpoint": "Possible but not allowed by duty/circumstance (約束したから・大事な会議だから) → わけにはいかない",
+   "clue_words": [
+    "約束したから",
+    "大切な",
+    "責任"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ことができない",
+     "difference": "Plain inability.",
+     "how_to_choose": "Moral reason → わけにはいかない."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "大事{だいじ}な会議{かいぎ}があるので、休{やす}むわけに^はいかない。",
+     "english": "There's an important meeting, so I can't take the day off.",
+     "note": "Social reason."
+    },
+    {
+     "japanese": "約束{やくそく}したのだから、行{い}かないわけに^はいかない。",
+     "english": "I promised, so I can't not go.",
+     "note": "See next pattern."
+    }
+   ],
+   "one_line_memory_trick": "わけにはいかない = duty says no.",
+   "chapter": "sec-E"
+  },
+  {
+   "id": "naiwakeniwaikanai",
+   "pattern": "～ないわけにはいかない",
+   "meaning": "Have to ~ (can't avoid, due to circumstances)",
+   "category": "わけ",
+   "formality": "neutral",
+   "formation": "Verb ない形 + わけにはいかない",
+   "can_be_used_for": [
+    "Obligation from social circumstances"
+   ],
+   "cannot_be_used_for": [
+    "Speaker's own desire"
+   ],
+   "exam_pinpoint": "Don't want to, but must due to obligation → ないわけにはいかない",
+   "clue_words": [
+    "上司の",
+    "招待された",
+    "約束"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～なければならない",
+     "difference": "General obligation.",
+     "how_to_choose": "Social pressure nuance → ないわけにはいかない."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "部長{ぶちょう}に誘{さそ}われたら、行{い}かないわけに^はいかない。",
+     "english": "If my manager invites me, I have to go.",
+     "note": "Social obligation."
+    },
+    {
+     "japanese": "友{とも}だちの結婚式{けっこんしき}だから、出{で}ないわけに^はいかない。",
+     "english": "It's my friend's wedding, so I must attend.",
+     "note": "Can't avoid."
+    }
+   ],
+   "one_line_memory_trick": "ないわけにはいかない = can't NOT.",
+   "chapter": "sec-E"
+  },
+  {
+   "id": "bakari",
+   "pattern": "～ばかり / ～てばかりいる",
+   "meaning": "Only / nothing but ~ (complaint)",
+   "category": "ばかり",
+   "formality": "neutral",
+   "formation": "Noun + ばかり; Verb て形 + ばかりいる",
+   "can_be_used_for": [
+    "Criticism of doing only one thing"
+   ],
+   "cannot_be_used_for": [
+    "Neutral 'only' with amounts (use だけ)"
+   ],
+   "exam_pinpoint": "Complaint 'always only doing X' (遊んでばかり・ゲームばかり) → ばかり",
+   "clue_words": [
+    "いつも",
+    "遊んで",
+    "寝て",
+    "文句"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～だけ",
+     "difference": "Neutral limitation.",
+     "how_to_choose": "Complaint/repetition → ばかり."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "弟{おとうと}^はゲームばかりしている。",
+     "english": "My brother does nothing but play games.",
+     "note": "Complaint."
+    },
+    {
+     "japanese": "寝{ね}てばかりいないで、勉強{べんきょう}しなさい。",
+     "english": "Stop just sleeping and study.",
+     "note": "てばかりいる."
+    }
+   ],
+   "one_line_memory_trick": "ばかり = broken record 🔁",
+   "chapter": "sec-F"
+  },
+  {
+   "id": "bakaridenaku",
+   "pattern": "～ばかりでなく / ～だけでなく",
+   "meaning": "Not only ~ but also …",
+   "category": "ばかり",
+   "formality": "neutral",
+   "formation": "普通形 (な-adj な / Noun) + ばかりでなく・だけでなく + …も",
+   "can_be_used_for": [
+    "Adding a second item (…も)"
+   ],
+   "cannot_be_used_for": [
+    "Replacing (use ではなく)"
+   ],
+   "exam_pinpoint": "A is true AND B too (…も) → だけでなく / ばかりでなく; A false, B true → ではなく",
+   "clue_words": [
+    "～も",
+    "さらに",
+    "まで"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ではなく",
+     "difference": "Denies A.",
+     "how_to_choose": "Both true → だけでなく."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "彼{かれ}^は英語{えいご}だけでなく、中国語{ちゅうごくご}も話{はな}せる。",
+     "english": "He speaks not only English but Chinese too.",
+     "note": "Both true + も."
+    },
+    {
+     "japanese": "この店{みせ}^は安{やす}いばかりでなく、味{あじ}もいい。",
+     "english": "This shop is not only cheap but tasty too.",
+     "note": "Addition."
+    }
+   ],
+   "one_line_memory_trick": "だけでなく = A ➕ B.",
+   "chapter": "sec-F"
+  },
+  {
+   "id": "bakarida",
+   "pattern": "～ばかりだ",
+   "meaning": "Keeps getting (worse)",
+   "category": "ばかり",
+   "formality": "neutral",
+   "formation": "Verb 辞書形 (change verbs) + ばかりだ",
+   "can_be_used_for": [
+    "Continuous change, usually bad"
+   ],
+   "cannot_be_used_for": [
+    "Single events"
+   ],
+   "exam_pinpoint": "Bad trend that keeps progressing (悪くなる・増える) → ばかりだ",
+   "clue_words": [
+    "ますます",
+    "どんどん",
+    "悪くなる"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～一方だ",
+     "difference": "Nearly same.",
+     "how_to_choose": "Both = only increasing."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "病気{びょうき}^は悪{わる}くなるばかりだ。",
+     "english": "The illness just keeps getting worse.",
+     "note": "Bad trend."
+    },
+    {
+     "japanese": "物価{ぶっか}^は上{あ}がるばかりだ。",
+     "english": "Prices keep rising.",
+     "note": "Continuous change."
+    }
+   ],
+   "one_line_memory_trick": "ばかりだ = 📉 nonstop.",
+   "chapter": "sec-F"
+  },
+  {
+   "id": "tabakari",
+   "pattern": "～たばかりだ",
+   "meaning": "Just did ~ (feels recent)",
+   "category": "ばかり",
+   "formality": "neutral",
+   "formation": "Verb た形 + ばかりだ",
+   "can_be_used_for": [
+    "Subjectively recent (even weeks)",
+    "Excuse (買ったばかりなのに)"
+   ],
+   "cannot_be_used_for": [
+    "Exact 'this very moment' nuance (use たところ)"
+   ],
+   "exam_pinpoint": "Speaker feels it's recent / still new (買ったばかりなのに壊れた) → たばかり",
+   "clue_words": [
+    "～なのに",
+    "先月",
+    "まだ"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～たところだ",
+     "difference": "Right this moment.",
+     "how_to_choose": "Weeks ago but feels new → たばかり."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "先月{せんげつ}買{か}ったばかりのパソコンが壊{こわ}れた。",
+     "english": "The PC I just bought last month broke.",
+     "note": "Subjectively recent."
+    },
+    {
+     "japanese": "日本{にほん}に来{き}たばかりで、まだ何{なに}もわからない。",
+     "english": "I just arrived in Japan and don't know anything yet.",
+     "note": "Still new."
+    }
+   ],
+   "one_line_memory_trick": "たばかり = still has the price tag 🏷",
+   "chapter": "sec-F"
+  },
+  {
+   "id": "nisuru-ninaru",
+   "pattern": "～にする・～くする / ～になる・～くなる",
+   "meaning": "Make ~ (someone does) / become ~ (changes itself)",
+   "category": "する・なる",
+   "formality": "neutral",
+   "formation": "Noun・な-adj に / い-adj く + する / なる",
+   "can_be_used_for": [
+    "する: intentional change by a person",
+    "なる: natural change/result"
+   ],
+   "cannot_be_used_for": [
+    "する without an agent"
+   ],
+   "exam_pinpoint": "Person changes something (を) → する; something changes by itself (が/は) → なる",
+   "clue_words": [
+    "を",
+    "が",
+    "わたしは",
+    "部屋は"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "ことにする/ことになる",
+     "difference": "Decisions.",
+     "how_to_choose": "Same する/なる logic."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "わたし^は部屋{へや}をきれいにした。",
+     "english": "I made the room clean.",
+     "note": "Agent → する."
+    },
+    {
+     "japanese": "電気{でんき}を消{け}したので、部屋{へや}が暗{くら}くなった。",
+     "english": "I turned off the light, so the room got dark.",
+     "note": "Result → なる."
+    }
+   ],
+   "one_line_memory_trick": "する = 🧑 did it; なる = 🌱 it happened.",
+   "chapter": "sec-G"
+  },
+  {
+   "id": "kotoninaru",
+   "pattern": "～ことになる / ～ことになっている",
+   "meaning": "It's been decided (by others) that ~ / rule is ~",
+   "category": "する・なる",
+   "formality": "neutral",
+   "formation": "Verb 辞書形 / ない形 + ことになる / ことになっている",
+   "can_be_used_for": [
+    "Decision by organization/circumstances",
+    "Rules (ことになっている)"
+   ],
+   "cannot_be_used_for": [
+    "Speaker's own decision"
+   ],
+   "exam_pinpoint": "Decided by company/others (出張する・社員旅行) or a rule → ことになる",
+   "clue_words": [
+    "会社で",
+    "規則で",
+    "来月"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ことにする",
+     "difference": "Own decision.",
+     "how_to_choose": "Others decided → なる."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "来月{らいげつ}、出張{しゅっちょう}することになった。",
+     "english": "It's been decided I'll go on a business trip next month.",
+     "note": "Decided by company."
+    },
+    {
+     "japanese": "この寮{りょう}で^は10時{じ}までに帰{かえ}ることになっている。",
+     "english": "In this dorm, you must be back by 10.",
+     "note": "Rule."
+    }
+   ],
+   "one_line_memory_trick": "ことになる = the boss decided.",
+   "chapter": "sec-G"
+  },
+  {
+   "id": "youninaru",
+   "pattern": "～ようになる / ～ようにしている vs ～ようになっている",
+   "meaning": "Come to ~ (change) / mechanism is set to ~",
+   "category": "する・なる",
+   "formality": "neutral",
+   "formation": "Verb 辞書形 (potential) / ない形 + ようになる; ようになっている = system works that way",
+   "can_be_used_for": [
+    "Change of ability/habit (読めるようになった)",
+    "Mechanism (自動で開くようになっている)"
+   ],
+   "cannot_be_used_for": [
+    "Deliberate effort (use ようにしている)"
+   ],
+   "exam_pinpoint": "Gradual change in ability/habit → ようになる; machine set up that way → ようになっている; personal effort → ようにしている",
+   "clue_words": [
+    "やっと",
+    "だんだん",
+    "自動的に",
+    "ボタンを押すと"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ようにする",
+     "difference": "Effort.",
+     "how_to_choose": "Change → なる."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "漢字{かんじ}が読{よ}めるようになった。",
+     "english": "I've become able to read kanji.",
+     "note": "Change."
+    },
+    {
+     "japanese": "このドア^は自動{じどう}で閉{し}まるようになっている。",
+     "english": "This door is designed to close automatically.",
+     "note": "Mechanism."
+    }
+   ],
+   "one_line_memory_trick": "ようになる = level up ⬆",
+   "chapter": "sec-G"
+  },
+  {
+   "id": "to-ta-discovery",
+   "pattern": "～と…た / ～たら…た (discovery)",
+   "meaning": "When I did ~, I found/it happened …",
+   "category": "Conditionals",
+   "formality": "neutral",
+   "formation": "Verb 辞書形 + と / た形 + ら + past result",
+   "can_be_used_for": [
+    "Discovery or unexpected event after an action"
+   ],
+   "cannot_be_used_for": [
+    "ば or なら (×ば…た discovery)",
+    "Speaker's will in the second half"
+   ],
+   "exam_pinpoint": "Past discovery (～たら／～と、…ていた・…だった) → たら / と (NOT ば / なら)",
+   "clue_words": [
+    "開けると",
+    "行ってみたら",
+    "～ていた",
+    "もう"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ば",
+     "difference": "ば can't express past discovery.",
+     "how_to_choose": "Past + discovery → たら/と."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "窓{まど}を開{あ}けると、雪{ゆき}が降{ふ}っていた。",
+     "english": "When I opened the window, it was snowing.",
+     "note": "Discovery."
+    },
+    {
+     "japanese": "家{いえ}に帰{かえ}ったら、荷物{にもつ}が届{とど}いていた。",
+     "english": "When I got home, a package had arrived.",
+     "note": "Discovery."
+    }
+   ],
+   "one_line_memory_trick": "たら/と + た = 'and then I saw…!' 😲",
+   "chapter": "sec-H"
+  },
+  {
+   "id": "to-ta-sequence",
+   "pattern": "～と…た (sequence)",
+   "meaning": "As soon as ~, (someone else/next) …",
+   "category": "Conditionals",
+   "formality": "written",
+   "formation": "Verb 辞書形 + と + past",
+   "can_be_used_for": [
+    "Consecutive actions in narration"
+   ],
+   "cannot_be_used_for": [
+    "Requests / will"
+   ],
+   "exam_pinpoint": "Story narration: one action immediately followed by another → と…た",
+   "clue_words": [
+    "すぐに",
+    "彼は"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～てから",
+     "difference": "Order only.",
+     "how_to_choose": "Narrative quick succession → と."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "彼{かれ}^は家{いえ}に帰{かえ}ると、すぐに寝{ね}た。",
+     "english": "As soon as he got home, he went to sleep.",
+     "note": "Sequence."
+    },
+    {
+     "japanese": "ベルが鳴{な}ると、学生{がくせい}たち^は教室{きょうしつ}を出{で}た。",
+     "english": "When the bell rang, the students left the classroom.",
+     "note": "Sequence."
+    }
+   ],
+   "one_line_memory_trick": "と…た = film cut ➡",
+   "chapter": "sec-H"
+  },
+  {
+   "id": "mo-ba-mo",
+   "pattern": "～も…ば～も… / ～も…なら～も…",
+   "meaning": "Both ~ and … (listing)",
+   "category": "Conditionals",
+   "formality": "neutral",
+   "formation": "Noun も + ば形 / なら + Noun も",
+   "can_be_used_for": [
+    "Listing two similar facts"
+   ],
+   "cannot_be_used_for": [
+    "Conditions"
+   ],
+   "exam_pinpoint": "AもXばBもY listing (歌も上手なら踊りも上手) → も…ば…も",
+   "clue_words": [
+    "も…も"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～し、～し",
+     "difference": "Similar listing.",
+     "how_to_choose": "Pattern with も…ば…も."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "彼女{かのじょ}^は歌{うた}も上手{じょうず}なら踊{おど}りも上手{じょうず}だ。",
+     "english": "She's good at both singing and dancing.",
+     "note": "Listing."
+    },
+    {
+     "japanese": "お金{かね}もなければ時間{じかん}もない。",
+     "english": "I have neither money nor time.",
+     "note": "Listing negative."
+    }
+   ],
+   "one_line_memory_trick": "も…ば…も = and also.",
+   "chapter": "sec-H"
+  },
+  {
+   "id": "ba-tara-nara-normal",
+   "pattern": "～ば / ～たら / ～なら / ～と (normal use)",
+   "meaning": "If ~ (general conditionals)",
+   "category": "Conditionals",
+   "formality": "neutral",
+   "formation": "ば形 / た形+ら / 普通形+なら / 辞書形+と",
+   "can_be_used_for": [
+    "と: natural/automatic result",
+    "ば: general condition",
+    "たら: one-time, after A then B, requests OK",
+    "なら: reacting to info, advice"
+   ],
+   "cannot_be_used_for": [
+    "と / ば + request or will (when first half is an action verb)"
+   ],
+   "exam_pinpoint": "Request/will in 2nd half → たら or なら; automatic result (押すと出る) → と; B before A → なら",
+   "clue_words": [
+    "～てください",
+    "～つもり",
+    "いつも",
+    "ボタンを押す"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～ては",
+     "difference": "Bad result only.",
+     "how_to_choose": "Bad result → ては."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "駅{えき}に着{つ}いたら、電話{でんわ}してください。",
+     "english": "When you reach the station, please call me.",
+     "note": "Request → たら."
+    },
+    {
+     "japanese": "春{はる}になると、桜{さくら}が咲{さ}く。",
+     "english": "When spring comes, cherry blossoms bloom.",
+     "note": "Natural result → と."
+    }
+   ],
+   "one_line_memory_trick": "と = auto; ば = general; たら = after; なら = if so.",
+   "chapter": "sec-H"
+  },
+  {
+   "id": "adv-nai",
+   "pattern": "全く・少しも・たいして・決して・めったに + ～ない",
+   "meaning": "Not at all / not very / never / rarely",
+   "category": "Adverbs",
+   "formality": "neutral",
+   "formation": "Adverb … + negative",
+   "can_be_used_for": [
+    "Negative emphasis"
+   ],
+   "cannot_be_used_for": [
+    "Positive endings"
+   ],
+   "exam_pinpoint": "These adverbs force a NEGATIVE ending",
+   "clue_words": [
+    "全く",
+    "少しも",
+    "たいして",
+    "決して",
+    "めったに"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "すでに",
+     "difference": "Takes ～た / ている.",
+     "how_to_choose": "Look at the ending."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "母{はは}^は英語{えいご}が全{まった}くわからない。",
+     "english": "My mother doesn't understand English at all.",
+     "note": "全く + ない."
+    },
+    {
+     "japanese": "わたし^はめったに外{そと}で食事{しょくじ}しない。",
+     "english": "I rarely eat out.",
+     "note": "めったに + ない."
+    }
+   ],
+   "one_line_memory_trick": "These adverbs → ない.",
+   "chapter": "sec-I"
+  },
+  {
+   "id": "adv-change",
+   "pattern": "すでに(～た) / 少しずつ・次第に・ますます(change) / そのうち・今に",
+   "meaning": "Already / gradually / soon",
+   "category": "Adverbs",
+   "formality": "neutral",
+   "formation": "すでに + ～た・ている; 次第に + change verb; そのうち/今に + non-past",
+   "can_be_used_for": [
+    "Matching adverb to verb type"
+   ],
+   "cannot_be_used_for": [
+    "そのうち/今に with past tense"
+   ],
+   "exam_pinpoint": "次第に・ますます need a CHANGE verb (なる・増える); そのうち・今に need future (non-past)",
+   "clue_words": [
+    "～なる",
+    "増える",
+    "～だろう"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "だんだん",
+     "difference": "Same as 次第に.",
+     "how_to_choose": "Change verb needed."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "世界{せかい}の人口{じんこう}^はますます増{ふ}えている。",
+     "english": "The world population keeps growing.",
+     "note": "Change verb."
+    },
+    {
+     "japanese": "練習{れんしゅう}すれば、そのうちできるようになるだろう。",
+     "english": "If you practice, you'll be able to do it before long.",
+     "note": "Future."
+    }
+   ],
+   "one_line_memory_trick": "Adverb ↔ ending must match.",
+   "chapter": "sec-I"
+  },
+  {
+   "id": "adv-guess",
+   "pattern": "もしかしたら(かもしれない) / おそらく(だろう) / どうも(ようだ・らしい) / 今にも(そうだ)",
+   "meaning": "Maybe / probably / somehow it seems / about to",
+   "category": "Adverbs",
+   "formality": "neutral",
+   "formation": "Adverb + fixed guess ending",
+   "can_be_used_for": [
+    "Degrees of guessing"
+   ],
+   "cannot_be_used_for": [
+    "Mixing endings (今にも～かもしれない ✗)"
+   ],
+   "exam_pinpoint": "もしかしたら→かもしれない; おそらく→だろう; どうも→ようだ・らしい; 今にも→～そうだ",
+   "clue_words": [
+    "もしかしたら",
+    "おそらく",
+    "どうも",
+    "今にも"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "きっと",
+     "difference": "Strong guess → だろう.",
+     "how_to_choose": "Match ending."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "空{そら}が暗{くら}くなって、今{いま}にも雨{あめ}が降{ふ}り出{だ}しそうだ。",
+     "english": "The sky's dark; it looks like it'll rain any moment.",
+     "note": "今にも + そうだ."
+    },
+    {
+     "japanese": "もしかしたら今晩{こんばん}^は雪{ゆき}になるかもしれない。",
+     "english": "It might snow tonight.",
+     "note": "かもしれない."
+    }
+   ],
+   "one_line_memory_trick": "今にも = about to burst ☔",
+   "chapter": "sec-I"
+  },
+  {
+   "id": "adv-other",
+   "pattern": "まるで(ようだ) / たとえ(ても) / どんなに(ても) / せっかく(のに・から) / まさか(ないだろう)",
+   "meaning": "Adverbs with set partners",
+   "category": "Adverbs",
+   "formality": "neutral",
+   "formation": "Adverb + paired form",
+   "can_be_used_for": [
+    "Recognizing paired forms"
+   ],
+   "cannot_be_used_for": [
+    "Mismatched endings"
+   ],
+   "exam_pinpoint": "まるで→ようだ・みたいだ; たとえ/どんなに→ても; まさか→ないだろう",
+   "clue_words": [
+    "まるで",
+    "たとえ",
+    "どんなに",
+    "まさか",
+    "せっかく"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "いくら",
+     "difference": "Also takes ても.",
+     "how_to_choose": "Concession → ても."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "まるで夢{ゆめ}を見{み}ているようだ。",
+     "english": "It's as if I'm dreaming.",
+     "note": "まるで + ようだ."
+    },
+    {
+     "japanese": "まさか彼{かれ}が犯人{はんにん}で^はないだろう。",
+     "english": "Surely he isn't the culprit.",
+     "note": "まさか + ないだろう."
+    }
+   ],
+   "one_line_memory_trick": "Pairs: まるで↔よう, たとえ↔ても.",
+   "chapter": "sec-I"
+  },
+  {
+   "id": "kakeru",
+   "pattern": "～かける / ～かけだ / ～かけの",
+   "meaning": "Half-done / started but not finished",
+   "category": "Verb suffixes",
+   "formality": "neutral",
+   "formation": "Verb ます-stem + かける / かけの + Noun",
+   "can_be_used_for": [
+    "Incomplete action"
+   ],
+   "cannot_be_used_for": [
+    "Completed action"
+   ],
+   "exam_pinpoint": "Started but stopped midway (言いかけて黙った・読みかけの本) → かける",
+   "clue_words": [
+    "途中",
+    "黙って",
+    "読みかけ"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～きる",
+     "difference": "Completed fully.",
+     "how_to_choose": "Unfinished → かける."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "彼女{かのじょ}^は何{なに}か言{い}いかけて、黙{だま}ってしまった。",
+     "english": "She started to say something, then went quiet.",
+     "note": "Unfinished."
+    },
+    {
+     "japanese": "母{はは}^は読{よ}みかけの本{ほん}をおいて出{で}かけた。",
+     "english": "Mom left her half-read book and went out.",
+     "note": "かけの + Noun."
+    }
+   ],
+   "one_line_memory_trick": "かけ = half-eaten 🍪",
+   "chapter": "sec-J"
+  },
+  {
+   "id": "kiru",
+   "pattern": "～きる / ～きれない",
+   "meaning": "Do ~ completely / can't finish ~",
+   "category": "Verb suffixes",
+   "formality": "neutral",
+   "formation": "Verb ます-stem + きる / きれない",
+   "can_be_used_for": [
+    "Complete an action",
+    "Can't finish (食べきれない)"
+   ],
+   "cannot_be_used_for": [
+    "Incomplete"
+   ],
+   "exam_pinpoint": "Completely to the end (走りきった) or too much to finish (食べきれない) → きる",
+   "clue_words": [
+    "全部",
+    "最後まで",
+    "こんなにたくさん"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～通す",
+     "difference": "Persist to the end despite difficulty.",
+     "how_to_choose": "Completion → きる; persistence → 通す."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "40キロの長{なが}い距離{きょり}を走{はし}りきった。",
+     "english": "I ran the whole 40 km.",
+     "note": "Complete."
+    },
+    {
+     "japanese": "こんなにたくさん、一人{ひとり}で^は食{た}べきれない。",
+     "english": "I can't eat this much on my own.",
+     "note": "Can't finish."
+    }
+   ],
+   "one_line_memory_trick": "きる = cut to the end ✂",
+   "chapter": "sec-J"
+  },
+  {
+   "id": "toosu-dasu",
+   "pattern": "～通す / ～出す",
+   "meaning": "Keep doing to the end / suddenly start ~",
+   "category": "Verb suffixes",
+   "formality": "neutral",
+   "formation": "Verb ます-stem + 通す / 出す",
+   "can_be_used_for": [
+    "通す: persistence",
+    "出す: sudden start (笑い出す・降り出す)"
+   ],
+   "cannot_be_used_for": [
+    "出す for planned starts (use 始める)"
+   ],
+   "exam_pinpoint": "突然・急に + start → 出す; 最後まで + persist → 通す",
+   "clue_words": [
+    "突然",
+    "急に",
+    "最後まで",
+    "黙り"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～始める",
+     "difference": "Neutral start.",
+     "how_to_choose": "Sudden → 出す."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "彼{かれ}^はわたしの顔{かお}を見{み}ると、突然{とつぜん}笑{わら}い出{だ}した。",
+     "english": "When he saw my face, he suddenly burst out laughing.",
+     "note": "Sudden start."
+    },
+    {
+     "japanese": "自分{じぶん}で決{き}めたこと^は最後{さいご}までやり通{とお}そう。",
+     "english": "Let's see through what we decided to the end.",
+     "note": "Persistence."
+    }
+   ],
+   "one_line_memory_trick": "出す = 💥 start; 通す = 🏁 finish.",
+   "chapter": "sec-J"
+  },
+  {
+   "id": "yasui-nikui",
+   "pattern": "～やすい / ～にくい / ～がち / ～っぽい / ～らしい",
+   "meaning": "Easy to / hard to / tend to / -ish / typical of",
+   "category": "Noun/Verb suffixes",
+   "formality": "neutral",
+   "formation": "ます-stem + やすい・にくい・がち; Noun/stem + っぽい; Noun + らしい",
+   "can_be_used_for": [
+    "やすい: easy / likely",
+    "がち: bad tendency",
+    "っぽい: seems like (casual)",
+    "らしい: typical ideal quality"
+   ],
+   "cannot_be_used_for": [
+    "らしい (typical) for simile (use ようだ)"
+   ],
+   "exam_pinpoint": "Typical ideal quality of its own category (男らしい・春らしい) → らしい; resembling something else → ようだ・みたいだ",
+   "clue_words": [
+    "わかり",
+    "破れ",
+    "忘れ",
+    "子ども"
+   ],
+   "confusable_with": [
+    {
+     "pattern": "～のようだ / みたいだ",
+     "difference": "Likeness to something different.",
+     "how_to_choose": "Same category ideal → らしい."
+    }
+   ],
+   "examples": [
+    {
+     "japanese": "田中先生{たなかせんせい}の話{はなし}^はわかりやすい。",
+     "english": "Mr. Tanaka's talks are easy to understand.",
+     "note": "やすい."
+    },
+    {
+     "japanese": "今日{きょう}^は春{はる}らしい暖{あたた}かい日{ひ}だ。",
+     "english": "Today is a typically spring-like warm day.",
+     "note": "Typical → らしい."
+    }
+   ],
+   "one_line_memory_trick": "らしい = 'true to type'.",
+   "chapter": "sec-J"
+  }
+ ]
+}

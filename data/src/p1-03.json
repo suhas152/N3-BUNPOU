@@ -1,0 +1,139 @@
+{
+  "chapter": { "id": "p1-03", "part": "第1部 文の文法1", "no": "3課", "title": "比べれば…・～がいちばん", "title_en": "Comparison / the best", "book_pages": "22-23" },
+  "patterns": [
+    {
+      "id": "kurai-hodo",
+      "pattern": "～くらいだ / ～ぐらいだ / ～くらい… / ～ほどだ / ～ほど…",
+      "reading": "くらい / ぐらい / ほど",
+      "meaning": "To the extent that ~ / so … that ~",
+      "category": "Comparison / Degree",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + くらい / ほど", "example": "食べたいくらいだ・倒れるかと思うほど" },
+        { "type": "い-adj", "form": "普通形 + くらい / ほど", "example": "痛いくらい" },
+        { "type": "な-adj", "form": "～な + くらい / ほど", "example": "きれいなほど" },
+        { "type": "Noun", "form": "Noun + くらい / ほど", "example": "台風ぐらいの風" }
+      ],
+      "connection_notes": "な-adj keeps な (×きれいだくらい). Often ～かと思うくらい / ～かと思うほど.",
+      "can_be_used_for": ["Emphasizing degree with a comparison/example", "Hypothetical illustration (didn't really happen)"],
+      "cannot_be_used_for": ["Exact quantity comparison as a fact"],
+      "exam_pinpoint": "An exaggerated example illustrating a degree (毎日食べたい・折れそう・倒れるかと思う) → くらい / ほど",
+      "clue_words": ["～かと思う", "～そうな", "～たい", "立っていられない", "泣きたい"],
+      "confusable_with": [
+        { "pattern": "～くらい…はない", "difference": "That pattern = 'nothing is as ~ as X' (the most).", "how_to_choose": "Ends in はない/いない → the 'most' pattern." },
+        { "pattern": "～ばかり", "difference": "ばかり = 'only'; くらい = 'to the extent'.", "how_to_choose": "Degree illustration → くらい." }
+      ],
+      "common_traps": ["ほど cannot be used for 'at least' minimal degree (くらい can: 挨拶くらいしなさい)"],
+      "examples": [
+        { "japanese": "この店{みせ}のパン^はおいしい。毎日{まいにち}食{た}べたいくらいだ。", "english": "This shop's bread is delicious—so good I'd eat it every day.", "note": "Example illustrates the degree of おいしい." },
+        { "japanese": "さっき地震{じしん}があった。本{ほん}だなが倒{たお}れるかと思{おも}うほど激{はげ}しく揺{ゆ}れた。", "english": "There was an earthquake—it shook so hard I thought the bookshelf would fall.", "note": "～かと思うほど = imagined extreme." }
+      ],
+      "more_examples": [
+        { "japanese": "よう子{こ}さんの腕{うで}^は折{お}れそうなくらい細{ほそ}い。", "english": "Yoko's arms are so thin they look like they could break." },
+        { "japanese": "天気予報{てんきよほう}によると、今日{きょう}^は台風{たいふう}ぐらいの風{かぜ}が吹{ふ}くそうだ。", "english": "According to the forecast, there'll be typhoon-level wind today." },
+        { "japanese": "かさをさすほどで^はないが、少{すこ}し雨{あめ}が降{ふ}っている。", "english": "It's not enough to need an umbrella, but it's raining a little." },
+        { "japanese": "突然{とつぜん}立{た}っていられないほどの痛{いた}みを背中{せなか}に感{かん}じた。", "english": "Suddenly I felt a pain in my back so bad I couldn't stand." }
+      ],
+      "book_explanation": "「～と同じ程度だ・～と同じ程度に…。」Used to show the strength of a degree by likening it to some situation.",
+      "one_line_memory_trick": "くらい/ほど = 'so much that (picture this)…'"
+    },
+    {
+      "id": "kurai-wanai",
+      "pattern": "～くらい…はない / ～ぐらい…はない / ～ほど…はない",
+      "reading": "くらい…はない / ほど…はない",
+      "meaning": "Nothing/no one is as … as ~ (= ~ is the most …)",
+      "category": "Comparison / Degree",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "Verb 辞書形 + こと + くらい/ほど", "example": "料理を作ることぐらい" },
+        { "type": "い-adj", "form": "—", "example": "" },
+        { "type": "な-adj", "form": "—", "example": "" },
+        { "type": "Noun", "form": "Noun + くらい / ぐらい / ほど …はない", "example": "テストほどいやなものはない" }
+      ],
+      "connection_notes": "Noun + くらい/ほど + adjective + Noun(人・もの・こと) + はない/いない.",
+      "can_be_used_for": ["Speaker's subjective 'the most'"],
+      "cannot_be_used_for": ["Objective, verifiable facts (×富士山ほど高い山は日本にない is odd in the exam sense)"],
+      "exam_pinpoint": "Sentence ends with ～はない / ～はいない and expresses the speaker's feeling 'the most' → くらい/ほど…はない",
+      "clue_words": ["～はない", "～はいない", "～ことはない", "～ものはない"],
+      "confusable_with": [
+        { "pattern": "～がいちばん", "difference": "Same meaning, but くらい…はない is subjective and emphatic.", "how_to_choose": "Look for はない at the end." }
+      ],
+      "common_traps": ["Forgetting the ending must be negative (はない)"],
+      "examples": [
+        { "japanese": "リーさんぐらい動物{どうぶつ}好{ず}きな人{ひと}^はいない。", "english": "No one loves animals as much as Lee.", "note": "Ends in いない → 'the most'." },
+        { "japanese": "ああ、あしたも漢字{かんじ}のテストがある。テストほどいやなもの^はない。", "english": "Ugh, another kanji test tomorrow. Nothing is as awful as tests.", "note": "Subjective feeling → ほど…はない." }
+      ],
+      "more_examples": [
+        { "japanese": "わたし^は料理{りょうり}を作{つく}ることぐらい楽{たの}しいこと^はないと思{おも}っています。", "english": "I think nothing is as fun as cooking." },
+        { "japanese": "2年前{ねんまえ}に病気{びょうき}だとわかったときほど不安{ふあん}になったこと^はない。", "english": "I've never been as anxious as when I learned I was ill two years ago." }
+      ],
+      "book_explanation": "「～がいちばん…。」Not an objective fact but the speaker's subjective judgment.",
+      "one_line_memory_trick": "X ほど…はない = 'X is No.1 (in my heart)'."
+    },
+    {
+      "id": "kurainara",
+      "pattern": "～くらいなら… / ～ぐらいなら…",
+      "reading": "くらいなら",
+      "meaning": "If (it comes to) ~, I'd rather …",
+      "category": "Comparison / Degree",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "辞書形 + くらいなら", "example": "弁当を作るくらいなら" },
+        { "type": "い-adj", "form": "—", "example": "" },
+        { "type": "な-adj", "form": "—", "example": "" },
+        { "type": "Noun", "form": "—", "example": "" }
+      ],
+      "connection_notes": "Verb dictionary form only. Second half: ～方がいい・～でいい・～たい・～かまわない.",
+      "can_be_used_for": ["Choosing the lesser evil", "Speaker's preference"],
+      "cannot_be_used_for": ["Objective facts", "Positive first half that the speaker wants"],
+      "exam_pinpoint": "First half is something unpleasant; second half says another option is better (～方がいい・～でいい・かまわない) → くらいなら",
+      "clue_words": ["～ほうがいい", "～でいい", "～ままでいい", "かまわない", "がまんする"],
+      "confusable_with": [
+        { "pattern": "～なら", "difference": "なら is a neutral condition; くらいなら says the first option is so bad that anything else is better.", "how_to_choose": "Unwanted option vs. better alternative → くらいなら." }
+      ],
+      "common_traps": ["Second half that is not a preference/alternative"],
+      "examples": [
+        { "japanese": "毎朝{まいあさ}自分{じぶん}で弁当{べんとう}を作{つく}るくらいなら、コンビニ弁当{べんとう}でいい。", "english": "If I have to make lunch myself every morning, I'm fine with convenience-store bento.", "note": "Unpleasant option → better alternative (でいい)." },
+        { "japanese": "30分{ぷん}も遅{おく}れて説明会{せつめいかい}に行{い}くくらいなら、参加{さんか}しないほうがいい。", "english": "Rather than arrive 30 minutes late to the briefing, it's better not to go.", "note": "～ほうがいい ending." }
+      ],
+      "more_examples": [
+        { "japanese": "気{き}が合{あ}わない人{ひと}といっしょに生活{せいかつ}するぐらいなら、このまま独身{どくしん}でいたい。", "english": "Rather than live with someone I don't get along with, I'd stay single." },
+        { "japanese": "やせるために好{す}きなケーキをがまんするくらいなら、今{いま}の体型{たいけい}のままでかまわない。", "english": "If losing weight means giving up cake, I'm fine with my current figure." }
+      ],
+      "book_explanation": "「～というよくない状況に比べれば、…の方が少しはいい。」A subjective judgment of the speaker.",
+      "one_line_memory_trick": "くらいなら = 'If THAT's the price, no thanks — I'll take the other.'"
+    },
+    {
+      "id": "nikagiru",
+      "pattern": "～に限る",
+      "reading": "にかぎる",
+      "meaning": "~ is the best (way/thing)",
+      "category": "Comparison / Degree",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "辞書形 / ない形 + に限る", "example": "映画館で見るに限る・行かないに限る" },
+        { "type": "い-adj", "form": "—", "example": "" },
+        { "type": "な-adj", "form": "—", "example": "" },
+        { "type": "Noun", "form": "Noun + に限る", "example": "夏はビールに限る" }
+      ],
+      "connection_notes": "Verb 辞書形/ない形 or Noun. Subjective opinion only.",
+      "can_be_used_for": ["Speaker's subjective best choice / best method"],
+      "cannot_be_used_for": ["Objective facts", "Others' opinions as fact"],
+      "exam_pinpoint": "Speaker recommends the best way (やっぱり～は…に限る) → に限る",
+      "clue_words": ["やっぱり", "～なら", "～ときは"],
+      "confusable_with": [
+        { "pattern": "～に限らず / ～に限って", "difference": "Different meanings (not only / only in that case).", "how_to_choose": "Sentence-final 'is the best' → に限る." }
+      ],
+      "common_traps": ["Using に限る for objective statistics"],
+      "examples": [
+        { "japanese": "やっぱり映画{えいが}^は映画館{えいがかん}で見{み}るに限{かぎ}る。", "english": "After all, movies are best seen in a theater.", "note": "Subjective 'best way'." },
+        { "japanese": "かぜがはやっているとき^は、人{ひと}が多{おお}い所{ところ}に^は行{い}かないに限{かぎ}る。", "english": "When colds are going around, it's best not to go to crowded places.", "note": "ない形 + に限る." }
+      ],
+      "more_examples": [
+        { "japanese": "湖{みずうみ}の写真{しゃしん}を撮{と}るならこの場所{ばしょ}に限{かぎ}ります。すてきな写真{しゃしん}が撮{と}れますよ。", "english": "If you're photographing the lake, this spot is the best. You'll get lovely photos." }
+      ],
+      "book_explanation": "「～がいちばんいい・～がいちばんいい方法だ。」Subjective judgment of the speaker.",
+      "one_line_memory_trick": "に限る = 'limited to this — nothing beats it.'"
+    }
+  ]
+}

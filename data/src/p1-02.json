@@ -1,0 +1,169 @@
+{
+  "chapter": { "id": "p1-02", "part": "第1部 文の文法1", "no": "2課", "title": "～と関係して", "title_en": "In relation to ~", "book_pages": "18-19" },
+  "patterns": [
+    {
+      "id": "toori",
+      "pattern": "～とおりだ / ～とおり(に) / ～どおりだ / ～どおり(に)",
+      "reading": "とおり / どおり",
+      "meaning": "Exactly as ~ / in the same way as ~",
+      "category": "Relation",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "辞書形 / た形 / てある / ている + とおり(に)", "example": "書いてあるとおり" },
+        { "type": "い-adj", "form": "—", "example": "" },
+        { "type": "な-adj", "form": "—", "example": "" },
+        { "type": "Noun", "form": "Noun + の + とおり / Noun + どおり", "example": "説明のとおり・期待どおり" }
+      ],
+      "connection_notes": "Noun + の + とおり, but Noun directly + どおり (期待どおり・予定どおり・計画どおり).",
+      "can_be_used_for": ["Doing something exactly as instructed", "Result matching expectation"],
+      "cannot_be_used_for": ["Noun + どおり with の (×期待のどおり)", "Comparison of degree"],
+      "exam_pinpoint": "Something matched a plan / instruction / expectation (教えてもらった・書いてある・予定・期待) → とおり / どおり",
+      "clue_words": ["教えてもらった", "書いてある", "予定", "期待", "思った", "言われた"],
+      "confusable_with": [
+        { "pattern": "～ように", "difference": "ように(言う) reports content of a request; とおり means 'in exactly the same way'.", "how_to_choose": "Following/reproducing exactly → とおり." }
+      ],
+      "common_traps": ["Noun + のどおり ✗ / Noun + とおり without の ✗ (check connection)"],
+      "examples": [
+        { "japanese": "交番{こうばん}で教{おし}えてもらったとおりに歩{ある}いていったので、迷{まよ}わず会場{かいじょう}に着{つ}いた。", "english": "I walked exactly as I was told at the police box, so I reached the venue without getting lost.", "note": "Following directions exactly → とおりに." },
+        { "japanese": "サッカーの試合{しあい}の結果{けっか}^はわたしたちの期待{きたい}どおりだった。", "english": "The result of the soccer match was just as we'd hoped.", "note": "Noun 期待 + どおり (no の)." }
+      ],
+      "more_examples": [
+        { "japanese": "初{はじ}めて作{つく}る料理{りょうり}だから、この本{ほん}に書{か}いてあるとおりのやり方{かた}で作{つく}ってみよう。", "english": "It's my first time making this dish, so I'll make it exactly the way written in this book." }
+      ],
+      "book_explanation": "「～と同じだ。～と同じように…。」",
+      "one_line_memory_trick": "とおり = 'trace the line exactly'."
+    },
+    {
+      "id": "niyotte-variety",
+      "pattern": "～によって… / ～によっては…",
+      "reading": "によって / によっては",
+      "meaning": "Depending on ~ (it varies) / in some ~ cases",
+      "category": "Relation",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "—", "example": "" },
+        { "type": "い-adj", "form": "—", "example": "" },
+        { "type": "な-adj", "form": "—", "example": "" },
+        { "type": "Noun", "form": "Noun + によって / によっては", "example": "国によって・日によっては" }
+      ],
+      "connection_notes": "によって + variety words (違う・さまざまだ・変わる・異なる). によっては + ONE possible case (～こともある・～かもしれない).",
+      "can_be_used_for": ["Variation (違う・さまざまだ)", "One example among possibilities (によっては～こともある)"],
+      "cannot_be_used_for": ["A single fixed outcome", "によっては + 違う (use によって)"],
+      "exam_pinpoint": "Second half 違う / さまざまだ / 変わる → によって; second half こともある / かもしれない → によっては",
+      "clue_words": ["違う", "さまざまだ", "異なる", "変わる", "～こともある", "～かもしれない", "人", "国", "場合"],
+      "confusable_with": [
+        { "pattern": "～によって (cause/means/agent, section B)", "difference": "Section B's によって means 'by/due to'; this one means 'depending on'.", "how_to_choose": "Is there a variety word? → depending on." },
+        { "pattern": "～たびに", "difference": "たびに = every time (same result each time); によって = result varies.", "how_to_choose": "Same each time → たびに; varies → によって." }
+      ],
+      "common_traps": ["によっては with さまざまだ (should be によって)"],
+      "examples": [
+        { "japanese": "国{くに}によって習慣{しゅうかん}が違{ちが}う。", "english": "Customs differ depending on the country.", "note": "違う = variety → によって." },
+        { "japanese": "わたしの帰宅{きたく}時間{じかん}^は毎日{まいにち}違{ちが}う。日{ひ}によって^は夜中{よなか}になることもある。", "english": "My return time differs every day. On some days it's midnight.", "note": "One case → によっては ～こともある." }
+      ],
+      "more_examples": [
+        { "japanese": "感{かん}じ方{かた}^は人{ひと}によってさまざまだ。", "english": "How people feel varies from person to person." },
+        { "japanese": "場合{ばあい}によって^は今年{ことし}の文化祭{ぶんかさい}^は中止{ちゅうし}になるかもしれない。", "english": "Depending on circumstances, this year's school festival may be cancelled." }
+      ],
+      "book_explanation": "「～が違えば…。」… is something not fixed (さまざまだ・変える). 「～によっては…」 gives one example from various cases.",
+      "one_line_memory_trick": "によって = menu of results; によっては = point to one item."
+    },
+    {
+      "id": "tabini",
+      "pattern": "～たびに…",
+      "reading": "たびに",
+      "meaning": "Every time ~, … (always)",
+      "category": "Relation",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "辞書形 + たびに", "example": "電話をかけるたびに" },
+        { "type": "い-adj", "form": "—", "example": "" },
+        { "type": "な-adj", "form": "—", "example": "" },
+        { "type": "Noun", "form": "Noun + の + たびに", "example": "試合のたびに" }
+      ],
+      "connection_notes": "Verb dictionary form or Noun + の. Neither half can be a STATE.",
+      "can_be_used_for": ["Emphasizing that something happens every single time", "Gradual change each time (強くなっていく)"],
+      "cannot_be_used_for": ["Everyday obvious routines (×朝起きるたびに顔を洗う)", "States (～ある・～だ) in either half"],
+      "exam_pinpoint": "Repeated event + same notable result each time (大水の害が起こる・聞く・強くなる) → たびに",
+      "clue_words": ["毎回", "いつも", "必ず", "～ていく"],
+      "confusable_with": [
+        { "pattern": "～と (habit)", "difference": "と also covers natural/everyday consequences; たびに emphasizes the repetition and is not used for obvious routines.", "how_to_choose": "Speaker emphasizes 'without fail, every time' → たびに." }
+      ],
+      "common_traps": ["た形 + たびに ✗", "State in the second half ✗"],
+      "examples": [
+        { "japanese": "この地方{ちほう}^は台風{たいふう}が来{く}るたびに大水{おおみず}の害{がい}が起{お}こる。", "english": "Every time a typhoon comes, this region suffers flood damage.", "note": "Repeated event → same result each time." },
+        { "japanese": "このチーム^は試合{しあい}のたびに強{つよ}くなっていく。", "english": "This team gets stronger with every match.", "note": "Noun + の + たびに; change each time." }
+      ],
+      "more_examples": [
+        { "japanese": "母{はは}^はわたしが電話{でんわ}をかけるたびに、ちゃんとご飯{はん}を食{た}べているかと聞{き}く。", "english": "Every time I call, my mother asks if I'm eating properly." }
+      ],
+      "book_explanation": "「～のとき、毎回同じように…する。」Used to emphasize repetition; not for everyday matter-of-course events. Neither ~ nor … can be a state.",
+      "one_line_memory_trick": "たびに = 'every trip (旅), the same souvenir.'"
+    },
+    {
+      "id": "hodo-more",
+      "pattern": "(～ば)～ほど… / (～なら)～ほど… / ～ほど…",
+      "reading": "ばほど / ほど",
+      "meaning": "The more ~, the more …",
+      "category": "Relation",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "(Verb ば形) + Verb 辞書形 + ほど", "example": "増えれば増えるほど" },
+        { "type": "い-adj", "form": "(～ければ) + ～い + ほど", "example": "多ければ多いほど" },
+        { "type": "な-adj", "form": "(～なら) + ～な + ほど", "example": "にぎやかなほど" },
+        { "type": "Noun", "form": "Noun + ほど", "example": "忙しい人ほど" }
+      ],
+      "connection_notes": "The same word is repeated: ば形 + 辞書形 + ほど. The ば part may be dropped.",
+      "can_be_used_for": ["Proportional change (the more…the more…)"],
+      "cannot_be_used_for": ["Single fixed comparison (use より)", "Mismatched words (×増えれば多いほど)"],
+      "exam_pinpoint": "Same word repeated with ば…ほど, or a rising degree in both halves → ばほど",
+      "clue_words": ["～ば～ほど", "増える", "たつ", "上がる", "～になる"],
+      "confusable_with": [
+        { "pattern": "～くらい / ほど (degree)", "difference": "Degree ほど compares to an example (泣きたいほど); ばほど shows proportional change.", "how_to_choose": "Look for the repeated ば形 → ばほど." }
+      ],
+      "common_traps": ["Not repeating the same verb/adjective", "Using た形 before ほど"],
+      "examples": [
+        { "japanese": "物{もの}が増{ふ}えれば増{ふ}えるほど整理{せいり}が大変{たいへん}になる。", "english": "The more things increase, the harder it is to organize.", "note": "Same verb repeated: 増えれば増えるほど." },
+        { "japanese": "忙{いそが}しい人{ひと}ほど時間{じかん}の使{つか}い方{かた}が上手{じょうず}だ。", "english": "The busier a person is, the better they use their time.", "note": "Short form: Noun + ほど." }
+      ],
+      "more_examples": [
+        { "japanese": "本当{ほんとう}にいい家具{かぐ}^は時間{じかん}がたつほど価値{かち}が上{あ}がる。", "english": "Truly good furniture increases in value as time passes." },
+        { "japanese": "休{やす}みの日{ひ}^は多{おお}ければ多{おお}いほどうれしい。", "english": "The more days off, the happier I am." },
+        { "japanese": "町{まち}がにぎやかなほど商店{しょうてん}で^は物{もの}がよく売{う}れるのだ。", "english": "The livelier the town, the better shops sell." }
+      ],
+      "book_explanation": "「～の程度が進めば、その分…の程度も進む。」",
+      "one_line_memory_trick": "ばほど = a seesaw: one goes up, the other goes up."
+    },
+    {
+      "id": "tsuideni",
+      "pattern": "～ついでに…",
+      "reading": "ついでに",
+      "meaning": "While doing ~ (taking the opportunity), also do …",
+      "category": "Relation",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "辞書形 / た形 + ついでに", "example": "掃除をするついでに・注文したついでに" },
+        { "type": "い-adj", "form": "—", "example": "" },
+        { "type": "な-adj", "form": "—", "example": "" },
+        { "type": "Noun", "form": "Noun(する-noun) + の + ついでに", "example": "散歩のついでに" }
+      ],
+      "connection_notes": "する-noun + の (散歩のついでに). ～ is the main action; … is an extra intentional action.",
+      "can_be_used_for": ["Doing an extra task using the opportunity", "Requests (～てきて)", "Intention (～しよう)"],
+      "cannot_be_used_for": ["Unintentional happenings in the second half", "Two unrelated simultaneous states"],
+      "exam_pinpoint": "Main purpose + an extra small errand done 'while you're at it' → ついでに",
+      "clue_words": ["散歩", "買い物", "出かける", "～てきて", "も"],
+      "confusable_with": [
+        { "pattern": "～ながら", "difference": "ながら = two actions literally at the same time; ついでに = using the occasion of one to do another.", "how_to_choose": "Errand added to a trip/action → ついでに." }
+      ],
+      "common_traps": ["Second half not intentional (×ついでに雨が降った)"],
+      "examples": [
+        { "japanese": "散歩{さんぽ}のついでにこのはがきをポストに出{だ}してきて。", "english": "While you're out for a walk, please post this postcard.", "note": "Main action 散歩 + extra errand." },
+        { "japanese": "玄関{げんかん}の掃除{そうじ}をするついでに靴{くつ}の整理{せいり}をしよう。", "english": "While cleaning the entrance, I'll sort out the shoes too.", "note": "Intentional extra action." }
+      ],
+      "more_examples": [
+        { "japanese": "インターネットで本{ほん}を注文{ちゅうもん}したついでに新{あたら}しく出{で}たDVDも調{しら}べた。", "english": "When I ordered a book online, I also looked up a newly released DVD." }
+      ],
+      "book_explanation": "「～するとき、その機会を利用して…もする。」～ is the original action; … is an added purposeful action.",
+      "one_line_memory_trick": "ついでに = 'while I'm at it…'"
+    }
+  ]
+}

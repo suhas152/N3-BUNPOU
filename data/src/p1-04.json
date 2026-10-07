@@ -1,0 +1,170 @@
+{
+  "chapter": { "id": "p1-04", "part": "第1部 文の文法1", "no": "4課", "title": "～とは違って", "title_en": "Contrast (unlike ~)", "book_pages": "24-25" },
+  "patterns": [
+    {
+      "id": "nitaishite-contrast",
+      "pattern": "～に対して… (contrast)",
+      "reading": "にたいして",
+      "meaning": "In contrast to ~, …",
+      "category": "Contrast",
+      "formality": "neutral / written",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + の + に対して", "example": "飲みに行くのに対して" },
+        { "type": "い-adj", "form": "普通形 + の + に対して", "example": "高いのに対して" },
+        { "type": "な-adj", "form": "～な / ～である + の + に対して", "example": "静かなのに対して" },
+        { "type": "Noun", "form": "Noun + に対して / Noun な・である + のに対して", "example": "長男に対して・大雨だったのに対して" }
+      ],
+      "connection_notes": "Clause + の + に対して. な-adj / Noun: ～なのに対して or ～であるのに対して (NOT ～だのに).",
+      "can_be_used_for": ["Clear contrast of two things (A vs B)"],
+      "cannot_be_used_for": ["Two sides of ONE thing (use 反面)", "Target of action/feeling (that is section B's に対して)"],
+      "exam_pinpoint": "Two DIFFERENT subjects contrasted (大阪 vs 東京, 女性 vs 男性, 長男 vs 次男) → に対して",
+      "clue_words": ["一方", "は…、は…", "男性 / 女性", "長男 / 次男", "～のに対して"],
+      "confusable_with": [
+        { "pattern": "～反面", "difference": "反面 shows two sides of the SAME thing; に対して contrasts two different things.", "how_to_choose": "One topic with good/bad sides → 反面; two different topics → に対して." },
+        { "pattern": "～に対して (target, B)", "difference": "Target usage: 先生に対して失礼だ (towards).", "how_to_choose": "Is there an A-vs-B contrast? → contrast usage." }
+      ],
+      "common_traps": ["Missing の after a clause (×行くに対して)"],
+      "examples": [
+        { "japanese": "きのう^は大阪{おおさか}で^は大雨{おおあめ}だったのに対{たい}して、東京{とうきょう}^はいい天気{てんき}だった。", "english": "Yesterday Osaka had heavy rain, whereas Tokyo had nice weather.", "note": "Two places contrasted." },
+        { "japanese": "外遊{そとあそ}びが好{す}きな長男{ちょうなん}に対{たい}して、次男{じなん}^は家{いえ}の中{なか}で遊{あそ}ぶことが好{す}きだ。", "english": "Unlike the eldest son who loves playing outside, the second son likes playing indoors.", "note": "Noun + に対して, two people contrasted." }
+      ],
+      "more_examples": [
+        { "japanese": "うちの課{か}^は女性{じょせい}がよく飲{の}みに行{い}くのに対{たい}して、男性{だんせい}^は皆{みな}まっすぐ家{いえ}に帰{かえ}る。", "english": "In our section, the women often go drinking, while the men all go straight home." }
+      ],
+      "book_explanation": "「～と対比的に…。」Used to clearly show the difference between two things (～ and …).",
+      "one_line_memory_trick": "に対して = A ⟷ B face-off."
+    },
+    {
+      "id": "hanmen",
+      "pattern": "～反面…",
+      "reading": "はんめん",
+      "meaning": "While ~, on the other hand …",
+      "category": "Contrast",
+      "formality": "neutral / written",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + 反面", "example": "増えた反面" },
+        { "type": "い-adj", "form": "普通形 + 反面", "example": "面白いことが多い反面" },
+        { "type": "な-adj", "form": "～な / ～である + 反面", "example": "気楽な反面" },
+        { "type": "Noun", "form": "Noun + である + 反面", "example": "便利である反面" }
+      ],
+      "connection_notes": "な-adj: ～な反面 / ～である反面. Noun: ～である反面.",
+      "can_be_used_for": ["Two opposite sides of the same thing (merit/demerit)"],
+      "cannot_be_used_for": ["Contrasting two different subjects (use に対して)"],
+      "exam_pinpoint": "ONE topic with a good side and a bad side (面白い↔ストレス, 気楽↔不便) → 反面",
+      "clue_words": ["～が多い反面", "便利", "不便", "ストレス", "メリット / デメリット"],
+      "confusable_with": [
+        { "pattern": "～に対して", "difference": "に対して = two different things.", "how_to_choose": "Same subject? → 反面." },
+        { "pattern": "～一方(で)", "difference": "一方で also = 'at the same time'; with opposite sides it means about the same as 反面.", "how_to_choose": "Two simultaneous actions (not opposite) → 一方で." }
+      ],
+      "common_traps": ["Using 反面 for two different people/places"],
+      "examples": [
+        { "japanese": "都会{とかい}の生活{せいかつ}^は面白{おもしろ}いことが多{おお}い反面{はんめん}、ストレスも多{おお}い。", "english": "City life has lots of fun things, but also lots of stress.", "note": "One topic, two sides." },
+        { "japanese": "一人旅{ひとりたび}^は気楽{きらく}な反面{はんめん}、何{なん}でも一人{ひとり}でやらなければならないので、不便{ふべん}だ。", "english": "Traveling alone is carefree, but it's inconvenient since you must do everything yourself.", "note": "な-adj + な + 反面." }
+      ],
+      "more_examples": [
+        { "japanese": "仕事{しごと}を辞{や}めて自由{じゆう}な時間{じかん}が増{ふ}えた反面{はんめん}、緊張感{きんちょうかん}もなくなってしまった。", "english": "Quitting my job gave me more free time, but I also lost my sense of tension." }
+      ],
+      "book_explanation": "「～だが、逆に…の面もある。」Used to present both contrasting sides of one thing.",
+      "one_line_memory_trick": "反面 = flip the same coin."
+    },
+    {
+      "id": "ippou",
+      "pattern": "～一方(で)…",
+      "reading": "いっぽう(で)",
+      "meaning": "While ~, at the same time … / on the other hand …",
+      "category": "Contrast",
+      "formality": "neutral / written",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + 一方(で)", "example": "意見を言う一方で" },
+        { "type": "い-adj", "form": "普通形 + 一方(で)", "example": "うれしかった一方で" },
+        { "type": "な-adj", "form": "～な / ～である + 一方(で)", "example": "便利な一方で" },
+        { "type": "Noun", "form": "Noun + である + 一方(で)", "example": "" }
+      ],
+      "connection_notes": "Clause + 一方(で). For opposite matters it ≈ 反面.",
+      "can_be_used_for": ["Doing two things in parallel", "Contrasting sides (≈ 反面)", "Contrasting groups (～人がいる一方、…人も多い)"],
+      "cannot_be_used_for": ["Cause → result"],
+      "exam_pinpoint": "Two parallel roles/actions at the same time (意見を言う一方で、話もよく聞く) → 一方で",
+      "clue_words": ["同時に", "～も", "しっかり", "一方、"],
+      "confusable_with": [
+        { "pattern": "～反面", "difference": "反面 only opposite sides; 一方で also parallel actions.", "how_to_choose": "Two duties at once → 一方で." }
+      ],
+      "common_traps": ["Confusing 一方だ (ever-increasing trend, ～一方だ) with 一方で"],
+      "examples": [
+        { "japanese": "会議{かいぎ}で^は自分{じぶん}の意見{いけん}を言{い}う一方{いっぽう}で、ほかの人{ひと}の話{はなし}もよく聞{き}いてください。", "english": "In meetings, state your own opinion while also listening carefully to others.", "note": "Two parallel actions." },
+        { "japanese": "子{こ}どもが生{う}まれてうれしかった一方{いっぽう}で、重{おも}い責任{せきにん}も感{かん}じた。", "english": "I was happy my child was born, but at the same time felt a heavy responsibility.", "note": "Opposite feelings ≈ 反面." }
+      ],
+      "more_examples": [
+        { "japanese": "教授{きょうじゅ}^は新{あたら}しい研究{けんきゅう}に取{と}り組{く}む一方{いっぽう}で、しっかり学生{がくせい}の世話{せわ}もしなければならない。", "english": "The professor must take on new research while also properly looking after students." },
+        { "japanese": "世{よ}の中{なか}に^は人{ひと}と話{はな}すことが好{す}きな人{ひと}がいる一方{いっぽう}、それが苦手{にがて}な人{ひと}も多{おお}い。", "english": "Some people love talking with others, while many find it hard." }
+      ],
+      "book_explanation": "「～だが、同時に、別の面で…。」When contrasting (③④) it is roughly the same as 反面.",
+      "one_line_memory_trick": "一方で = one hand does A, the other hand does B."
+    },
+    {
+      "id": "toiuyori",
+      "pattern": "～というより…",
+      "reading": "というより",
+      "meaning": "Rather than ~, (it's more accurate to say) …",
+      "category": "Contrast",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + というより", "example": "歩くというより走る" },
+        { "type": "い-adj", "form": "普通形 + というより", "example": "寒いというより痛い" },
+        { "type": "な-adj", "form": "～(だ) + というより", "example": "静かというより寂しい" },
+        { "type": "Noun", "form": "Noun(だ) + というより", "example": "友だちというより" }
+      ],
+      "connection_notes": "Attaches to the word being compared as an expression. A more appropriate expression follows.",
+      "can_be_used_for": ["Correcting to a more accurate description", "Rephrasing what someone said"],
+      "cannot_be_used_for": ["Simple comparison of quantity/size (use より)"],
+      "exam_pinpoint": "Speaker replaces one description with a MORE ACCURATE word (友だち→競争相手, 歩く→走る, 頼まれた→命令された) → というより",
+      "clue_words": ["いや", "～という感じだ", "むしろ", "～んだよ"],
+      "confusable_with": [
+        { "pattern": "～ではなく", "difference": "ではなく completely denies A; というより says A is not quite the right word.", "how_to_choose": "Partly true but a better word exists → というより. Completely wrong → ではなく." },
+        { "pattern": "～より", "difference": "より compares degree of two things.", "how_to_choose": "Comparing expressions (not things) → というより." }
+      ],
+      "common_traps": ["Choosing ではなく when A is partly true"],
+      "examples": [
+        { "japanese": "ぼくと彼{かれ}が友{とも}だち？いや、ぼくたち^は友{とも}だちというよりいい競争相手{きょうそうあいて}なんだよ。", "english": "Him and me friends? No, we're more like good rivals than friends.", "note": "More accurate word: 競争相手." },
+        { "japanese": "美知子{みちこ}^は歩{ある}くのが速{はや}い。歩{ある}くというより走{はし}るという感{かん}じだ。", "english": "Michiko walks fast—it's more like running than walking.", "note": "Rephrasing to a better description." }
+      ],
+      "more_examples": [
+        { "japanese": "A「へえ、この絵{え}、社長{しゃちょう}に頼{たの}まれてかいたんですか。」B「頼{たの}まれて、というより命令{めいれい}されたんだよ。」", "english": "A: Oh, you painted this because the president asked? B: Asked? More like ordered." }
+      ],
+      "book_explanation": "「～という言い方より…という言い方の方が適切だ。」Shows a more appropriate expression (…) than ～.",
+      "one_line_memory_trick": "というより = 'Well, a better word is…'"
+    },
+    {
+      "id": "kawarini",
+      "pattern": "～かわりに…",
+      "reading": "かわりに",
+      "meaning": "(1) On the other hand / in exchange for ~ (2) Instead of ~",
+      "category": "Contrast",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + かわりに", "example": "教えてもらっているかわりに" },
+        { "type": "い-adj", "form": "普通形 + かわりに", "example": "多いかわりに" },
+        { "type": "な-adj", "form": "～な + かわりに", "example": "自由なかわりに" },
+        { "type": "Noun", "form": "Noun + の + かわりに", "example": "父のかわりに" }
+      ],
+      "connection_notes": "Verbs/adj in plain form; な-adj + な; Noun + の.",
+      "can_be_used_for": ["Plus and minus of equal weight (①②)", "Exchange / compensation (③)", "Doing something different instead of the usual (④)"],
+      "cannot_be_used_for": ["Simple contrast of two separate subjects"],
+      "exam_pinpoint": "A trade-off of equal weight or 'in return' (教えてもらう↔手伝う) or 'instead of the usual' → かわりに",
+      "clue_words": ["その分", "お礼に", "いつものように", "今度", "手伝う"],
+      "confusable_with": [
+        { "pattern": "～反面", "difference": "反面 just shows two sides; かわりに implies balance/exchange.", "how_to_choose": "Exchange or substitution → かわりに." }
+      ],
+      "common_traps": ["Noun + かわりに without の"],
+      "examples": [
+        { "japanese": "フリーの仕事{しごと}^は自由{じゆう}な時間{じかん}が多{おお}いかわりに、お金{かね}のことがいつも心配{しんぱい}だ。", "english": "Freelance work gives lots of free time, but in exchange money is always a worry.", "note": "Plus and minus balance out." },
+        { "japanese": "今度{こんど}の正月{しょうがつ}^はいつものようにふるさとに帰{かえ}るかわりに、両親{りょうしん}と海外旅行{かいがいりょこう}をしたい。", "english": "This New Year, instead of going home as usual, I want to travel abroad with my parents.", "note": "Instead of the usual action." }
+      ],
+      "more_examples": [
+        { "japanese": "会長{かいちょう}の山田{やまだ}さん^は、実行力{じっこうりょく}があるかわりに、深{ふか}く考{かんが}えることはしない。", "english": "Chairman Yamada has the drive to get things done, but doesn't think deeply." },
+        { "japanese": "リーさんに英語{えいご}を教{おし}えてもらっているかわりに、リーさんの仕事{しごと}を手伝{てつだ}っている。", "english": "In return for Lee teaching me English, I help with Lee's work." }
+      ],
+      "book_explanation": "「～ということがあるが、反対に、それと同じ程度の…ということもある。」/「通常している・通常するはずの～をしないで、それと同じ程度の…をする。」",
+      "one_line_memory_trick": "かわりに = a fair trade."
+    }
+  ]
+}

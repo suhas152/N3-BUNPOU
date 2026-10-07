@@ -1,0 +1,169 @@
+{
+  "chapter": { "id": "p1-05", "part": "第1部 文の文法1", "no": "5課", "title": "～だから", "title_en": "Reason / cause", "book_pages": "30-31" },
+  "patterns": [
+    {
+      "id": "tame-reason",
+      "pattern": "～ためだ / ～ため(に)… (reason)",
+      "reading": "ためだ / ために",
+      "meaning": "Because of ~ / due to ~",
+      "category": "Reason",
+      "formality": "formal",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + ため(に)", "example": "見直しをしなかったため" },
+        { "type": "い-adj", "form": "普通形 + ため(に)", "example": "寒いため" },
+        { "type": "な-adj", "form": "～な / ～である + ため(に)", "example": "不便なため" },
+        { "type": "Noun", "form": "Noun + の / である + ため(に)", "example": "出張のため" }
+      ],
+      "connection_notes": "Noun + の + ため; な-adj + な + ため. Slightly formal/stiff.",
+      "can_be_used_for": ["Cause → result (objective)", "Polite explanations (出張のため欠席します)"],
+      "cannot_be_used_for": ["Speaker's hope / intention in the second half", "Request / command / invitation (働きかけ)"],
+      "exam_pinpoint": "Formal objective cause → result with NO request/will in the second half → ため(に)",
+      "clue_words": ["～のは…ためだ", "欠席", "中止", "遅れ", "～なければならない"],
+      "confusable_with": [
+        { "pattern": "～ために (purpose)", "difference": "Purpose ために takes a volitional verb dictionary form (行くために); reason ために often follows past/negative/state.", "how_to_choose": "Was it a cause (past fact)? → reason." },
+        { "pattern": "～から / ～ので", "difference": "から can be followed by requests; ため cannot.", "how_to_choose": "Second half a request → から/ので." }
+      ],
+      "common_traps": ["Option ending in ～てください / ～ましょう after ため is wrong"],
+      "examples": [
+        { "japanese": "報告書{ほうこくしょ}にミスが多{おお}かったの^は、よく見直{みなお}しをしなかったためだろう。", "english": "The many mistakes in the report were probably because it wasn't checked carefully.", "note": "～のは…ためだ explains a cause." },
+        { "japanese": "出張{しゅっちょう}のため、明日{あす}の会議{かいぎ}^は欠席{けっせき}させていただきます。", "english": "Due to a business trip, I will be absent from tomorrow's meeting.", "note": "Noun + の + ため, formal." }
+      ],
+      "more_examples": [
+        { "japanese": "この村{むら}に^は医者{いしゃ}がいないために、病気{びょうき}のとき^はとなりの町{まち}まで行{い}かなければならない。", "english": "Because there's no doctor in this village, when sick you must go to the next town." }
+      ],
+      "book_explanation": "「～が原因だ・～が原因で…という結果になる。」… normally isn't a hope, intention, or request to others. Slightly formal.",
+      "one_line_memory_trick": "ため(reason) = a report-style 'because'."
+    },
+    {
+      "id": "niyotte-cause",
+      "pattern": "～によって… / ～による (cause・means)",
+      "reading": "によって / による",
+      "meaning": "A: due to ~ (cause) / B: by means of ~",
+      "category": "Reason",
+      "formality": "formal",
+      "formation": [
+        { "type": "Verb", "form": "～ことによって", "example": "学ぶことによって" },
+        { "type": "い-adj", "form": "—", "example": "" },
+        { "type": "な-adj", "form": "—", "example": "" },
+        { "type": "Noun", "form": "Noun + によって / Noun + による + Noun", "example": "材料不足によって・クレジットカードによる支払い" }
+      ],
+      "connection_notes": "による modifies a noun: Noun + による + Noun.",
+      "can_be_used_for": ["A: cause → result that happens", "B: means/method"],
+      "cannot_be_used_for": ["A: states in the second half", "Hope / intention / request in the second half"],
+      "exam_pinpoint": "A cause noun (材料不足・ウイルス) leading to an event, or a means (～ことによって…できる) in stiff style → によって / による",
+      "clue_words": ["不足", "ウイルス", "事故", "地震", "～ことによって", "方法"],
+      "confusable_with": [
+        { "pattern": "～によって (depending on)", "difference": "'Depending on' goes with 違う/さまざま.", "how_to_choose": "Variety word → depending on." },
+        { "pattern": "～ために", "difference": "Both cause; によって is more written and attaches mostly to nouns.", "how_to_choose": "Noun + による + Noun → による." }
+      ],
+      "common_traps": ["Using によって before a request"],
+      "examples": [
+        { "japanese": "うちの工場{こうじょう}で^は、材料不足{ざいりょうぶそく}によってたたみの生産{せいさん}^はもうできなくなった。", "english": "At our factory, due to a shortage of materials, tatami production is no longer possible.", "note": "A: cause → result." },
+        { "japanese": "外国語{がいこくご}を学{まな}ぶことによってその国{くに}の人{ひと}たちの考{かんが}え方{かた}も知{し}ることができる。", "english": "By learning a foreign language, you can also learn how its people think.", "note": "B: means/method." }
+      ],
+      "more_examples": [
+        { "japanese": "今年{ことし}のインフルエンザ^は、今{いま}までにない型{かた}のウイルスによるものである。", "english": "This year's flu is caused by a new type of virus." },
+        { "japanese": "クレジットカードによるお支払{しはら}いを希望{きぼう}される方{かた}^は、次{つぎ}の注意{ちゅうい}をお読{よ}みください。", "english": "Those wishing to pay by credit card, please read the following notes." }
+      ],
+      "book_explanation": "A: 「～が原因で…という結果が起こる。」No states, hope, intention or requests in … ; slightly formal. B: 「～という手段で…する。」",
+      "one_line_memory_trick": "によって = 'by' (cause or tool) in newspaper style."
+    },
+    {
+      "id": "kara-kotokara",
+      "pattern": "～から… / ～ことから…",
+      "reading": "から / ことから",
+      "meaning": "From/because of (the fact that) ~, … resulted / I concluded …",
+      "category": "Reason",
+      "formality": "neutral / written",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + ことから", "example": "となりの席になったことから" },
+        { "type": "い-adj", "form": "普通形 + ことから", "example": "" },
+        { "type": "な-adj", "form": "～な / ～である + ことから", "example": "" },
+        { "type": "Noun", "form": "Noun + から / Noun である + ことから", "example": "誤解から" }
+      ],
+      "connection_notes": "Noun + から (small cause → result). Clause + ことから (fact → result / judgment).",
+      "can_be_used_for": ["A fact developing into a result", "Basis for a judgment (～とすぐにわかった)"],
+      "cannot_be_used_for": ["Hope / intention / request in the second half"],
+      "exam_pinpoint": "A small fact/clue that led to a result or conclusion (誤解から・似ていることから～とわかった) → から / ことから",
+      "clue_words": ["わずかな", "～とわかった", "～と呼ばれる", "～ようになった", "誤解"],
+      "confusable_with": [
+        { "pattern": "～ので", "difference": "ので is a general reason; ことから stresses the fact used as evidence/origin.", "how_to_choose": "Fact → conclusion/naming → ことから." }
+      ],
+      "common_traps": ["Request/will after ことから"],
+      "examples": [
+        { "japanese": "わずかな誤解{ごかい}から友{とも}だちとの関係{かんけい}が悪{わる}くなってしまった。", "english": "Because of a small misunderstanding, my relationship with my friend went bad.", "note": "Noun + から: small cause develops into a result." },
+        { "japanese": "顔{かお}がよく似{に}ていることから、二人{ふたり}^は親子{おやこ}だとすぐにわかった。", "english": "Since their faces looked so alike, I knew right away they were parent and child.", "note": "Fact → judgment (わかった)." }
+      ],
+      "more_examples": [
+        { "japanese": "日本語{にほんご}の授業{じゅぎょう}でとなりの席{せき}になったことから、わたしたち^は親{した}しくなった。", "english": "Because we sat next to each other in Japanese class, we became close." }
+      ],
+      "book_explanation": "「～という事実が原因で…という結果に発展する・…と判断する。」No hope/intention/requests in ….",
+      "one_line_memory_trick": "ことから = 'from that clue, it followed…'"
+    },
+    {
+      "id": "okage-sei",
+      "pattern": "～おかげだ / ～おかげで… / ～せいだ / ～せいで…",
+      "reading": "おかげ / せい",
+      "meaning": "Thanks to ~ (good result) / because of ~ (bad result, blame)",
+      "category": "Reason",
+      "formality": "neutral",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + おかげで / せいで", "example": "続いたおかげで" },
+        { "type": "い-adj", "form": "普通形 + おかげで / せいで", "example": "忙しかったせいで" },
+        { "type": "な-adj", "form": "～な + おかげで / せいで", "example": "便利なおかげで" },
+        { "type": "Noun", "form": "Noun + の + おかげで / せいで", "example": "先生のおかげ" }
+      ],
+      "connection_notes": "Noun + の. な-adj + な.",
+      "can_be_used_for": ["おかげ: good result, gratitude", "せい: bad result, blame", "Ironic おかげで for bad results"],
+      "cannot_be_used_for": ["Hope / intention / request in the second half"],
+      "exam_pinpoint": "Good result + thanks (ありがとう・早く終わった) → おかげ / bad result + blame (疲れている・遅れた) → せい",
+      "clue_words": ["ありがとう", "助かった", "疲れている", "失敗", "遅れた", "～てしまった"],
+      "confusable_with": [
+        { "pattern": "～ため(に)", "difference": "ため is neutral and formal; おかげ/せい carry feeling (gratitude/blame).", "how_to_choose": "Is there gratitude or blame? → おかげ/せい." }
+      ],
+      "common_traps": ["せい with a good result", "おかげ followed by request"],
+      "examples": [
+        { "japanese": "いい会社{かいしゃ}に就職{しゅうしょく}が決{き}まったの^は先生{せんせい}のおかげです。ありがとうございました。", "english": "It's thanks to you that I got a job at a good company. Thank you.", "note": "Good result + gratitude." },
+        { "japanese": "最近{さいきん}忙{いそが}しかったせいで、かなり疲{つか}れている。", "english": "Because I've been busy lately, I'm pretty tired.", "note": "Bad result → せいで." }
+      ],
+      "more_examples": [
+        { "japanese": "天気{てんき}のいい日{ひ}が続{つづ}いたおかげで、工事{こうじ}が早{はや}く終{お}わった。", "english": "Thanks to a run of good weather, construction finished early." }
+      ],
+      "book_explanation": "「～の影響で…といういい結果になる(おかげだ)/よくない結果になる(せいだ)。」No hope/intention/requests in ….",
+      "one_line_memory_trick": "おかげ = bow 🙇 ; せい = point the finger 👉"
+    },
+    {
+      "id": "nodakara",
+      "pattern": "～のだから…",
+      "reading": "のだから / んだから",
+      "meaning": "Since (it's a known fact that) ~, naturally …",
+      "category": "Reason",
+      "formality": "neutral (んだから = casual)",
+      "formation": [
+        { "type": "Verb", "form": "普通形 + のだから", "example": "けがをしているんだから" },
+        { "type": "い-adj", "form": "普通形 + のだから", "example": "広いのだから" },
+        { "type": "な-adj", "form": "～な + のだから", "example": "元気なのだから" },
+        { "type": "Noun", "form": "Noun + な + のだから", "example": "学生なのだから" }
+      ],
+      "connection_notes": "な-adj / Noun + な + のだから, NOT だ (×学生だのだから).",
+      "can_be_used_for": ["Speaker's judgment (当然だ)", "Advice / prohibition (無理をしてはいけない)", "Request (笑わないでください)", "Will / hope"],
+      "cannot_be_used_for": ["Neutral new information the listener doesn't know", "Objective report of cause"],
+      "exam_pinpoint": "First half is a fact the listener already knows; second half is the speaker's judgment/advice/request → のだから",
+      "clue_words": ["当然だ", "～てはいけない", "～なさい", "～てください", "～はずだ", "せっかく"],
+      "confusable_with": [
+        { "pattern": "～から", "difference": "から is neutral; のだから pushes 'you know this, so obviously…'.", "how_to_choose": "Shared known fact + strong judgment → のだから." },
+        { "pattern": "～ため(に)", "difference": "ため cannot take requests; のだから typically does.", "how_to_choose": "Request/advice at end → のだから." }
+      ],
+      "common_traps": ["Noun/na-adj + だのだから is wrong (needs な)"],
+      "examples": [
+        { "japanese": "世界{せかい}^は広{ひろ}いのだから、いろいろな習慣{しゅうかん}があるの^は当然{とうぜん}だ。", "english": "Since the world is big, it's natural there are various customs.", "note": "Known fact → speaker's judgment (当然)." },
+        { "japanese": "あなた^はけがをしているんだから、無理{むり}をして^はいけませんよ。", "english": "You're injured, so you mustn't push yourself.", "note": "Fact the listener knows → advice/prohibition." }
+      ],
+      "more_examples": [
+        { "japanese": "笑{わら}わないでください。真剣{しんけん}にやっているんですから。", "english": "Please don't laugh. I'm doing this seriously." }
+      ],
+      "book_explanation": "「～が事実だから、当然…。」～ is a fact the listener should know; … is the speaker's judgment, hope, intention, or a request.",
+      "one_line_memory_trick": "のだから = 'You KNOW ~, so obviously…'"
+    }
+  ]
+}
